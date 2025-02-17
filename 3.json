@@ -1,0 +1,4346 @@
+[
+    {
+        "Document ID": "0000559",
+        "Focus": "keratoderma with woolly hair"
+    },
+    {
+        "Document ID": "0000565",
+        "Focus": "Knobloch syndrome"
+    },
+    {
+        "Document ID": "0000203",
+        "Focus": "coloboma"
+    },
+    {
+        "Document ID": "0000571",
+        "Focus": "lacrimo-auriculo-dento-digital syndrome"
+    },
+    {
+        "Document ID": "0000940",
+        "Focus": "spinocerebellar ataxia type 3"
+    },
+    {
+        "Document ID": "0000798",
+        "Focus": "pilomatricoma"
+    },
+    {
+        "Document ID": "0000954",
+        "Focus": "Stickler syndrome"
+    },
+    {
+        "Document ID": "0000968",
+        "Focus": "T-cell immunodeficiency, congenital alopecia, and nail dystrophy"
+    },
+    {
+        "Document ID": "0000983",
+        "Focus": "Timothy syndrome"
+    },
+    {
+        "Document ID": "0000997",
+        "Focus": "trisomy 18"
+    },
+    {
+        "Document ID": "0000029",
+        "Focus": "Aicardi-Goutieres syndrome"
+    },
+    {
+        "Document ID": "0000001",
+        "Focus": "Aarskog-Scott syndrome"
+    },
+    {
+        "Document ID": "0000767",
+        "Focus": "Pallister-Hall syndrome"
+    },
+    {
+        "Document ID": "0000773",
+        "Focus": "Parkinson disease"
+    },
+    {
+        "Document ID": "0000015",
+        "Focus": "ADCY5-related dyskinesia"
+    },
+    {
+        "Document ID": "0000834",
+        "Focus": "proopiomelanocortin deficiency"
+    },
+    {
+        "Document ID": "0000820",
+        "Focus": "primary ciliary dyskinesia"
+    },
+    {
+        "Document ID": "0000808",
+        "Focus": "Pompe disease"
+    },
+    {
+        "Document ID": "0000149",
+        "Focus": "capillary malformation-arteriovenous malformation syndrome"
+    },
+    {
+        "Document ID": "0000175",
+        "Focus": "Chediak-Higashi syndrome"
+    },
+    {
+        "Document ID": "0000613",
+        "Focus": "Mabry syndrome"
+    },
+    {
+        "Document ID": "0000607",
+        "Focus": "Lujan syndrome"
+    },
+    {
+        "Document ID": "0000161",
+        "Focus": "caudal regression syndrome"
+    },
+    {
+        "Document ID": "0000388",
+        "Focus": "Friedreich ataxia"
+    },
+    {
+        "Document ID": "0001096",
+        "Focus": "47,XYY syndrome"
+    },
+    {
+        "Document ID": "0001082",
+        "Focus": "2-methylbutyryl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0001055",
+        "Focus": "X-linked infantile spasm syndrome"
+    },
+    {
+        "Document ID": "0001041",
+        "Focus": "Wolff-Parkinson-White syndrome"
+    },
+    {
+        "Document ID": "0000439",
+        "Focus": "Greig cephalopolysyndactyly syndrome"
+    },
+    {
+        "Document ID": "0000411",
+        "Focus": "globozoospermia"
+    },
+    {
+        "Document ID": "0001069",
+        "Focus": "Zellweger spectrum disorder"
+    },
+    {
+        "Document ID": "0000377",
+        "Focus": "fish-eye disease"
+    },
+    {
+        "Document ID": "0000363",
+        "Focus": "familial paroxysmal kinesigenic dyskinesia"
+    },
+    {
+        "Document ID": "0000405",
+        "Focus": "giant axonal neuropathy"
+    },
+    {
+        "Document ID": "0000362",
+        "Focus": "familial osteochondritis dissecans"
+    },
+    {
+        "Document ID": "0000404",
+        "Focus": "Ghosal hematodiaphyseal dysplasia"
+    },
+    {
+        "Document ID": "0000410",
+        "Focus": "Glanzmann thrombasthenia"
+    },
+    {
+        "Document ID": "0000376",
+        "Focus": "fibronectin glomerulopathy"
+    },
+    {
+        "Document ID": "0001068",
+        "Focus": "ZAP70-related severe combined immunodeficiency"
+    },
+    {
+        "Document ID": "0001040",
+        "Focus": "Wolf-Hirschhorn syndrome"
+    },
+    {
+        "Document ID": "0000438",
+        "Focus": "Greenberg dysplasia"
+    },
+    {
+        "Document ID": "0001054",
+        "Focus": "X-linked infantile nystagmus"
+    },
+    {
+        "Document ID": "0001083",
+        "Focus": "21-hydroxylase deficiency"
+    },
+    {
+        "Document ID": "0001097",
+        "Focus": "48,XXYY syndrome"
+    },
+    {
+        "Document ID": "0000389",
+        "Focus": "frontometaphyseal dysplasia"
+    },
+    {
+        "Document ID": "0000606",
+        "Focus": "Lowe syndrome"
+    },
+    {
+        "Document ID": "0000160",
+        "Focus": "CATSPER1-related nonsyndromic male infertility"
+    },
+    {
+        "Document ID": "0000174",
+        "Focus": "CHARGE syndrome"
+    },
+    {
+        "Document ID": "0000612",
+        "Focus": "lysinuric protein intolerance"
+    },
+    {
+        "Document ID": "0000148",
+        "Focus": "cap myopathy"
+    },
+    {
+        "Document ID": "0000809",
+        "Focus": "pontocerebellar hypoplasia"
+    },
+    {
+        "Document ID": "0000821",
+        "Focus": "primary hyperoxaluria"
+    },
+    {
+        "Document ID": "0000835",
+        "Focus": "propionic acidemia"
+    },
+    {
+        "Document ID": "0000772",
+        "Focus": "Parkes Weber syndrome"
+    },
+    {
+        "Document ID": "0000014",
+        "Focus": "Adams-Oliver syndrome"
+    },
+    {
+        "Document ID": "0000766",
+        "Focus": "Paget disease of bone"
+    },
+    {
+        "Document ID": "0000996",
+        "Focus": "trisomy 13"
+    },
+    {
+        "Document ID": "0000028",
+        "Focus": "Aicardi syndrome"
+    },
+    {
+        "Document ID": "0000982",
+        "Focus": "Tietz syndrome"
+    },
+    {
+        "Document ID": "0000969",
+        "Focus": "Tangier disease"
+    },
+    {
+        "Document ID": "0000955",
+        "Focus": "STING-associated vasculopathy with onset in infancy"
+    },
+    {
+        "Document ID": "0000799",
+        "Focus": "Pitt-Hopkins syndrome"
+    },
+    {
+        "Document ID": "0000941",
+        "Focus": "spinocerebellar ataxia type 36"
+    },
+    {
+        "Document ID": "0000570",
+        "Focus": "L1 syndrome"
+    },
+    {
+        "Document ID": "0000564",
+        "Focus": "Kniest dysplasia"
+    },
+    {
+        "Document ID": "0000202",
+        "Focus": "collagen VI-related myopathy"
+    },
+    {
+        "Document ID": "0000558",
+        "Focus": "keratitis-ichthyosis-deafness syndrome"
+    },
+    {
+        "Document ID": "0000599",
+        "Focus": "Leydig cell hypoplasia"
+    },
+    {
+        "Document ID": "0000228",
+        "Focus": "congenital hepatic fibrosis"
+    },
+    {
+        "Document ID": "0000572",
+        "Focus": "lactate dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000214",
+        "Focus": "congenital afibrinogenemia"
+    },
+    {
+        "Document ID": "0000200",
+        "Focus": "cold-induced sweating syndrome"
+    },
+    {
+        "Document ID": "0000566",
+        "Focus": "Koolen-de Vries syndrome"
+    },
+    {
+        "Document ID": "0000957",
+        "Focus": "Stve-Wiedemann syndrome"
+    },
+    {
+        "Document ID": "0000943",
+        "Focus": "spondylocarpotarsal synostosis syndrome"
+    },
+    {
+        "Document ID": "0000994",
+        "Focus": "triple A syndrome"
+    },
+    {
+        "Document ID": "0000758",
+        "Focus": "osteoglophonic dysplasia"
+    },
+    {
+        "Document ID": "0000980",
+        "Focus": "thrombotic thrombocytopenic purpura"
+    },
+    {
+        "Document ID": "0000016",
+        "Focus": "adenine phosphoribosyltransferase deficiency"
+    },
+    {
+        "Document ID": "0000770",
+        "Focus": "pantothenate kinase-associated neurodegeneration"
+    },
+    {
+        "Document ID": "0000764",
+        "Focus": "ovarian cancer"
+    },
+    {
+        "Document ID": "0000002",
+        "Focus": "abdominal wall defect"
+    },
+    {
+        "Document ID": "0000823",
+        "Focus": "primary myelofibrosis"
+    },
+    {
+        "Document ID": "0000837",
+        "Focus": "protein C deficiency"
+    },
+    {
+        "Document ID": "0000189",
+        "Focus": "citrullinemia"
+    },
+    {
+        "Document ID": "0000638",
+        "Focus": "medullary cystic kidney disease type 1"
+    },
+    {
+        "Document ID": "0000162",
+        "Focus": "CAV3-related distal myopathy"
+    },
+    {
+        "Document ID": "0000604",
+        "Focus": "Loeys-Dietz syndrome"
+    },
+    {
+        "Document ID": "0000610",
+        "Focus": "lymphedema-distichiasis syndrome"
+    },
+    {
+        "Document ID": "0000176",
+        "Focus": "cherubism"
+    },
+    {
+        "Document ID": "0001081",
+        "Focus": "2-hydroxyglutaric aciduria"
+    },
+    {
+        "Document ID": "0001095",
+        "Focus": "46,XX testicular disorder of sex development"
+    },
+    {
+        "Document ID": "0001042",
+        "Focus": "Wolfram syndrome"
+    },
+    {
+        "Document ID": "0001056",
+        "Focus": "X-linked intellectual disability, Siderius type"
+    },
+    {
+        "Document ID": "0000348",
+        "Focus": "familial exudative vitreoretinopathy"
+    },
+    {
+        "Document ID": "0000406",
+        "Focus": "giant congenital melanocytic nevus"
+    },
+    {
+        "Document ID": "0000360",
+        "Focus": "familial male-limited precocious puberty"
+    },
+    {
+        "Document ID": "0000374",
+        "Focus": "fibrochondrogenesis"
+    },
+    {
+        "Document ID": "0000412",
+        "Focus": "glucose phosphate isomerase deficiency"
+    },
+    {
+        "Document ID": "0000375",
+        "Focus": "fibrodysplasia ossificans progressiva"
+    },
+    {
+        "Document ID": "0000413",
+        "Focus": "glucose-6-phosphate dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000407",
+        "Focus": "Gilbert syndrome"
+    },
+    {
+        "Document ID": "0000361",
+        "Focus": "familial Mediterranean fever"
+    },
+    {
+        "Document ID": "0000349",
+        "Focus": "familial glucocorticoid deficiency"
+    },
+    {
+        "Document ID": "0001057",
+        "Focus": "X-linked juvenile retinoschisis"
+    },
+    {
+        "Document ID": "0001043",
+        "Focus": "Wolman disease"
+    },
+    {
+        "Document ID": "0001094",
+        "Focus": "3MC syndrome"
+    },
+    {
+        "Document ID": "0000611",
+        "Focus": "Lynch syndrome"
+    },
+    {
+        "Document ID": "0000177",
+        "Focus": "childhood myocerebrohepatopathy spectrum"
+    },
+    {
+        "Document ID": "0000163",
+        "Focus": "celiac disease"
+    },
+    {
+        "Document ID": "0000605",
+        "Focus": "long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000639",
+        "Focus": "Meesmann corneal dystrophy"
+    },
+    {
+        "Document ID": "0000836",
+        "Focus": "prostate cancer"
+    },
+    {
+        "Document ID": "0000188",
+        "Focus": "chylomicron retention disease"
+    },
+    {
+        "Document ID": "0000822",
+        "Focus": "primary macronodular adrenal hyperplasia"
+    },
+    {
+        "Document ID": "0000765",
+        "Focus": "pachyonychia congenita"
+    },
+    {
+        "Document ID": "0000003",
+        "Focus": "abetalipoproteinemia"
+    },
+    {
+        "Document ID": "0000771",
+        "Focus": "paramyotonia congenita"
+    },
+    {
+        "Document ID": "0000981",
+        "Focus": "tibial muscular dystrophy"
+    },
+    {
+        "Document ID": "0000759",
+        "Focus": "osteopetrosis"
+    },
+    {
+        "Document ID": "0000995",
+        "Focus": "triple X syndrome"
+    },
+    {
+        "Document ID": "0000942",
+        "Focus": "spinocerebellar ataxia type 6"
+    },
+    {
+        "Document ID": "0000956",
+        "Focus": "Stormorken syndrome"
+    },
+    {
+        "Document ID": "0000201",
+        "Focus": "Cole disease"
+    },
+    {
+        "Document ID": "0000567",
+        "Focus": "Krabbe disease"
+    },
+    {
+        "Document ID": "0000573",
+        "Focus": "lactose intolerance"
+    },
+    {
+        "Document ID": "0000215",
+        "Focus": "congenital bilateral absence of the vas deferens"
+    },
+    {
+        "Document ID": "0000229",
+        "Focus": "congenital hyperinsulinism"
+    },
+    {
+        "Document ID": "0000598",
+        "Focus": "leukoencephalopathy with vanishing white matter"
+    },
+    {
+        "Document ID": "0000588",
+        "Focus": "Leber hereditary optic neuropathy"
+    },
+    {
+        "Document ID": "0000211",
+        "Focus": "complete LCAT deficiency"
+    },
+    {
+        "Document ID": "0000577",
+        "Focus": "lamellar ichthyosis"
+    },
+    {
+        "Document ID": "0000563",
+        "Focus": "Klippel-Trenaunay syndrome"
+    },
+    {
+        "Document ID": "0000205",
+        "Focus": "combined malonic and methylmalonic aciduria"
+    },
+    {
+        "Document ID": "0000239",
+        "Focus": "congenital sucrase-isomaltase deficiency"
+    },
+    {
+        "Document ID": "0000952",
+        "Focus": "steatocystoma multiplex"
+    },
+    {
+        "Document ID": "0000946",
+        "Focus": "spondyloepimetaphyseal dysplasia, Strudwick type"
+    },
+    {
+        "Document ID": "0000775",
+        "Focus": "paroxysmal nocturnal hemoglobinuria"
+    },
+    {
+        "Document ID": "0000013",
+        "Focus": "acute promyelocytic leukemia"
+    },
+    {
+        "Document ID": "0000007",
+        "Focus": "achondroplasia"
+    },
+    {
+        "Document ID": "0000761",
+        "Focus": "otopalatodigital syndrome type 1"
+    },
+    {
+        "Document ID": "0000749",
+        "Focus": "Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant"
+    },
+    {
+        "Document ID": "0000991",
+        "Focus": "trichothiodystrophy"
+    },
+    {
+        "Document ID": "0000985",
+        "Focus": "Tourette syndrome"
+    },
+    {
+        "Document ID": "0000826",
+        "Focus": "prion disease"
+    },
+    {
+        "Document ID": "0000198",
+        "Focus": "Cohen syndrome"
+    },
+    {
+        "Document ID": "0000832",
+        "Focus": "progressive supranuclear palsy"
+    },
+    {
+        "Document ID": "0000601",
+        "Focus": "Liddle syndrome"
+    },
+    {
+        "Document ID": "0000167",
+        "Focus": "cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy"
+    },
+    {
+        "Document ID": "0000173",
+        "Focus": "Charcot-Marie-Tooth disease"
+    },
+    {
+        "Document ID": "0000615",
+        "Focus": "Maffucci syndrome"
+    },
+    {
+        "Document ID": "0000629",
+        "Focus": "maternally inherited diabetes and deafness"
+    },
+    {
+        "Document ID": "0001084",
+        "Focus": "22q11.2 deletion syndrome"
+    },
+    {
+        "Document ID": "0001090",
+        "Focus": "3-hydroxyacyl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000365",
+        "Focus": "familial pityriasis rubra pilaris"
+    },
+    {
+        "Document ID": "0000403",
+        "Focus": "genitopatellar syndrome"
+    },
+    {
+        "Document ID": "0000417",
+        "Focus": "glutaric acidemia type I"
+    },
+    {
+        "Document ID": "0000371",
+        "Focus": "fatty acid hydroxylase-associated neurodegeneration"
+    },
+    {
+        "Document ID": "0001047",
+        "Focus": "X-linked chondrodysplasia punctata 1"
+    },
+    {
+        "Document ID": "0000359",
+        "Focus": "familial lipoprotein lipase deficiency"
+    },
+    {
+        "Document ID": "0001053",
+        "Focus": "X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia"
+    },
+    {
+        "Document ID": "0001052",
+        "Focus": "X-linked hyper IgM syndrome"
+    },
+    {
+        "Document ID": "0000358",
+        "Focus": "familial isolated pituitary adenoma"
+    },
+    {
+        "Document ID": "0001046",
+        "Focus": "X-linked agammaglobulinemia"
+    },
+    {
+        "Document ID": "0000416",
+        "Focus": "glutamate formiminotransferase deficiency"
+    },
+    {
+        "Document ID": "0000370",
+        "Focus": "Farber lipogranulomatosis"
+    },
+    {
+        "Document ID": "0000364",
+        "Focus": "familial paroxysmal nonkinesigenic dyskinesia"
+    },
+    {
+        "Document ID": "0000402",
+        "Focus": "generalized arterial calcification of infancy"
+    },
+    {
+        "Document ID": "0001091",
+        "Focus": "3-M syndrome"
+    },
+    {
+        "Document ID": "0001085",
+        "Focus": "22q11.2 duplication"
+    },
+    {
+        "Document ID": "0000628",
+        "Focus": "Marinesco-Sjgren syndrome"
+    },
+    {
+        "Document ID": "0000172",
+        "Focus": "Char syndrome"
+    },
+    {
+        "Document ID": "0000600",
+        "Focus": "Li-Fraumeni syndrome"
+    },
+    {
+        "Document ID": "0000166",
+        "Focus": "cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy"
+    },
+    {
+        "Document ID": "0000833",
+        "Focus": "prolidase deficiency"
+    },
+    {
+        "Document ID": "0000827",
+        "Focus": "progressive external ophthalmoplegia"
+    },
+    {
+        "Document ID": "0000199",
+        "Focus": "COL4A1-related brain small-vessel disease"
+    },
+    {
+        "Document ID": "0000984",
+        "Focus": "TK2-related mitochondrial DNA depletion syndrome, myopathic form"
+    },
+    {
+        "Document ID": "0000990",
+        "Focus": "trichohepatoenteric syndrome"
+    },
+    {
+        "Document ID": "0000748",
+        "Focus": "Ohdo syndrome, Maat-Kievit-Brunner type"
+    },
+    {
+        "Document ID": "0000006",
+        "Focus": "achondrogenesis"
+    },
+    {
+        "Document ID": "0000760",
+        "Focus": "osteoporosis-pseudoglioma syndrome"
+    },
+    {
+        "Document ID": "0000774",
+        "Focus": "paroxysmal extreme pain disorder"
+    },
+    {
+        "Document ID": "0000012",
+        "Focus": "activated PI3K-delta syndrome"
+    },
+    {
+        "Document ID": "0000947",
+        "Focus": "spondyloepiphyseal dysplasia congenita"
+    },
+    {
+        "Document ID": "0000953",
+        "Focus": "Stevens-Johnson syndrome/toxic epidermal necrolysis"
+    },
+    {
+        "Document ID": "0000238",
+        "Focus": "congenital stromal corneal dystrophy"
+    },
+    {
+        "Document ID": "0000562",
+        "Focus": "Klippel-Feil syndrome"
+    },
+    {
+        "Document ID": "0000204",
+        "Focus": "color vision deficiency"
+    },
+    {
+        "Document ID": "0000210",
+        "Focus": "complement factor I deficiency"
+    },
+    {
+        "Document ID": "0000576",
+        "Focus": "LAMA2-related muscular dystrophy"
+    },
+    {
+        "Document ID": "0000589",
+        "Focus": "Legg-Calv-Perthes disease"
+    },
+    {
+        "Document ID": "0000206",
+        "Focus": "combined pituitary hormone deficiency"
+    },
+    {
+        "Document ID": "0000560",
+        "Focus": "Kleefstra syndrome"
+    },
+    {
+        "Document ID": "0000574",
+        "Focus": "Lafora progressive myoclonus epilepsy"
+    },
+    {
+        "Document ID": "0000212",
+        "Focus": "cone-rod dystrophy"
+    },
+    {
+        "Document ID": "0000548",
+        "Focus": "juvenile myoclonic epilepsy"
+    },
+    {
+        "Document ID": "0000979",
+        "Focus": "thrombocytopenia-absent radius syndrome"
+    },
+    {
+        "Document ID": "0000945",
+        "Focus": "spondyloenchondrodysplasia with immune dysregulation"
+    },
+    {
+        "Document ID": "0000951",
+        "Focus": "Stargardt macular degeneration"
+    },
+    {
+        "Document ID": "0000789",
+        "Focus": "Peters plus syndrome"
+    },
+    {
+        "Document ID": "0000762",
+        "Focus": "otopalatodigital syndrome type 2"
+    },
+    {
+        "Document ID": "0000004",
+        "Focus": "acatalasemia"
+    },
+    {
+        "Document ID": "0000010",
+        "Focus": "acromicric dysplasia"
+    },
+    {
+        "Document ID": "0000776",
+        "Focus": "Partington syndrome"
+    },
+    {
+        "Document ID": "0000986",
+        "Focus": "Townes-Brocks Syndrome"
+    },
+    {
+        "Document ID": "0000038",
+        "Focus": "Alpers-Huttenlocher syndrome"
+    },
+    {
+        "Document ID": "0000992",
+        "Focus": "trimethylaminuria"
+    },
+    {
+        "Document ID": "0000819",
+        "Focus": "primary carnitine deficiency"
+    },
+    {
+        "Document ID": "0000831",
+        "Focus": "progressive pseudorheumatoid dysplasia"
+    },
+    {
+        "Document ID": "0000825",
+        "Focus": "primary spontaneous pneumothorax"
+    },
+    {
+        "Document ID": "0000616",
+        "Focus": "Mainzer-Saldino syndrome"
+    },
+    {
+        "Document ID": "0000170",
+        "Focus": "cerebrotendinous xanthomatosis"
+    },
+    {
+        "Document ID": "0000164",
+        "Focus": "central core disease"
+    },
+    {
+        "Document ID": "0000602",
+        "Focus": "limb-girdle muscular dystrophy"
+    },
+    {
+        "Document ID": "0000158",
+        "Focus": "CASK-related intellectual disability"
+    },
+    {
+        "Document ID": "0001093",
+        "Focus": "3-methylglutaconyl-CoA hydratase deficiency"
+    },
+    {
+        "Document ID": "0000399",
+        "Focus": "gastrointestinal stromal tumor"
+    },
+    {
+        "Document ID": "0001087",
+        "Focus": "2q37 deletion syndrome"
+    },
+    {
+        "Document ID": "0000372",
+        "Focus": "Feingold syndrome"
+    },
+    {
+        "Document ID": "0000414",
+        "Focus": "glucose-galactose malabsorption"
+    },
+    {
+        "Document ID": "0000400",
+        "Focus": "Gaucher disease"
+    },
+    {
+        "Document ID": "0001078",
+        "Focus": "1p36 deletion syndrome"
+    },
+    {
+        "Document ID": "0000366",
+        "Focus": "familial porencephaly"
+    },
+    {
+        "Document ID": "0001050",
+        "Focus": "X-linked creatine deficiency"
+    },
+    {
+        "Document ID": "0000428",
+        "Focus": "glycogen storage disease type VII"
+    },
+    {
+        "Document ID": "0001044",
+        "Focus": "X-linked adrenal hypoplasia congenita"
+    },
+    {
+        "Document ID": "0001045",
+        "Focus": "X-linked adrenoleukodystrophy"
+    },
+    {
+        "Document ID": "0001051",
+        "Focus": "X-linked dystonia-parkinsonism"
+    },
+    {
+        "Document ID": "0000429",
+        "Focus": "GM1 gangliosidosis"
+    },
+    {
+        "Document ID": "0000401",
+        "Focus": "geleophysic dysplasia"
+    },
+    {
+        "Document ID": "0000367",
+        "Focus": "familial restrictive cardiomyopathy"
+    },
+    {
+        "Document ID": "0001079",
+        "Focus": "1q21.1 microdeletion"
+    },
+    {
+        "Document ID": "0000373",
+        "Focus": "FG syndrome"
+    },
+    {
+        "Document ID": "0000415",
+        "Focus": "GLUT1 deficiency syndrome"
+    },
+    {
+        "Document ID": "0001086",
+        "Focus": "22q13.3 deletion syndrome"
+    },
+    {
+        "Document ID": "0000398",
+        "Focus": "galactosialidosis"
+    },
+    {
+        "Document ID": "0001092",
+        "Focus": "3-methylcrotonyl-CoA carboxylase deficiency"
+    },
+    {
+        "Document ID": "0000159",
+        "Focus": "catecholaminergic polymorphic ventricular tachycardia"
+    },
+    {
+        "Document ID": "0000165",
+        "Focus": "centronuclear myopathy"
+    },
+    {
+        "Document ID": "0000603",
+        "Focus": "lissencephaly with cerebellar hypoplasia"
+    },
+    {
+        "Document ID": "0000617",
+        "Focus": "Majeed syndrome"
+    },
+    {
+        "Document ID": "0000171",
+        "Focus": "Chanarin-Dorfman syndrome"
+    },
+    {
+        "Document ID": "0000824",
+        "Focus": "primary sclerosing cholangitis"
+    },
+    {
+        "Document ID": "0000830",
+        "Focus": "progressive osseous heteroplasia"
+    },
+    {
+        "Document ID": "0000818",
+        "Focus": "PRICKLE1-related progressive myoclonus epilepsy with ataxia"
+    },
+    {
+        "Document ID": "0000993",
+        "Focus": "triosephosphate isomerase deficiency"
+    },
+    {
+        "Document ID": "0000039",
+        "Focus": "alpha thalassemia"
+    },
+    {
+        "Document ID": "0000011",
+        "Focus": "actin-accumulation myopathy"
+    },
+    {
+        "Document ID": "0000777",
+        "Focus": "PDGFRA-associated chronic eosinophilic leukemia"
+    },
+    {
+        "Document ID": "0000763",
+        "Focus": "otospondylomegaepiphyseal dysplasia"
+    },
+    {
+        "Document ID": "0000005",
+        "Focus": "aceruloplasminemia"
+    },
+    {
+        "Document ID": "0000950",
+        "Focus": "sporadic hemiplegic migraine"
+    },
+    {
+        "Document ID": "0000944",
+        "Focus": "spondylocostal dysostosis"
+    },
+    {
+        "Document ID": "0000978",
+        "Focus": "thiopurine S-methyltransferase deficiency"
+    },
+    {
+        "Document ID": "0000549",
+        "Focus": "juvenile Paget disease"
+    },
+    {
+        "Document ID": "0000575",
+        "Focus": "Laing distal myopathy"
+    },
+    {
+        "Document ID": "0000213",
+        "Focus": "congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency"
+    },
+    {
+        "Document ID": "0000207",
+        "Focus": "common variable immune deficiency"
+    },
+    {
+        "Document ID": "0000561",
+        "Focus": "Klinefelter syndrome"
+    },
+    {
+        "Document ID": "0000248",
+        "Focus": "craniofacial microsomia"
+    },
+    {
+        "Document ID": "0000260",
+        "Focus": "cyclic neutropenia"
+    },
+    {
+        "Document ID": "0000506",
+        "Focus": "hypomagnesemia with secondary hypocalcemia"
+    },
+    {
+        "Document ID": "0000512",
+        "Focus": "idiopathic pulmonary fibrosis"
+    },
+    {
+        "Document ID": "0000274",
+        "Focus": "deafness-dystonia-optic neuronopathy syndrome"
+    },
+    {
+        "Document ID": "0000923",
+        "Focus": "Sotos syndrome"
+    },
+    {
+        "Document ID": "0000089",
+        "Focus": "autoimmune polyglandular syndrome, type 1"
+    },
+    {
+        "Document ID": "0000937",
+        "Focus": "spinal muscular atrophy with respiratory distress type 1"
+    },
+    {
+        "Document ID": "0000738",
+        "Focus": "Noonan syndrome"
+    },
+    {
+        "Document ID": "0000704",
+        "Focus": "myoclonus-dystonia"
+    },
+    {
+        "Document ID": "0000062",
+        "Focus": "ankylosing spondylitis"
+    },
+    {
+        "Document ID": "0000076",
+        "Focus": "asphyxiating thoracic dystrophy"
+    },
+    {
+        "Document ID": "0000710",
+        "Focus": "myotonic dystrophy"
+    },
+    {
+        "Document ID": "0000857",
+        "Focus": "Rabson-Mendenhall syndrome"
+    },
+    {
+        "Document ID": "0000843",
+        "Focus": "pseudocholinesterase deficiency"
+    },
+    {
+        "Document ID": "0000894",
+        "Focus": "Schinzel-Giedion syndrome"
+    },
+    {
+        "Document ID": "0000880",
+        "Focus": "rippling muscle disease"
+    },
+    {
+        "Document ID": "0000658",
+        "Focus": "Miller syndrome"
+    },
+    {
+        "Document ID": "0000670",
+        "Focus": "Mowat-Wilson syndrome"
+    },
+    {
+        "Document ID": "0000116",
+        "Focus": "benign essential blepharospasm"
+    },
+    {
+        "Document ID": "0000102",
+        "Focus": "autosomal recessive primary microcephaly"
+    },
+    {
+        "Document ID": "0000664",
+        "Focus": "mitochondrial neurogastrointestinal encephalopathy disease"
+    },
+    {
+        "Document ID": "0000499",
+        "Focus": "hyperphosphatemic familial tumoral calcinosis"
+    },
+    {
+        "Document ID": "0001036",
+        "Focus": "Williams syndrome"
+    },
+    {
+        "Document ID": "0000328",
+        "Focus": "essential pentosuria"
+    },
+    {
+        "Document ID": "0001022",
+        "Focus": "Waardenburg syndrome"
+    },
+    {
+        "Document ID": "0000314",
+        "Focus": "Ellis-van Creveld syndrome"
+    },
+    {
+        "Document ID": "0000472",
+        "Focus": "hereditary sensory and autonomic neuropathy type IE"
+    },
+    {
+        "Document ID": "0000466",
+        "Focus": "hereditary multiple osteochondromas"
+    },
+    {
+        "Document ID": "0000300",
+        "Focus": "dopamine beta-hydroxylase deficiency"
+    },
+    {
+        "Document ID": "0000467",
+        "Focus": "hereditary myopathy with early respiratory failure"
+    },
+    {
+        "Document ID": "0000301",
+        "Focus": "dopamine transporter deficiency syndrome"
+    },
+    {
+        "Document ID": "0000315",
+        "Focus": "Emanuel syndrome"
+    },
+    {
+        "Document ID": "0000473",
+        "Focus": "hereditary sensory and autonomic neuropathy type II"
+    },
+    {
+        "Document ID": "0001023",
+        "Focus": "Wagner syndrome"
+    },
+    {
+        "Document ID": "0000329",
+        "Focus": "essential thrombocythemia"
+    },
+    {
+        "Document ID": "0001037",
+        "Focus": "Wilson disease"
+    },
+    {
+        "Document ID": "0000498",
+        "Focus": "hyperparathyroidism-jaw tumor syndrome"
+    },
+    {
+        "Document ID": "0000103",
+        "Focus": "autosomal recessive spastic ataxia of Charlevoix-Saguenay"
+    },
+    {
+        "Document ID": "0000665",
+        "Focus": "mitochondrial trifunctional protein deficiency"
+    },
+    {
+        "Document ID": "0000671",
+        "Focus": "moyamoya disease"
+    },
+    {
+        "Document ID": "0000117",
+        "Focus": "benign familial neonatal seizures"
+    },
+    {
+        "Document ID": "0000659",
+        "Focus": "Miller-Dieker syndrome"
+    },
+    {
+        "Document ID": "0000881",
+        "Focus": "Roberts syndrome"
+    },
+    {
+        "Document ID": "0000895",
+        "Focus": "Schwartz-Jampel syndrome"
+    },
+    {
+        "Document ID": "0000842",
+        "Focus": "pseudoachondroplasia"
+    },
+    {
+        "Document ID": "0000856",
+        "Focus": "pyruvate kinase deficiency"
+    },
+    {
+        "Document ID": "0000077",
+        "Focus": "ataxia neuropathy spectrum"
+    },
+    {
+        "Document ID": "0000711",
+        "Focus": "N-acetylglutamate synthase deficiency"
+    },
+    {
+        "Document ID": "0000705",
+        "Focus": "myofibrillar myopathy"
+    },
+    {
+        "Document ID": "0000063",
+        "Focus": "antiphospholipid syndrome"
+    },
+    {
+        "Document ID": "0000739",
+        "Focus": "Norrie disease"
+    },
+    {
+        "Document ID": "0000088",
+        "Focus": "autoimmune lymphoproliferative syndrome"
+    },
+    {
+        "Document ID": "0000936",
+        "Focus": "spinal muscular atrophy with progressive myoclonic epilepsy"
+    },
+    {
+        "Document ID": "0000922",
+        "Focus": "SOST-related sclerosing bone dysplasia"
+    },
+    {
+        "Document ID": "0000513",
+        "Focus": "Imerslund-Grsbeck syndrome"
+    },
+    {
+        "Document ID": "0000261",
+        "Focus": "cyclic vomiting syndrome"
+    },
+    {
+        "Document ID": "0000507",
+        "Focus": "hypomyelination and congenital cataract"
+    },
+    {
+        "Document ID": "0000249",
+        "Focus": "craniofacial-deafness-hand syndrome"
+    },
+    {
+        "Document ID": "0000288",
+        "Focus": "dihydropyrimidine dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000539",
+        "Focus": "isovaleric acidemia"
+    },
+    {
+        "Document ID": "0000277",
+        "Focus": "dentinogenesis imperfecta"
+    },
+    {
+        "Document ID": "0000511",
+        "Focus": "idiopathic inflammatory myopathy"
+    },
+    {
+        "Document ID": "0000505",
+        "Focus": "hypokalemic periodic paralysis"
+    },
+    {
+        "Document ID": "0000263",
+        "Focus": "cystinosis"
+    },
+    {
+        "Document ID": "0000934",
+        "Focus": "spinal and bulbar muscular atrophy"
+    },
+    {
+        "Document ID": "0000920",
+        "Focus": "Smith-Magenis syndrome"
+    },
+    {
+        "Document ID": "0000908",
+        "Focus": "sialidosis"
+    },
+    {
+        "Document ID": "0000049",
+        "Focus": "amelogenesis imperfecta"
+    },
+    {
+        "Document ID": "0000713",
+        "Focus": "Nager syndrome"
+    },
+    {
+        "Document ID": "0000075",
+        "Focus": "Asperger syndrome"
+    },
+    {
+        "Document ID": "0000061",
+        "Focus": "ankyloblepharon-ectodermal defects-cleft lip/palate syndrome"
+    },
+    {
+        "Document ID": "0000707",
+        "Focus": "myosin storage myopathy"
+    },
+    {
+        "Document ID": "0000698",
+        "Focus": "mycosis fungoides"
+    },
+    {
+        "Document ID": "0000840",
+        "Focus": "prothrombin deficiency"
+    },
+    {
+        "Document ID": "0000854",
+        "Focus": "pyruvate carboxylase deficiency"
+    },
+    {
+        "Document ID": "0000868",
+        "Focus": "Renpenning syndrome"
+    },
+    {
+        "Document ID": "0000883",
+        "Focus": "Romano-Ward syndrome"
+    },
+    {
+        "Document ID": "0000129",
+        "Focus": "Blau syndrome"
+    },
+    {
+        "Document ID": "0000897",
+        "Focus": "sensorineural deafness and male infertility"
+    },
+    {
+        "Document ID": "0000667",
+        "Focus": "Moebius syndrome"
+    },
+    {
+        "Document ID": "0000101",
+        "Focus": "autosomal recessive hypotrichosis"
+    },
+    {
+        "Document ID": "0000115",
+        "Focus": "benign chronic pemphigus"
+    },
+    {
+        "Document ID": "0000673",
+        "Focus": "Muckle-Wells syndrome"
+    },
+    {
+        "Document ID": "0001021",
+        "Focus": "von Willebrand disease"
+    },
+    {
+        "Document ID": "0000459",
+        "Focus": "hereditary folate malabsorption"
+    },
+    {
+        "Document ID": "0001035",
+        "Focus": "white sponge nevus"
+    },
+    {
+        "Document ID": "0000303",
+        "Focus": "Down syndrome"
+    },
+    {
+        "Document ID": "0000465",
+        "Focus": "hereditary leiomyomatosis and renal cell cancer"
+    },
+    {
+        "Document ID": "0000471",
+        "Focus": "hereditary paraganglioma-pheochromocytoma"
+    },
+    {
+        "Document ID": "0001009",
+        "Focus": "uromodulin-associated kidney disease"
+    },
+    {
+        "Document ID": "0000317",
+        "Focus": "enlarged parietal foramina"
+    },
+    {
+        "Document ID": "0000470",
+        "Focus": "hereditary pancreatitis"
+    },
+    {
+        "Document ID": "0000316",
+        "Focus": "Emery-Dreifuss muscular dystrophy"
+    },
+    {
+        "Document ID": "0001008",
+        "Focus": "Unverricht-Lundborg disease"
+    },
+    {
+        "Document ID": "0000302",
+        "Focus": "Dowling-Degos disease"
+    },
+    {
+        "Document ID": "0000464",
+        "Focus": "hereditary hypophosphatemic rickets"
+    },
+    {
+        "Document ID": "0001034",
+        "Focus": "Weyers acrofacial dysostosis"
+    },
+    {
+        "Document ID": "0001020",
+        "Focus": "von Hippel-Lindau syndrome"
+    },
+    {
+        "Document ID": "0000458",
+        "Focus": "hereditary diffuse gastric cancer"
+    },
+    {
+        "Document ID": "0000114",
+        "Focus": "Behet disease"
+    },
+    {
+        "Document ID": "0000672",
+        "Focus": "MPV17-related hepatocerebral mitochondrial DNA depletion syndrome"
+    },
+    {
+        "Document ID": "0000666",
+        "Focus": "Miyoshi myopathy"
+    },
+    {
+        "Document ID": "0000100",
+        "Focus": "autosomal recessive hyper-IgE syndrome"
+    },
+    {
+        "Document ID": "0000128",
+        "Focus": "bladder cancer"
+    },
+    {
+        "Document ID": "0000896",
+        "Focus": "Senior-Lken syndrome"
+    },
+    {
+        "Document ID": "0000882",
+        "Focus": "Robinow syndrome"
+    },
+    {
+        "Document ID": "0000869",
+        "Focus": "restless legs syndrome"
+    },
+    {
+        "Document ID": "0000855",
+        "Focus": "pyruvate dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000841",
+        "Focus": "prothrombin thrombophilia"
+    },
+    {
+        "Document ID": "0000699",
+        "Focus": "MyD88 deficiency"
+    },
+    {
+        "Document ID": "0000060",
+        "Focus": "aniridia"
+    },
+    {
+        "Document ID": "0000706",
+        "Focus": "myopathy with deficiency of iron-sulfur cluster assembly enzyme"
+    },
+    {
+        "Document ID": "0000712",
+        "Focus": "Naegeli-Franceschetti-Jadassohn syndrome/dermatopathia pigmentosa reticularis"
+    },
+    {
+        "Document ID": "0000074",
+        "Focus": "aspartylglucosaminuria"
+    },
+    {
+        "Document ID": "0000048",
+        "Focus": "Alzheimer disease"
+    },
+    {
+        "Document ID": "0000909",
+        "Focus": "sialuria"
+    },
+    {
+        "Document ID": "0000921",
+        "Focus": "Snyder-Robinson syndrome"
+    },
+    {
+        "Document ID": "0000935",
+        "Focus": "spinal muscular atrophy"
+    },
+    {
+        "Document ID": "0000504",
+        "Focus": "hypohidrotic ectodermal dysplasia"
+    },
+    {
+        "Document ID": "0000262",
+        "Focus": "cystic fibrosis"
+    },
+    {
+        "Document ID": "0000276",
+        "Focus": "dentatorubral-pallidoluysian atrophy"
+    },
+    {
+        "Document ID": "0000510",
+        "Focus": "ichthyosis with confetti"
+    },
+    {
+        "Document ID": "0000538",
+        "Focus": "isolated Pierre Robin sequence"
+    },
+    {
+        "Document ID": "0000289",
+        "Focus": "dilated cardiomyopathy with ataxia syndrome"
+    },
+    {
+        "Document ID": "0000299",
+        "Focus": "dopa-responsive dystonia"
+    },
+    {
+        "Document ID": "0000514",
+        "Focus": "immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome"
+    },
+    {
+        "Document ID": "0000272",
+        "Focus": "Darier disease"
+    },
+    {
+        "Document ID": "0000266",
+        "Focus": "cytochrome P450 oxidoreductase deficiency"
+    },
+    {
+        "Document ID": "0000500",
+        "Focus": "hyperprolinemia"
+    },
+    {
+        "Document ID": "0000528",
+        "Focus": "IRAK-4 deficiency"
+    },
+    {
+        "Document ID": "0000919",
+        "Focus": "Smith-Lemli-Opitz syndrome"
+    },
+    {
+        "Document ID": "0000931",
+        "Focus": "spastic paraplegia type 7"
+    },
+    {
+        "Document ID": "0000925",
+        "Focus": "spastic paraplegia type 11"
+    },
+    {
+        "Document ID": "0000070",
+        "Focus": "aromatic l-amino acid decarboxylase deficiency"
+    },
+    {
+        "Document ID": "0000716",
+        "Focus": "narcolepsy"
+    },
+    {
+        "Document ID": "0000702",
+        "Focus": "myoclonic epilepsy myopathy sensory ataxia"
+    },
+    {
+        "Document ID": "0000064",
+        "Focus": "Apert syndrome"
+    },
+    {
+        "Document ID": "0000058",
+        "Focus": "Angelman syndrome"
+    },
+    {
+        "Document ID": "0000879",
+        "Focus": "ring chromosome 20 syndrome"
+    },
+    {
+        "Document ID": "0000845",
+        "Focus": "pseudohypoaldosteronism type 2"
+    },
+    {
+        "Document ID": "0000689",
+        "Focus": "multiple epiphyseal dysplasia"
+    },
+    {
+        "Document ID": "0000851",
+        "Focus": "purine nucleoside phosphorylase deficiency"
+    },
+    {
+        "Document ID": "0000104",
+        "Focus": "Axenfeld-Rieger syndrome"
+    },
+    {
+        "Document ID": "0000662",
+        "Focus": "mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes"
+    },
+    {
+        "Document ID": "0000676",
+        "Focus": "mucolipidosis III gamma"
+    },
+    {
+        "Document ID": "0000110",
+        "Focus": "Barth syndrome"
+    },
+    {
+        "Document ID": "0000138",
+        "Focus": "Brody myopathy"
+    },
+    {
+        "Document ID": "0000886",
+        "Focus": "Rubinstein-Taybi syndrome"
+    },
+    {
+        "Document ID": "0000892",
+        "Focus": "Schimke immuno-osseous dysplasia"
+    },
+    {
+        "Document ID": "0000460",
+        "Focus": "hereditary fructose intolerance"
+    },
+    {
+        "Document ID": "0001018",
+        "Focus": "VLDLR-associated cerebellar hypoplasia"
+    },
+    {
+        "Document ID": "0000306",
+        "Focus": "Duchenne and Becker muscular dystrophy"
+    },
+    {
+        "Document ID": "0000312",
+        "Focus": "early-onset primary dystonia"
+    },
+    {
+        "Document ID": "0000474",
+        "Focus": "hereditary sensory and autonomic neuropathy type V"
+    },
+    {
+        "Document ID": "0001024",
+        "Focus": "WAGR syndrome"
+    },
+    {
+        "Document ID": "0001030",
+        "Focus": "Weaver syndrome"
+    },
+    {
+        "Document ID": "0000448",
+        "Focus": "Hashimoto thyroiditis"
+    },
+    {
+        "Document ID": "0001031",
+        "Focus": "Weill-Marchesani syndrome"
+    },
+    {
+        "Document ID": "0000449",
+        "Focus": "head and neck squamous cell carcinoma"
+    },
+    {
+        "Document ID": "0001025",
+        "Focus": "Waldenstrm macroglobulinemia"
+    },
+    {
+        "Document ID": "0000313",
+        "Focus": "Ehlers-Danlos syndrome"
+    },
+    {
+        "Document ID": "0000475",
+        "Focus": "hereditary sensory neuropathy type IA"
+    },
+    {
+        "Document ID": "0000461",
+        "Focus": "hereditary hemochromatosis"
+    },
+    {
+        "Document ID": "0000307",
+        "Focus": "dyserythropoietic anemia and thrombocytopenia"
+    },
+    {
+        "Document ID": "0001019",
+        "Focus": "Vohwinkel syndrome"
+    },
+    {
+        "Document ID": "0000893",
+        "Focus": "Schindler disease"
+    },
+    {
+        "Document ID": "0000139",
+        "Focus": "Brooke-Spiegler syndrome"
+    },
+    {
+        "Document ID": "0000887",
+        "Focus": "Russell-Silver syndrome"
+    },
+    {
+        "Document ID": "0000677",
+        "Focus": "mucolipidosis type IV"
+    },
+    {
+        "Document ID": "0000111",
+        "Focus": "Bartter syndrome"
+    },
+    {
+        "Document ID": "0000105",
+        "Focus": "Baller-Gerold syndrome"
+    },
+    {
+        "Document ID": "0000663",
+        "Focus": "mitochondrial membrane protein-associated neurodegeneration"
+    },
+    {
+        "Document ID": "0000850",
+        "Focus": "pulmonary veno-occlusive disease"
+    },
+    {
+        "Document ID": "0000688",
+        "Focus": "multiple endocrine neoplasia"
+    },
+    {
+        "Document ID": "0000844",
+        "Focus": "pseudohypoaldosteronism type 1"
+    },
+    {
+        "Document ID": "0000878",
+        "Focus": "ring chromosome 14 syndrome"
+    },
+    {
+        "Document ID": "0000059",
+        "Focus": "anhidrotic ectodermal dysplasia with immune deficiency"
+    },
+    {
+        "Document ID": "0000703",
+        "Focus": "myoclonic epilepsy with ragged-red fibers"
+    },
+    {
+        "Document ID": "0000065",
+        "Focus": "arginase deficiency"
+    },
+    {
+        "Document ID": "0000071",
+        "Focus": "arrhythmogenic right ventricular cardiomyopathy"
+    },
+    {
+        "Document ID": "0000717",
+        "Focus": "nemaline myopathy"
+    },
+    {
+        "Document ID": "0000924",
+        "Focus": "SOX2 anophthalmia syndrome"
+    },
+    {
+        "Document ID": "0000930",
+        "Focus": "spastic paraplegia type 4"
+    },
+    {
+        "Document ID": "0000918",
+        "Focus": "small fiber neuropathy"
+    },
+    {
+        "Document ID": "0000529",
+        "Focus": "iron-refractory iron deficiency anemia"
+    },
+    {
+        "Document ID": "0000267",
+        "Focus": "cytogenetically normal acute myeloid leukemia"
+    },
+    {
+        "Document ID": "0000501",
+        "Focus": "hypochondrogenesis"
+    },
+    {
+        "Document ID": "0000515",
+        "Focus": "inclusion body myopathy 2"
+    },
+    {
+        "Document ID": "0000273",
+        "Focus": "deafness and myopia syndrome"
+    },
+    {
+        "Document ID": "0000298",
+        "Focus": "DOORS syndrome"
+    },
+    {
+        "Document ID": "0000503",
+        "Focus": "hypochromic microcytic anemia with iron overload"
+    },
+    {
+        "Document ID": "0000265",
+        "Focus": "cytochrome c oxidase deficiency"
+    },
+    {
+        "Document ID": "0000271",
+        "Focus": "Danon disease"
+    },
+    {
+        "Document ID": "0000517",
+        "Focus": "incontinentia pigmenti"
+    },
+    {
+        "Document ID": "0000259",
+        "Focus": "cutis laxa"
+    },
+    {
+        "Document ID": "0000098",
+        "Focus": "autosomal recessive congenital methemoglobinemia"
+    },
+    {
+        "Document ID": "0000926",
+        "Focus": "spastic paraplegia type 15"
+    },
+    {
+        "Document ID": "0000932",
+        "Focus": "spastic paraplegia type 8"
+    },
+    {
+        "Document ID": "0000067",
+        "Focus": "argininosuccinic aciduria"
+    },
+    {
+        "Document ID": "0000701",
+        "Focus": "Myhre syndrome"
+    },
+    {
+        "Document ID": "0000715",
+        "Focus": "Nakajo-Nishimura syndrome"
+    },
+    {
+        "Document ID": "0000073",
+        "Focus": "Arts syndrome"
+    },
+    {
+        "Document ID": "0000729",
+        "Focus": "neutral lipid storage disease with myopathy"
+    },
+    {
+        "Document ID": "0000852",
+        "Focus": "pyridoxal 5'-phosphate-dependent epilepsy"
+    },
+    {
+        "Document ID": "0000846",
+        "Focus": "pseudoxanthoma elasticum"
+    },
+    {
+        "Document ID": "0000113",
+        "Focus": "Beckwith-Wiedemann syndrome"
+    },
+    {
+        "Document ID": "0000675",
+        "Focus": "mucolipidosis III alpha/beta"
+    },
+    {
+        "Document ID": "0000661",
+        "Focus": "mitochondrial complex III deficiency"
+    },
+    {
+        "Document ID": "0000107",
+        "Focus": "Baraitser-Winter syndrome"
+    },
+    {
+        "Document ID": "0000891",
+        "Focus": "Sandhoff disease"
+    },
+    {
+        "Document ID": "0000649",
+        "Focus": "methemoglobinemia, beta-globin type"
+    },
+    {
+        "Document ID": "0000885",
+        "Focus": "Rotor syndrome"
+    },
+    {
+        "Document ID": "0000488",
+        "Focus": "Horner syndrome"
+    },
+    {
+        "Document ID": "0000477",
+        "Focus": "hereditary xanthinuria"
+    },
+    {
+        "Document ID": "0000311",
+        "Focus": "early-onset glaucoma"
+    },
+    {
+        "Document ID": "0000305",
+        "Focus": "Dubin-Johnson syndrome"
+    },
+    {
+        "Document ID": "0000463",
+        "Focus": "hereditary hyperekplexia"
+    },
+    {
+        "Document ID": "0001033",
+        "Focus": "Werner syndrome"
+    },
+    {
+        "Document ID": "0001027",
+        "Focus": "warfarin resistance"
+    },
+    {
+        "Document ID": "0000339",
+        "Focus": "familial acute myeloid leukemia with mutated CEBPA"
+    },
+    {
+        "Document ID": "0000338",
+        "Focus": "factor XIII deficiency"
+    },
+    {
+        "Document ID": "0001026",
+        "Focus": "Walker-Warburg syndrome"
+    },
+    {
+        "Document ID": "0001032",
+        "Focus": "Weissenbacher-Zweymller syndrome"
+    },
+    {
+        "Document ID": "0000304",
+        "Focus": "Duane-radial ray syndrome"
+    },
+    {
+        "Document ID": "0000462",
+        "Focus": "hereditary hemorrhagic telangiectasia"
+    },
+    {
+        "Document ID": "0000476",
+        "Focus": "hereditary spherocytosis"
+    },
+    {
+        "Document ID": "0000310",
+        "Focus": "dystrophic epidermolysis bullosa"
+    },
+    {
+        "Document ID": "0000489",
+        "Focus": "Huntington disease"
+    },
+    {
+        "Document ID": "0000884",
+        "Focus": "Rothmund-Thomson syndrome"
+    },
+    {
+        "Document ID": "0000648",
+        "Focus": "metatropic dysplasia"
+    },
+    {
+        "Document ID": "0000890",
+        "Focus": "Salih myopathy"
+    },
+    {
+        "Document ID": "0000660",
+        "Focus": "Milroy disease"
+    },
+    {
+        "Document ID": "0000106",
+        "Focus": "Bannayan-Riley-Ruvalcaba syndrome"
+    },
+    {
+        "Document ID": "0000112",
+        "Focus": "Beare-Stevenson cutis gyrata syndrome"
+    },
+    {
+        "Document ID": "0000674",
+        "Focus": "mucolipidosis II alpha/beta"
+    },
+    {
+        "Document ID": "0000847",
+        "Focus": "psoriatic arthritis"
+    },
+    {
+        "Document ID": "0000853",
+        "Focus": "pyridoxine-dependent epilepsy"
+    },
+    {
+        "Document ID": "0000728",
+        "Focus": "neuropathy, ataxia, and retinitis pigmentosa"
+    },
+    {
+        "Document ID": "0000714",
+        "Focus": "nail-patella syndrome"
+    },
+    {
+        "Document ID": "0000072",
+        "Focus": "arterial tortuosity syndrome"
+    },
+    {
+        "Document ID": "0000066",
+        "Focus": "arginine:glycine amidinotransferase deficiency"
+    },
+    {
+        "Document ID": "0000700",
+        "Focus": "MYH9-related disorder"
+    },
+    {
+        "Document ID": "0000933",
+        "Focus": "spina bifida"
+    },
+    {
+        "Document ID": "0000099",
+        "Focus": "autosomal recessive congenital stationary night blindness"
+    },
+    {
+        "Document ID": "0000927",
+        "Focus": "spastic paraplegia type 2"
+    },
+    {
+        "Document ID": "0000258",
+        "Focus": "Cushing disease"
+    },
+    {
+        "Document ID": "0000270",
+        "Focus": "Dandy-Walker malformation"
+    },
+    {
+        "Document ID": "0000516",
+        "Focus": "inclusion body myopathy with early-onset Paget disease and frontotemporal dementia"
+    },
+    {
+        "Document ID": "0000502",
+        "Focus": "hypochondroplasia"
+    },
+    {
+        "Document ID": "0000264",
+        "Focus": "cystinuria"
+    },
+    {
+        "Document ID": "0000282",
+        "Focus": "desmosterolosis"
+    },
+    {
+        "Document ID": "0000296",
+        "Focus": "Donnai-Barrow syndrome"
+    },
+    {
+        "Document ID": "0000269",
+        "Focus": "D-bifunctional protein deficiency"
+    },
+    {
+        "Document ID": "0000241",
+        "Focus": "Cornelia de Lange syndrome"
+    },
+    {
+        "Document ID": "0000527",
+        "Focus": "intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies"
+    },
+    {
+        "Document ID": "0000533",
+        "Focus": "isolated ectopia lentis"
+    },
+    {
+        "Document ID": "0000255",
+        "Focus": "Crouzon syndrome"
+    },
+    {
+        "Document ID": "0000902",
+        "Focus": "short QT syndrome"
+    },
+    {
+        "Document ID": "0000916",
+        "Focus": "Sjgren-Larsson syndrome"
+    },
+    {
+        "Document ID": "0000080",
+        "Focus": "ataxia-telangiectasia"
+    },
+    {
+        "Document ID": "0000094",
+        "Focus": "autosomal dominant partial epilepsy with auditory features"
+    },
+    {
+        "Document ID": "0000719",
+        "Focus": "nephrogenic diabetes insipidus"
+    },
+    {
+        "Document ID": "0000725",
+        "Focus": "neurofibromatosis type 2"
+    },
+    {
+        "Document ID": "0000043",
+        "Focus": "alpha-methylacyl-CoA racemase deficiency"
+    },
+    {
+        "Document ID": "0000057",
+        "Focus": "anencephaly"
+    },
+    {
+        "Document ID": "0000731",
+        "Focus": "Niemann-Pick disease"
+    },
+    {
+        "Document ID": "0000876",
+        "Focus": "rhizomelic chondrodysplasia punctata"
+    },
+    {
+        "Document ID": "0000862",
+        "Focus": "Refsum disease"
+    },
+    {
+        "Document ID": "0000692",
+        "Focus": "multiple mitochondrial dysfunctions syndrome"
+    },
+    {
+        "Document ID": "0000686",
+        "Focus": "multiminicore disease"
+    },
+    {
+        "Document ID": "0000679",
+        "Focus": "mucopolysaccharidosis type II"
+    },
+    {
+        "Document ID": "0000889",
+        "Focus": "Saethre-Chotzen syndrome"
+    },
+    {
+        "Document ID": "0000651",
+        "Focus": "methylmalonic acidemia with homocystinuria"
+    },
+    {
+        "Document ID": "0000137",
+        "Focus": "breast cancer"
+    },
+    {
+        "Document ID": "0000123",
+        "Focus": "Bietti crystalline dystrophy"
+    },
+    {
+        "Document ID": "0000645",
+        "Focus": "Melnick-Needles syndrome"
+    },
+    {
+        "Document ID": "0000490",
+        "Focus": "Huntington disease-like syndrome"
+    },
+    {
+        "Document ID": "0000484",
+        "Focus": "holocarboxylase synthetase deficiency"
+    },
+    {
+        "Document ID": "0001017",
+        "Focus": "vitiligo"
+    },
+    {
+        "Document ID": "0000309",
+        "Focus": "dystonia 6"
+    },
+    {
+        "Document ID": "0001003",
+        "Focus": "type 1 diabetes"
+    },
+    {
+        "Document ID": "0000335",
+        "Focus": "factor V deficiency"
+    },
+    {
+        "Document ID": "0000453",
+        "Focus": "hepatic veno-occlusive disease with immunodeficiency"
+    },
+    {
+        "Document ID": "0000447",
+        "Focus": "harlequin ichthyosis"
+    },
+    {
+        "Document ID": "0000321",
+        "Focus": "epidermolysis bullosa with pyloric atresia"
+    },
+    {
+        "Document ID": "0000446",
+        "Focus": "hand-foot-genital syndrome"
+    },
+    {
+        "Document ID": "0000320",
+        "Focus": "epidermolysis bullosa simplex"
+    },
+    {
+        "Document ID": "0000334",
+        "Focus": "facioscapulohumeral muscular dystrophy"
+    },
+    {
+        "Document ID": "0000452",
+        "Focus": "hepatic lipase deficiency"
+    },
+    {
+        "Document ID": "0001002",
+        "Focus": "Turner syndrome"
+    },
+    {
+        "Document ID": "0000308",
+        "Focus": "dyskeratosis congenita"
+    },
+    {
+        "Document ID": "0001016",
+        "Focus": "vitelliform macular dystrophy"
+    },
+    {
+        "Document ID": "0000485",
+        "Focus": "Holt-Oram syndrome"
+    },
+    {
+        "Document ID": "0000491",
+        "Focus": "Hutchinson-Gilford progeria syndrome"
+    },
+    {
+        "Document ID": "0000122",
+        "Focus": "beta-ureidopropionase deficiency"
+    },
+    {
+        "Document ID": "0000644",
+        "Focus": "Meige disease"
+    },
+    {
+        "Document ID": "0000650",
+        "Focus": "methylmalonic acidemia"
+    },
+    {
+        "Document ID": "0000888",
+        "Focus": "SADDAN"
+    },
+    {
+        "Document ID": "0000136",
+        "Focus": "branchiootorenal/branchiootic syndrome"
+    },
+    {
+        "Document ID": "0000678",
+        "Focus": "mucopolysaccharidosis type I"
+    },
+    {
+        "Document ID": "0000687",
+        "Focus": "multiple cutaneous and mucosal venous malformations"
+    },
+    {
+        "Document ID": "0000693",
+        "Focus": "multiple pterygium syndrome"
+    },
+    {
+        "Document ID": "0000863",
+        "Focus": "REN-related kidney disease"
+    },
+    {
+        "Document ID": "0000056",
+        "Focus": "androgenetic alopecia"
+    },
+    {
+        "Document ID": "0000730",
+        "Focus": "Nicolaides-Baraitser syndrome"
+    },
+    {
+        "Document ID": "0000724",
+        "Focus": "neurofibromatosis type 1"
+    },
+    {
+        "Document ID": "0000042",
+        "Focus": "alpha-mannosidosis"
+    },
+    {
+        "Document ID": "0000718",
+        "Focus": "neonatal onset multisystem inflammatory disease"
+    },
+    {
+        "Document ID": "0000095",
+        "Focus": "autosomal dominant vitreoretinochoroidopathy"
+    },
+    {
+        "Document ID": "0000081",
+        "Focus": "atelosteogenesis type 1"
+    },
+    {
+        "Document ID": "0000917",
+        "Focus": "SLC4A1-associated distal renal tubular acidosis"
+    },
+    {
+        "Document ID": "0000903",
+        "Focus": "short stature, hyperextensibility, hernia, ocular depression, Rieger anomaly, and teething delay"
+    },
+    {
+        "Document ID": "0000532",
+        "Focus": "isolated Duane retraction syndrome"
+    },
+    {
+        "Document ID": "0000254",
+        "Focus": "Crohn disease"
+    },
+    {
+        "Document ID": "0000240",
+        "Focus": "core binding factor acute myeloid leukemia"
+    },
+    {
+        "Document ID": "0000526",
+        "Focus": "intranuclear rod myopathy"
+    },
+    {
+        "Document ID": "0000268",
+        "Focus": "Czech dysplasia"
+    },
+    {
+        "Document ID": "0000297",
+        "Focus": "Donohue syndrome"
+    },
+    {
+        "Document ID": "0000283",
+        "Focus": "Diamond-Blackfan anemia"
+    },
+    {
+        "Document ID": "0000295",
+        "Focus": "DOLK-congenital disorder of glycosylation"
+    },
+    {
+        "Document ID": "0000281",
+        "Focus": "desmoid tumor"
+    },
+    {
+        "Document ID": "0000518",
+        "Focus": "infantile neuroaxonal dystrophy"
+    },
+    {
+        "Document ID": "0000256",
+        "Focus": "Crouzonodermoskeletal syndrome"
+    },
+    {
+        "Document ID": "0000530",
+        "Focus": "isobutyryl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000524",
+        "Focus": "intestinal pseudo-obstruction"
+    },
+    {
+        "Document ID": "0000242",
+        "Focus": "corticosteroid-binding globulin deficiency"
+    },
+    {
+        "Document ID": "0000915",
+        "Focus": "Sjgren syndrome"
+    },
+    {
+        "Document ID": "0000901",
+        "Focus": "Sheldon-Hall syndrome"
+    },
+    {
+        "Document ID": "0000929",
+        "Focus": "spastic paraplegia type 3A"
+    },
+    {
+        "Document ID": "0000097",
+        "Focus": "autosomal recessive cerebellar ataxia type 1"
+    },
+    {
+        "Document ID": "0000083",
+        "Focus": "atelosteogenesis type 3"
+    },
+    {
+        "Document ID": "0000068",
+        "Focus": "aromatase deficiency"
+    },
+    {
+        "Document ID": "0000732",
+        "Focus": "Nijmegen breakage syndrome"
+    },
+    {
+        "Document ID": "0000054",
+        "Focus": "Andersen-Tawil syndrome"
+    },
+    {
+        "Document ID": "0000040",
+        "Focus": "alpha thalassemia X-linked intellectual disability syndrome"
+    },
+    {
+        "Document ID": "0000726",
+        "Focus": "neurohypophyseal diabetes insipidus"
+    },
+    {
+        "Document ID": "0000861",
+        "Focus": "recurrent hydatidiform mole"
+    },
+    {
+        "Document ID": "0000875",
+        "Focus": "rheumatoid arthritis"
+    },
+    {
+        "Document ID": "0000685",
+        "Focus": "multicentric osteolysis, nodulosis, and arthropathy"
+    },
+    {
+        "Document ID": "0000691",
+        "Focus": "multiple lentigines syndrome"
+    },
+    {
+        "Document ID": "0000849",
+        "Focus": "pulmonary arterial hypertension"
+    },
+    {
+        "Document ID": "0000108",
+        "Focus": "Bardet-Biedl syndrome"
+    },
+    {
+        "Document ID": "0000646",
+        "Focus": "Menkes syndrome"
+    },
+    {
+        "Document ID": "0000120",
+        "Focus": "beta-ketothiolase deficiency"
+    },
+    {
+        "Document ID": "0000134",
+        "Focus": "bradyopsia"
+    },
+    {
+        "Document ID": "0000652",
+        "Focus": "mevalonate kinase deficiency"
+    },
+    {
+        "Document ID": "0000487",
+        "Focus": "horizontal gaze palsy with progressive scoliosis"
+    },
+    {
+        "Document ID": "0000493",
+        "Focus": "hyperferritinemia-cataract syndrome"
+    },
+    {
+        "Document ID": "0001000",
+        "Focus": "tubular aggregate myopathy"
+    },
+    {
+        "Document ID": "0000478",
+        "Focus": "Hermansky-Pudlak syndrome"
+    },
+    {
+        "Document ID": "0001014",
+        "Focus": "very long-chain acyl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000322",
+        "Focus": "epidermolytic hyperkeratosis"
+    },
+    {
+        "Document ID": "0000444",
+        "Focus": "gyrate atrophy of the choroid and retina"
+    },
+    {
+        "Document ID": "0000450",
+        "Focus": "hemophilia"
+    },
+    {
+        "Document ID": "0001028",
+        "Focus": "warfarin sensitivity"
+    },
+    {
+        "Document ID": "0000336",
+        "Focus": "factor V Leiden thrombophilia"
+    },
+    {
+        "Document ID": "0000451",
+        "Focus": "Hennekam syndrome"
+    },
+    {
+        "Document ID": "0000337",
+        "Focus": "factor X deficiency"
+    },
+    {
+        "Document ID": "0001029",
+        "Focus": "Warsaw breakage syndrome"
+    },
+    {
+        "Document ID": "0000323",
+        "Focus": "episodic ataxia"
+    },
+    {
+        "Document ID": "0000445",
+        "Focus": "Hajdu-Cheney syndrome"
+    },
+    {
+        "Document ID": "0001015",
+        "Focus": "vitamin D-dependent rickets"
+    },
+    {
+        "Document ID": "0001001",
+        "Focus": "tumor necrosis factor receptor-associated periodic syndrome"
+    },
+    {
+        "Document ID": "0000479",
+        "Focus": "heterotaxy syndrome"
+    },
+    {
+        "Document ID": "0000492",
+        "Focus": "hypercholesterolemia"
+    },
+    {
+        "Document ID": "0000486",
+        "Focus": "homocystinuria"
+    },
+    {
+        "Document ID": "0000135",
+        "Focus": "branchio-oculo-facial syndrome"
+    },
+    {
+        "Document ID": "0000653",
+        "Focus": "microcephalic osteodysplastic primordial dwarfism type II"
+    },
+    {
+        "Document ID": "0000647",
+        "Focus": "metachromatic leukodystrophy"
+    },
+    {
+        "Document ID": "0000121",
+        "Focus": "beta-mannosidosis"
+    },
+    {
+        "Document ID": "0000109",
+        "Focus": "Bart-Pumphrey syndrome"
+    },
+    {
+        "Document ID": "0000848",
+        "Focus": "pulmonary alveolar microlithiasis"
+    },
+    {
+        "Document ID": "0000690",
+        "Focus": "multiple familial trichoepithelioma"
+    },
+    {
+        "Document ID": "0000684",
+        "Focus": "Muenke syndrome"
+    },
+    {
+        "Document ID": "0000874",
+        "Focus": "Rett syndrome"
+    },
+    {
+        "Document ID": "0000860",
+        "Focus": "recombinant 8 syndrome"
+    },
+    {
+        "Document ID": "0000041",
+        "Focus": "alpha-1 antitrypsin deficiency"
+    },
+    {
+        "Document ID": "0000727",
+        "Focus": "neuromyelitis optica"
+    },
+    {
+        "Document ID": "0000733",
+        "Focus": "nonbullous congenital ichthyosiform erythroderma"
+    },
+    {
+        "Document ID": "0000055",
+        "Focus": "androgen insensitivity syndrome"
+    },
+    {
+        "Document ID": "0000069",
+        "Focus": "aromatase excess syndrome"
+    },
+    {
+        "Document ID": "0000082",
+        "Focus": "atelosteogenesis type 2"
+    },
+    {
+        "Document ID": "0000928",
+        "Focus": "spastic paraplegia type 31"
+    },
+    {
+        "Document ID": "0000096",
+        "Focus": "autosomal recessive axonal neuropathy with neuromyotonia"
+    },
+    {
+        "Document ID": "0000900",
+        "Focus": "severe congenital neutropenia"
+    },
+    {
+        "Document ID": "0000914",
+        "Focus": "sitosterolemia"
+    },
+    {
+        "Document ID": "0000525",
+        "Focus": "intrahepatic cholestasis of pregnancy"
+    },
+    {
+        "Document ID": "0000257",
+        "Focus": "cryptogenic cirrhosis"
+    },
+    {
+        "Document ID": "0000531",
+        "Focus": "isodicentric chromosome 15 syndrome"
+    },
+    {
+        "Document ID": "0000519",
+        "Focus": "infantile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "Document ID": "0000280",
+        "Focus": "dermatofibrosarcoma protuberans"
+    },
+    {
+        "Document ID": "0000294",
+        "Focus": "DMD-associated dilated cardiomyopathy"
+    },
+    {
+        "Document ID": "0000290",
+        "Focus": "distal arthrogryposis type 1"
+    },
+    {
+        "Document ID": "0000284",
+        "Focus": "diastrophic dysplasia"
+    },
+    {
+        "Document ID": "0000253",
+        "Focus": "critical congenital heart disease"
+    },
+    {
+        "Document ID": "0000247",
+        "Focus": "cranioectodermal dysplasia"
+    },
+    {
+        "Document ID": "0000521",
+        "Focus": "infantile-onset ascending hereditary spastic paralysis"
+    },
+    {
+        "Document ID": "0000509",
+        "Focus": "hystrix-like ichthyosis with deafness"
+    },
+    {
+        "Document ID": "0000092",
+        "Focus": "autosomal dominant hypocalcemia"
+    },
+    {
+        "Document ID": "0000938",
+        "Focus": "spinocerebellar ataxia type 1"
+    },
+    {
+        "Document ID": "0000086",
+        "Focus": "auriculo-condylar syndrome"
+    },
+    {
+        "Document ID": "0000910",
+        "Focus": "sick sinus syndrome"
+    },
+    {
+        "Document ID": "0000904",
+        "Focus": "short-chain acyl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000051",
+        "Focus": "Amish lethal microcephaly"
+    },
+    {
+        "Document ID": "0000737",
+        "Focus": "nonsyndromic paraganglioma"
+    },
+    {
+        "Document ID": "0000723",
+        "Focus": "neuroferritinopathy"
+    },
+    {
+        "Document ID": "0000045",
+        "Focus": "Alstrm syndrome"
+    },
+    {
+        "Document ID": "0000079",
+        "Focus": "ataxia with vitamin E deficiency"
+    },
+    {
+        "Document ID": "0000680",
+        "Focus": "mucopolysaccharidosis type III"
+    },
+    {
+        "Document ID": "0000858",
+        "Focus": "RAPADILINO syndrome"
+    },
+    {
+        "Document ID": "0000694",
+        "Focus": "multiple sclerosis"
+    },
+    {
+        "Document ID": "0000864",
+        "Focus": "renal coloboma syndrome"
+    },
+    {
+        "Document ID": "0000870",
+        "Focus": "retinal arterial macroaneurysm with supravalvular pulmonic stenosis"
+    },
+    {
+        "Document ID": "0000125",
+        "Focus": "biotinidase deficiency"
+    },
+    {
+        "Document ID": "0000643",
+        "Focus": "Meier-Gorlin syndrome"
+    },
+    {
+        "Document ID": "0000657",
+        "Focus": "microvillus inclusion disease"
+    },
+    {
+        "Document ID": "0000131",
+        "Focus": "Bloom syndrome"
+    },
+    {
+        "Document ID": "0000119",
+        "Focus": "beta thalassemia"
+    },
+    {
+        "Document ID": "0000482",
+        "Focus": "histidinemia"
+    },
+    {
+        "Document ID": "0000496",
+        "Focus": "hypermanganesemia with dystonia, polycythemia, and cirrhosis"
+    },
+    {
+        "Document ID": "0000441",
+        "Focus": "GRN-related frontotemporal dementia"
+    },
+    {
+        "Document ID": "0001039",
+        "Focus": "Wiskott-Aldrich syndrome"
+    },
+    {
+        "Document ID": "0000327",
+        "Focus": "esophageal atresia/tracheoesophageal fistula"
+    },
+    {
+        "Document ID": "0000333",
+        "Focus": "Fabry disease"
+    },
+    {
+        "Document ID": "0000455",
+        "Focus": "hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome"
+    },
+    {
+        "Document ID": "0001005",
+        "Focus": "tyrosine hydroxylase deficiency"
+    },
+    {
+        "Document ID": "0001011",
+        "Focus": "UV-sensitive syndrome"
+    },
+    {
+        "Document ID": "0000469",
+        "Focus": "hereditary neuropathy with liability to pressure palsies"
+    },
+    {
+        "Document ID": "0001010",
+        "Focus": "Usher syndrome"
+    },
+    {
+        "Document ID": "0000468",
+        "Focus": "hereditary neuralgic amyotrophy"
+    },
+    {
+        "Document ID": "0001004",
+        "Focus": "type A insulin resistance syndrome"
+    },
+    {
+        "Document ID": "0000332",
+        "Focus": "Ewing sarcoma"
+    },
+    {
+        "Document ID": "0000454",
+        "Focus": "hereditary angioedema"
+    },
+    {
+        "Document ID": "0000440",
+        "Focus": "Griscelli syndrome"
+    },
+    {
+        "Document ID": "0000326",
+        "Focus": "erythromelalgia"
+    },
+    {
+        "Document ID": "0001038",
+        "Focus": "Winchester syndrome"
+    },
+    {
+        "Document ID": "0000497",
+        "Focus": "hypermethioninemia"
+    },
+    {
+        "Document ID": "0000483",
+        "Focus": "histiocytosis-lymphadenopathy plus syndrome"
+    },
+    {
+        "Document ID": "0000118",
+        "Focus": "benign recurrent intrahepatic cholestasis"
+    },
+    {
+        "Document ID": "0000656",
+        "Focus": "microphthalmia with linear skin defects syndrome"
+    },
+    {
+        "Document ID": "0000130",
+        "Focus": "blepharophimosis, ptosis, and epicanthus inversus syndrome"
+    },
+    {
+        "Document ID": "0000124",
+        "Focus": "biotin-thiamine-responsive basal ganglia disease"
+    },
+    {
+        "Document ID": "0000642",
+        "Focus": "MEGDEL syndrome"
+    },
+    {
+        "Document ID": "0000871",
+        "Focus": "retinitis pigmentosa"
+    },
+    {
+        "Document ID": "0000865",
+        "Focus": "renal hypouricemia"
+    },
+    {
+        "Document ID": "0000695",
+        "Focus": "multiple sulfatase deficiency"
+    },
+    {
+        "Document ID": "0000859",
+        "Focus": "rapid-onset dystonia parkinsonism"
+    },
+    {
+        "Document ID": "0000681",
+        "Focus": "mucopolysaccharidosis type IV"
+    },
+    {
+        "Document ID": "0000078",
+        "Focus": "ataxia with oculomotor apraxia"
+    },
+    {
+        "Document ID": "0000722",
+        "Focus": "neuroblastoma"
+    },
+    {
+        "Document ID": "0000044",
+        "Focus": "Alport syndrome"
+    },
+    {
+        "Document ID": "0000050",
+        "Focus": "aminoacylase 1 deficiency"
+    },
+    {
+        "Document ID": "0000736",
+        "Focus": "nonsyndromic holoprosencephaly"
+    },
+    {
+        "Document ID": "0000905",
+        "Focus": "Shprintzen-Goldberg syndrome"
+    },
+    {
+        "Document ID": "0000911",
+        "Focus": "sickle cell disease"
+    },
+    {
+        "Document ID": "0000939",
+        "Focus": "spinocerebellar ataxia type 2"
+    },
+    {
+        "Document ID": "0000087",
+        "Focus": "autoimmune Addison disease"
+    },
+    {
+        "Document ID": "0000093",
+        "Focus": "autosomal dominant nocturnal frontal lobe epilepsy"
+    },
+    {
+        "Document ID": "0000508",
+        "Focus": "hypophosphatasia"
+    },
+    {
+        "Document ID": "0000246",
+        "Focus": "Cowden syndrome"
+    },
+    {
+        "Document ID": "0000520",
+        "Focus": "infantile systemic hyalinosis"
+    },
+    {
+        "Document ID": "0000534",
+        "Focus": "isolated growth hormone deficiency"
+    },
+    {
+        "Document ID": "0000252",
+        "Focus": "Crigler-Najjar syndrome"
+    },
+    {
+        "Document ID": "0000285",
+        "Focus": "DICER1 syndrome"
+    },
+    {
+        "Document ID": "0000291",
+        "Focus": "distal hereditary motor neuropathy, type II"
+    },
+    {
+        "Document ID": "0000287",
+        "Focus": "dihydropyrimidinase deficiency"
+    },
+    {
+        "Document ID": "0000293",
+        "Focus": "distal myopathy 2"
+    },
+    {
+        "Document ID": "0000522",
+        "Focus": "infantile-onset spinocerebellar ataxia"
+    },
+    {
+        "Document ID": "0000244",
+        "Focus": "Costeff syndrome"
+    },
+    {
+        "Document ID": "0000250",
+        "Focus": "craniometaphyseal dysplasia"
+    },
+    {
+        "Document ID": "0000278",
+        "Focus": "Denys-Drash syndrome"
+    },
+    {
+        "Document ID": "0000085",
+        "Focus": "atypical hemolytic-uremic syndrome"
+    },
+    {
+        "Document ID": "0000091",
+        "Focus": "autosomal dominant hyper-IgE syndrome"
+    },
+    {
+        "Document ID": "0000907",
+        "Focus": "sialic acid storage disease"
+    },
+    {
+        "Document ID": "0000913",
+        "Focus": "Simpson-Golabi-Behmel syndrome"
+    },
+    {
+        "Document ID": "0000046",
+        "Focus": "alternating hemiplegia of childhood"
+    },
+    {
+        "Document ID": "0000720",
+        "Focus": "nephronophthisis"
+    },
+    {
+        "Document ID": "0000734",
+        "Focus": "nonsyndromic aplasia cutis congenita"
+    },
+    {
+        "Document ID": "0000052",
+        "Focus": "amyotrophic lateral sclerosis"
+    },
+    {
+        "Document ID": "0000708",
+        "Focus": "myostatin-related muscle hypertrophy"
+    },
+    {
+        "Document ID": "0000697",
+        "Focus": "myasthenia gravis"
+    },
+    {
+        "Document ID": "0000683",
+        "Focus": "mucopolysaccharidosis type VII"
+    },
+    {
+        "Document ID": "0000873",
+        "Focus": "retroperitoneal fibrosis"
+    },
+    {
+        "Document ID": "0000867",
+        "Focus": "renal tubular dysgenesis"
+    },
+    {
+        "Document ID": "0000132",
+        "Focus": "boomerang dysplasia"
+    },
+    {
+        "Document ID": "0000654",
+        "Focus": "microcephaly-capillary malformation syndrome"
+    },
+    {
+        "Document ID": "0000898",
+        "Focus": "sepiapterin reductase deficiency"
+    },
+    {
+        "Document ID": "0000640",
+        "Focus": "megalencephalic leukoencephalopathy with subcortical cysts"
+    },
+    {
+        "Document ID": "0000126",
+        "Focus": "Birt-Hogg-Dub syndrome"
+    },
+    {
+        "Document ID": "0000668",
+        "Focus": "molybdenum cofactor deficiency"
+    },
+    {
+        "Document ID": "0000495",
+        "Focus": "hyperlysinemia"
+    },
+    {
+        "Document ID": "0000481",
+        "Focus": "Hirschsprung disease"
+    },
+    {
+        "Document ID": "0000456",
+        "Focus": "hereditary antithrombin deficiency"
+    },
+    {
+        "Document ID": "0000330",
+        "Focus": "essential tremor"
+    },
+    {
+        "Document ID": "0000324",
+        "Focus": "Erdheim-Chester disease"
+    },
+    {
+        "Document ID": "0000442",
+        "Focus": "guanidinoacetate methyltransferase deficiency"
+    },
+    {
+        "Document ID": "0001012",
+        "Focus": "VACTERL association"
+    },
+    {
+        "Document ID": "0001006",
+        "Focus": "tyrosinemia"
+    },
+    {
+        "Document ID": "0000318",
+        "Focus": "eosinophil peroxidase deficiency"
+    },
+    {
+        "Document ID": "0000319",
+        "Focus": "epidermal nevus"
+    },
+    {
+        "Document ID": "0001007",
+        "Focus": "ulcerative colitis"
+    },
+    {
+        "Document ID": "0001013",
+        "Focus": "van der Woude syndrome"
+    },
+    {
+        "Document ID": "0000325",
+        "Focus": "erythrokeratodermia variabilis et progressiva"
+    },
+    {
+        "Document ID": "0000443",
+        "Focus": "Guillain-Barr syndrome"
+    },
+    {
+        "Document ID": "0000457",
+        "Focus": "hereditary cerebral amyloid angiopathy"
+    },
+    {
+        "Document ID": "0000331",
+        "Focus": "ethylmalonic encephalopathy"
+    },
+    {
+        "Document ID": "0000480",
+        "Focus": "hidradenitis suppurativa"
+    },
+    {
+        "Document ID": "0000494",
+        "Focus": "hyperkalemic periodic paralysis"
+    },
+    {
+        "Document ID": "0000669",
+        "Focus": "monilethrix"
+    },
+    {
+        "Document ID": "0000641",
+        "Focus": "megalencephaly-capillary malformation syndrome"
+    },
+    {
+        "Document ID": "0000899",
+        "Focus": "septo-optic dysplasia"
+    },
+    {
+        "Document ID": "0000127",
+        "Focus": "Bjrnstad syndrome"
+    },
+    {
+        "Document ID": "0000133",
+        "Focus": "Bowen-Conradi syndrome"
+    },
+    {
+        "Document ID": "0000655",
+        "Focus": "microphthalmia"
+    },
+    {
+        "Document ID": "0000866",
+        "Focus": "renal tubular acidosis with deafness"
+    },
+    {
+        "Document ID": "0000872",
+        "Focus": "retinoblastoma"
+    },
+    {
+        "Document ID": "0000682",
+        "Focus": "mucopolysaccharidosis type VI"
+    },
+    {
+        "Document ID": "0000696",
+        "Focus": "multiple system atrophy"
+    },
+    {
+        "Document ID": "0000709",
+        "Focus": "myotonia congenita"
+    },
+    {
+        "Document ID": "0000735",
+        "Focus": "nonsyndromic hearing loss"
+    },
+    {
+        "Document ID": "0000053",
+        "Focus": "Andermann syndrome"
+    },
+    {
+        "Document ID": "0000047",
+        "Focus": "alveolar capillary dysplasia with misalignment of pulmonary veins"
+    },
+    {
+        "Document ID": "0000721",
+        "Focus": "Netherton syndrome"
+    },
+    {
+        "Document ID": "0000912",
+        "Focus": "Silver syndrome"
+    },
+    {
+        "Document ID": "0000906",
+        "Focus": "Shwachman-Diamond syndrome"
+    },
+    {
+        "Document ID": "0000090",
+        "Focus": "autosomal dominant congenital stationary night blindness"
+    },
+    {
+        "Document ID": "0000084",
+        "Focus": "atopic dermatitis"
+    },
+    {
+        "Document ID": "0000279",
+        "Focus": "deoxyguanosine kinase deficiency"
+    },
+    {
+        "Document ID": "0000251",
+        "Focus": "cri-du-chat syndrome"
+    },
+    {
+        "Document ID": "0000537",
+        "Focus": "isolated lissencephaly sequence"
+    },
+    {
+        "Document ID": "0000523",
+        "Focus": "inherited thyroxine-binding globulin deficiency"
+    },
+    {
+        "Document ID": "0000245",
+        "Focus": "Costello syndrome"
+    },
+    {
+        "Document ID": "0000292",
+        "Focus": "distal hereditary motor neuropathy, type V"
+    },
+    {
+        "Document ID": "0000286",
+        "Focus": "dihydrolipoamide dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000587",
+        "Focus": "Leber congenital amaurosis"
+    },
+    {
+        "Document ID": "0000593",
+        "Focus": "Lenz microphthalmia syndrome"
+    },
+    {
+        "Document ID": "0000578",
+        "Focus": "Langer mesomelic dysplasia"
+    },
+    {
+        "Document ID": "0001100",
+        "Focus": "6q24-related transient neonatal diabetes mellitus"
+    },
+    {
+        "Document ID": "0000544",
+        "Focus": "junctional epidermolysis bullosa"
+    },
+    {
+        "Document ID": "0000222",
+        "Focus": "congenital diaphragmatic hernia"
+    },
+    {
+        "Document ID": "0000236",
+        "Focus": "congenital neuronal ceroid lipofuscinosis"
+    },
+    {
+        "Document ID": "0000550",
+        "Focus": "juvenile polyposis syndrome"
+    },
+    {
+        "Document ID": "0000961",
+        "Focus": "sudden infant death with dysgenesis of the testes syndrome"
+    },
+    {
+        "Document ID": "0000975",
+        "Focus": "tetrasomy 18p"
+    },
+    {
+        "Document ID": "0000785",
+        "Focus": "Perrault syndrome"
+    },
+    {
+        "Document ID": "0000949",
+        "Focus": "spondylothoracic dysostosis"
+    },
+    {
+        "Document ID": "0000791",
+        "Focus": "Pfeiffer syndrome"
+    },
+    {
+        "Document ID": "0000008",
+        "Focus": "achromatopsia"
+    },
+    {
+        "Document ID": "0000020",
+        "Focus": "adenylosuccinate lyase deficiency"
+    },
+    {
+        "Document ID": "0000746",
+        "Focus": "oculofaciocardiodental syndrome"
+    },
+    {
+        "Document ID": "0000752",
+        "Focus": "Opitz G/BBB syndrome"
+    },
+    {
+        "Document ID": "0000034",
+        "Focus": "ALG6-congenital disorder of glycosylation"
+    },
+    {
+        "Document ID": "0000815",
+        "Focus": "Prader-Willi syndrome"
+    },
+    {
+        "Document ID": "0000801",
+        "Focus": "PMM2-congenital disorder of glycosylation"
+    },
+    {
+        "Document ID": "0000197",
+        "Focus": "COG5-congenital disorder of glycosylation"
+    },
+    {
+        "Document ID": "0000829",
+        "Focus": "progressive familial intrahepatic cholestasis"
+    },
+    {
+        "Document ID": "0000183",
+        "Focus": "choroideremia"
+    },
+    {
+        "Document ID": "0000168",
+        "Focus": "cerebral cavernous malformation"
+    },
+    {
+        "Document ID": "0000154",
+        "Focus": "carnitine palmitoyltransferase II deficiency"
+    },
+    {
+        "Document ID": "0000632",
+        "Focus": "McKusick-Kaufman syndrome"
+    },
+    {
+        "Document ID": "0000626",
+        "Focus": "maple syrup urine disease"
+    },
+    {
+        "Document ID": "0000140",
+        "Focus": "Brugada syndrome"
+    },
+    {
+        "Document ID": "0000395",
+        "Focus": "Fukuyama congenital muscular dystrophy"
+    },
+    {
+        "Document ID": "0000381",
+        "Focus": "fragile X syndrome"
+    },
+    {
+        "Document ID": "0001074",
+        "Focus": "17 alpha-hydroxylase/17,20-lyase deficiency"
+    },
+    {
+        "Document ID": "0001060",
+        "Focus": "X-linked myotubular myopathy"
+    },
+    {
+        "Document ID": "0000418",
+        "Focus": "glutaric acidemia type II"
+    },
+    {
+        "Document ID": "0000430",
+        "Focus": "GM2-gangliosidosis, AB variant"
+    },
+    {
+        "Document ID": "0001048",
+        "Focus": "X-linked chondrodysplasia punctata 2"
+    },
+    {
+        "Document ID": "0000356",
+        "Focus": "familial idiopathic basal ganglia calcification"
+    },
+    {
+        "Document ID": "0000342",
+        "Focus": "familial cold autoinflammatory syndrome"
+    },
+    {
+        "Document ID": "0000424",
+        "Focus": "glycogen storage disease type IV"
+    },
+    {
+        "Document ID": "0000343",
+        "Focus": "familial cylindromatosis"
+    },
+    {
+        "Document ID": "0000425",
+        "Focus": "glycogen storage disease type IX"
+    },
+    {
+        "Document ID": "0000431",
+        "Focus": "GM3 synthase deficiency"
+    },
+    {
+        "Document ID": "0000357",
+        "Focus": "familial isolated hyperparathyroidism"
+    },
+    {
+        "Document ID": "0001049",
+        "Focus": "X-linked congenital stationary night blindness"
+    },
+    {
+        "Document ID": "0001061",
+        "Focus": "X-linked severe combined immunodeficiency"
+    },
+    {
+        "Document ID": "0000419",
+        "Focus": "glutathione synthetase deficiency"
+    },
+    {
+        "Document ID": "0001075",
+        "Focus": "17-beta hydroxysteroid dehydrogenase 3 deficiency"
+    },
+    {
+        "Document ID": "0000380",
+        "Focus": "FOXG1 syndrome"
+    },
+    {
+        "Document ID": "0000394",
+        "Focus": "fucosidosis"
+    },
+    {
+        "Document ID": "0000627",
+        "Focus": "Marfan syndrome"
+    },
+    {
+        "Document ID": "0000141",
+        "Focus": "Buschke-Ollendorff syndrome"
+    },
+    {
+        "Document ID": "0000155",
+        "Focus": "carnitine-acylcarnitine translocase deficiency"
+    },
+    {
+        "Document ID": "0000633",
+        "Focus": "McLeod neuroacanthocytosis syndrome"
+    },
+    {
+        "Document ID": "0000182",
+        "Focus": "chorea-acanthocytosis"
+    },
+    {
+        "Document ID": "0000196",
+        "Focus": "Coffin-Siris syndrome"
+    },
+    {
+        "Document ID": "0000828",
+        "Focus": "progressive familial heart block"
+    },
+    {
+        "Document ID": "0000800",
+        "Focus": "platyspondylic lethal skeletal dysplasia, Torrance type"
+    },
+    {
+        "Document ID": "0000814",
+        "Focus": "PPM-X syndrome"
+    },
+    {
+        "Document ID": "0000753",
+        "Focus": "optic atrophy type 1"
+    },
+    {
+        "Document ID": "0000035",
+        "Focus": "alkaptonuria"
+    },
+    {
+        "Document ID": "0000021",
+        "Focus": "adermatoglyphia"
+    },
+    {
+        "Document ID": "0000747",
+        "Focus": "oculopharyngeal muscular dystrophy"
+    },
+    {
+        "Document ID": "0000009",
+        "Focus": "acral peeling skin syndrome"
+    },
+    {
+        "Document ID": "0000790",
+        "Focus": "Peutz-Jeghers syndrome"
+    },
+    {
+        "Document ID": "0000948",
+        "Focus": "spondyloperipheral dysplasia"
+    },
+    {
+        "Document ID": "0000784",
+        "Focus": "peroxisomal acyl-CoA oxidase deficiency"
+    },
+    {
+        "Document ID": "0000974",
+        "Focus": "tetrahydrobiopterin deficiency"
+    },
+    {
+        "Document ID": "0000960",
+        "Focus": "succinyl-CoA:3-ketoacid CoA transferase deficiency"
+    },
+    {
+        "Document ID": "0000237",
+        "Focus": "congenital plasminogen deficiency"
+    },
+    {
+        "Document ID": "0000551",
+        "Focus": "juvenile primary lateral sclerosis"
+    },
+    {
+        "Document ID": "0000545",
+        "Focus": "juvenile Batten disease"
+    },
+    {
+        "Document ID": "0000223",
+        "Focus": "congenital dyserythropoietic anemia"
+    },
+    {
+        "Document ID": "0000579",
+        "Focus": "Langer-Giedion syndrome"
+    },
+    {
+        "Document ID": "0001101",
+        "Focus": "7q11.23 duplication syndrome"
+    },
+    {
+        "Document ID": "0000592",
+        "Focus": "Lennox-Gastaut syndrome"
+    },
+    {
+        "Document ID": "0000586",
+        "Focus": "lattice corneal dystrophy type II"
+    },
+    {
+        "Document ID": "0000590",
+        "Focus": "Legius syndrome"
+    },
+    {
+        "Document ID": "0000584",
+        "Focus": "late-infantile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "Document ID": "0001103",
+        "Focus": "9q22.3 microdeletion"
+    },
+    {
+        "Document ID": "0000553",
+        "Focus": "Kabuki syndrome"
+    },
+    {
+        "Document ID": "0000235",
+        "Focus": "congenital myasthenic syndrome"
+    },
+    {
+        "Document ID": "0000221",
+        "Focus": "congenital deafness with labyrinthine aplasia, microtia, and microdontia"
+    },
+    {
+        "Document ID": "0000547",
+        "Focus": "juvenile idiopathic arthritis"
+    },
+    {
+        "Document ID": "0000976",
+        "Focus": "thanatophoric dysplasia"
+    },
+    {
+        "Document ID": "0000962",
+        "Focus": "supravalvular aortic stenosis"
+    },
+    {
+        "Document ID": "0000792",
+        "Focus": "phenylketonuria"
+    },
+    {
+        "Document ID": "0000786",
+        "Focus": "Perry syndrome"
+    },
+    {
+        "Document ID": "0000779",
+        "Focus": "Pearson marrow-pancreas syndrome"
+    },
+    {
+        "Document ID": "0000037",
+        "Focus": "allergic asthma"
+    },
+    {
+        "Document ID": "0000751",
+        "Focus": "ophthalmo-acromelic syndrome"
+    },
+    {
+        "Document ID": "0000989",
+        "Focus": "Treacher Collins syndrome"
+    },
+    {
+        "Document ID": "0000745",
+        "Focus": "oculodentodigital dysplasia"
+    },
+    {
+        "Document ID": "0000023",
+        "Focus": "adolescent idiopathic scoliosis"
+    },
+    {
+        "Document ID": "0000802",
+        "Focus": "Pol III-related leukodystrophy"
+    },
+    {
+        "Document ID": "0000816",
+        "Focus": "preeclampsia"
+    },
+    {
+        "Document ID": "0000180",
+        "Focus": "CHOPS syndrome"
+    },
+    {
+        "Document ID": "0000194",
+        "Focus": "Cockayne syndrome"
+    },
+    {
+        "Document ID": "0000619",
+        "Focus": "malignant hyperthermia"
+    },
+    {
+        "Document ID": "0000143",
+        "Focus": "Caffey disease"
+    },
+    {
+        "Document ID": "0000625",
+        "Focus": "mannose-binding lectin deficiency"
+    },
+    {
+        "Document ID": "0000631",
+        "Focus": "McCune-Albright syndrome"
+    },
+    {
+        "Document ID": "0000157",
+        "Focus": "cartilage-hair hypoplasia"
+    },
+    {
+        "Document ID": "0000382",
+        "Focus": "fragile X-associated primary ovarian insufficiency"
+    },
+    {
+        "Document ID": "0000396",
+        "Focus": "fumarase deficiency"
+    },
+    {
+        "Document ID": "0001088",
+        "Focus": "3-beta-hydroxysteroid dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0001063",
+        "Focus": "X-linked sideroblastic anemia and ataxia"
+    },
+    {
+        "Document ID": "0001077",
+        "Focus": "18q deletion syndrome"
+    },
+    {
+        "Document ID": "0000369",
+        "Focus": "Fanconi anemia"
+    },
+    {
+        "Document ID": "0000427",
+        "Focus": "glycogen storage disease type VI"
+    },
+    {
+        "Document ID": "0000341",
+        "Focus": "familial atrial fibrillation"
+    },
+    {
+        "Document ID": "0000355",
+        "Focus": "familial hypobetalipoproteinemia"
+    },
+    {
+        "Document ID": "0000433",
+        "Focus": "Gorlin syndrome"
+    },
+    {
+        "Document ID": "0000354",
+        "Focus": "familial hypertrophic cardiomyopathy"
+    },
+    {
+        "Document ID": "0000432",
+        "Focus": "gnathodiaphyseal dysplasia"
+    },
+    {
+        "Document ID": "0000426",
+        "Focus": "glycogen storage disease type V"
+    },
+    {
+        "Document ID": "0000340",
+        "Focus": "familial adenomatous polyposis"
+    },
+    {
+        "Document ID": "0000368",
+        "Focus": "familial thoracic aortic aneurysm and dissection"
+    },
+    {
+        "Document ID": "0001062",
+        "Focus": "X-linked sideroblastic anemia"
+    },
+    {
+        "Document ID": "0001089",
+        "Focus": "3-hydroxy-3-methylglutaryl-CoA lyase deficiency"
+    },
+    {
+        "Document ID": "0000397",
+        "Focus": "galactosemia"
+    },
+    {
+        "Document ID": "0000383",
+        "Focus": "fragile X-associated tremor/ataxia syndrome"
+    },
+    {
+        "Document ID": "0000630",
+        "Focus": "Mayer-Rokitansky-Kster-Hauser syndrome"
+    },
+    {
+        "Document ID": "0000156",
+        "Focus": "Carpenter syndrome"
+    },
+    {
+        "Document ID": "0000142",
+        "Focus": "C3 glomerulopathy"
+    },
+    {
+        "Document ID": "0000624",
+        "Focus": "Manitoba oculotrichoanal syndrome"
+    },
+    {
+        "Document ID": "0000618",
+        "Focus": "mal de Meleda"
+    },
+    {
+        "Document ID": "0000195",
+        "Focus": "Coffin-Lowry syndrome"
+    },
+    {
+        "Document ID": "0000181",
+        "Focus": "chordoma"
+    },
+    {
+        "Document ID": "0000817",
+        "Focus": "prekallikrein deficiency"
+    },
+    {
+        "Document ID": "0000803",
+        "Focus": "Poland syndrome"
+    },
+    {
+        "Document ID": "0000744",
+        "Focus": "oculocutaneous albinism"
+    },
+    {
+        "Document ID": "0000022",
+        "Focus": "adiposis dolorosa"
+    },
+    {
+        "Document ID": "0000036",
+        "Focus": "Allan-Herndon-Dudley syndrome"
+    },
+    {
+        "Document ID": "0000988",
+        "Focus": "transthyretin amyloidosis"
+    },
+    {
+        "Document ID": "0000750",
+        "Focus": "Ollier disease"
+    },
+    {
+        "Document ID": "0000778",
+        "Focus": "PDGFRB-associated chronic eosinophilic leukemia"
+    },
+    {
+        "Document ID": "0000787",
+        "Focus": "persistent Mllerian duct syndrome"
+    },
+    {
+        "Document ID": "0000793",
+        "Focus": "phosphoglycerate dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000963",
+        "Focus": "surfactant dysfunction"
+    },
+    {
+        "Document ID": "0000977",
+        "Focus": "thiamine-responsive megaloblastic anemia syndrome"
+    },
+    {
+        "Document ID": "0000220",
+        "Focus": "congenital contractural arachnodactyly"
+    },
+    {
+        "Document ID": "0000546",
+        "Focus": "juvenile hyaline fibromatosis"
+    },
+    {
+        "Document ID": "0000552",
+        "Focus": "juvenile primary osteoporosis"
+    },
+    {
+        "Document ID": "0000234",
+        "Focus": "congenital mirror movement disorder"
+    },
+    {
+        "Document ID": "0001102",
+        "Focus": "8p11 myeloproliferative syndrome"
+    },
+    {
+        "Document ID": "0000208",
+        "Focus": "complement component 2 deficiency"
+    },
+    {
+        "Document ID": "0000585",
+        "Focus": "lattice corneal dystrophy type I"
+    },
+    {
+        "Document ID": "0000591",
+        "Focus": "Leigh syndrome"
+    },
+    {
+        "Document ID": "0000595",
+        "Focus": "Lesch-Nyhan syndrome"
+    },
+    {
+        "Document ID": "0000581",
+        "Focus": "Laron syndrome"
+    },
+    {
+        "Document ID": "0000230",
+        "Focus": "congenital hypothyroidism"
+    },
+    {
+        "Document ID": "0000556",
+        "Focus": "KBG syndrome"
+    },
+    {
+        "Document ID": "0000542",
+        "Focus": "Jervell and Lange-Nielsen syndrome"
+    },
+    {
+        "Document ID": "0000224",
+        "Focus": "congenital fiber-type disproportion"
+    },
+    {
+        "Document ID": "0000218",
+        "Focus": "congenital cataracts, facial dysmorphism, and neuropathy"
+    },
+    {
+        "Document ID": "0000797",
+        "Focus": "piebaldism"
+    },
+    {
+        "Document ID": "0000783",
+        "Focus": "permanent neonatal diabetes mellitus"
+    },
+    {
+        "Document ID": "0000973",
+        "Focus": "tetra-amelia syndrome"
+    },
+    {
+        "Document ID": "0000967",
+        "Focus": "systemic scleroderma"
+    },
+    {
+        "Document ID": "0000754",
+        "Focus": "oral-facial-digital syndrome"
+    },
+    {
+        "Document ID": "0000032",
+        "Focus": "ALG1-congenital disorder of glycosylation"
+    },
+    {
+        "Document ID": "0000026",
+        "Focus": "African iron overload"
+    },
+    {
+        "Document ID": "0000740",
+        "Focus": "North American Indian childhood cirrhosis"
+    },
+    {
+        "Document ID": "0000998",
+        "Focus": "Troyer syndrome"
+    },
+    {
+        "Document ID": "0000768",
+        "Focus": "Pallister-Killian mosaic syndrome"
+    },
+    {
+        "Document ID": "0000185",
+        "Focus": "chronic atrial and intestinal dysrhythmia"
+    },
+    {
+        "Document ID": "0000807",
+        "Focus": "polymicrogyria"
+    },
+    {
+        "Document ID": "0000813",
+        "Focus": "Potocki-Shaffer syndrome"
+    },
+    {
+        "Document ID": "0000620",
+        "Focus": "malignant migrating partial seizures of infancy"
+    },
+    {
+        "Document ID": "0000146",
+        "Focus": "Canavan disease"
+    },
+    {
+        "Document ID": "0000152",
+        "Focus": "Carney complex"
+    },
+    {
+        "Document ID": "0000634",
+        "Focus": "Meckel syndrome"
+    },
+    {
+        "Document ID": "0000608",
+        "Focus": "lung cancer"
+    },
+    {
+        "Document ID": "0000387",
+        "Focus": "Freeman-Sheldon syndrome"
+    },
+    {
+        "Document ID": "0001099",
+        "Focus": "5q minus syndrome"
+    },
+    {
+        "Document ID": "0000393",
+        "Focus": "Fuchs endothelial dystrophy"
+    },
+    {
+        "Document ID": "0000344",
+        "Focus": "familial dilated cardiomyopathy"
+    },
+    {
+        "Document ID": "0000422",
+        "Focus": "glycogen storage disease type I"
+    },
+    {
+        "Document ID": "0000436",
+        "Focus": "Graves disease"
+    },
+    {
+        "Document ID": "0000350",
+        "Focus": "familial HDL deficiency"
+    },
+    {
+        "Document ID": "0001066",
+        "Focus": "xeroderma pigmentosum"
+    },
+    {
+        "Document ID": "0000378",
+        "Focus": "Floating-Harbor syndrome"
+    },
+    {
+        "Document ID": "0001072",
+        "Focus": "16p11.2 deletion syndrome"
+    },
+    {
+        "Document ID": "0000379",
+        "Focus": "focal dermal hypoplasia"
+    },
+    {
+        "Document ID": "0001067",
+        "Focus": "Y chromosome infertility"
+    },
+    {
+        "Document ID": "0000437",
+        "Focus": "gray platelet syndrome"
+    },
+    {
+        "Document ID": "0000351",
+        "Focus": "familial hemiplegic migraine"
+    },
+    {
+        "Document ID": "0000345",
+        "Focus": "familial dysautonomia"
+    },
+    {
+        "Document ID": "0000423",
+        "Focus": "glycogen storage disease type III"
+    },
+    {
+        "Document ID": "0000392",
+        "Focus": "Fryns syndrome"
+    },
+    {
+        "Document ID": "0001098",
+        "Focus": "5-alpha reductase deficiency"
+    },
+    {
+        "Document ID": "0000386",
+        "Focus": "Frasier syndrome"
+    },
+    {
+        "Document ID": "0000609",
+        "Focus": "lymphangioleiomyomatosis"
+    },
+    {
+        "Document ID": "0000153",
+        "Focus": "carnitine palmitoyltransferase I deficiency"
+    },
+    {
+        "Document ID": "0000635",
+        "Focus": "MECP2 duplication syndrome"
+    },
+    {
+        "Document ID": "0000621",
+        "Focus": "malonyl-CoA decarboxylase deficiency"
+    },
+    {
+        "Document ID": "0000147",
+        "Focus": "Cant syndrome"
+    },
+    {
+        "Document ID": "0000812",
+        "Focus": "potassium-aggravated myotonia"
+    },
+    {
+        "Document ID": "0000806",
+        "Focus": "polycythemia vera"
+    },
+    {
+        "Document ID": "0000190",
+        "Focus": "cleidocranial dysplasia"
+    },
+    {
+        "Document ID": "0000184",
+        "Focus": "Christianson syndrome"
+    },
+    {
+        "Document ID": "0000769",
+        "Focus": "palmoplantar keratoderma with deafness"
+    },
+    {
+        "Document ID": "0000027",
+        "Focus": "age-related macular degeneration"
+    },
+    {
+        "Document ID": "0000999",
+        "Focus": "tuberous sclerosis complex"
+    },
+    {
+        "Document ID": "0000741",
+        "Focus": "Northern epilepsy"
+    },
+    {
+        "Document ID": "0000755",
+        "Focus": "ornithine transcarbamylase deficiency"
+    },
+    {
+        "Document ID": "0000033",
+        "Focus": "ALG12-congenital disorder of glycosylation"
+    },
+    {
+        "Document ID": "0000966",
+        "Focus": "systemic lupus erythematosus"
+    },
+    {
+        "Document ID": "0000972",
+        "Focus": "Tay-Sachs disease"
+    },
+    {
+        "Document ID": "0000782",
+        "Focus": "periventricular heterotopia"
+    },
+    {
+        "Document ID": "0000796",
+        "Focus": "phosphoribosylpyrophosphate synthetase superactivity"
+    },
+    {
+        "Document ID": "0000219",
+        "Focus": "congenital central hypoventilation syndrome"
+    },
+    {
+        "Document ID": "0000543",
+        "Focus": "Joubert syndrome"
+    },
+    {
+        "Document ID": "0000225",
+        "Focus": "congenital fibrosis of the extraocular muscles"
+    },
+    {
+        "Document ID": "0000231",
+        "Focus": "congenital insensitivity to pain"
+    },
+    {
+        "Document ID": "0000557",
+        "Focus": "Kearns-Sayre syndrome"
+    },
+    {
+        "Document ID": "0000580",
+        "Focus": "Langerhans cell histiocytosis"
+    },
+    {
+        "Document ID": "0000594",
+        "Focus": "leptin receptor deficiency"
+    },
+    {
+        "Document ID": "0000582",
+        "Focus": "Larsen syndrome"
+    },
+    {
+        "Document ID": "0000596",
+        "Focus": "leukocyte adhesion deficiency type 1"
+    },
+    {
+        "Document ID": "0000227",
+        "Focus": "congenital hemidysplasia with ichthyosiform erythroderma and limb defects"
+    },
+    {
+        "Document ID": "0000541",
+        "Focus": "Jacobsen syndrome"
+    },
+    {
+        "Document ID": "0000555",
+        "Focus": "Kawasaki disease"
+    },
+    {
+        "Document ID": "0000233",
+        "Focus": "congenital leptin deficiency"
+    },
+    {
+        "Document ID": "0000569",
+        "Focus": "Kuskokwim syndrome"
+    },
+    {
+        "Document ID": "0000958",
+        "Focus": "succinate-CoA ligase deficiency"
+    },
+    {
+        "Document ID": "0000780",
+        "Focus": "Pelizaeus-Merzbacher disease"
+    },
+    {
+        "Document ID": "0000794",
+        "Focus": "phosphoglycerate kinase deficiency"
+    },
+    {
+        "Document ID": "0000964",
+        "Focus": "Swyer syndrome"
+    },
+    {
+        "Document ID": "0000970",
+        "Focus": "tarsal-carpal coalition syndrome"
+    },
+    {
+        "Document ID": "0000743",
+        "Focus": "ocular albinism"
+    },
+    {
+        "Document ID": "0000025",
+        "Focus": "adult-onset leukoencephalopathy with axonal spheroids and pigmented glia"
+    },
+    {
+        "Document ID": "0000031",
+        "Focus": "Alexander disease"
+    },
+    {
+        "Document ID": "0000757",
+        "Focus": "osteogenesis imperfecta"
+    },
+    {
+        "Document ID": "0000019",
+        "Focus": "adenosine monophosphate deaminase deficiency"
+    },
+    {
+        "Document ID": "0000192",
+        "Focus": "Clouston syndrome"
+    },
+    {
+        "Document ID": "0000186",
+        "Focus": "chronic granulomatous disease"
+    },
+    {
+        "Document ID": "0000838",
+        "Focus": "protein S deficiency"
+    },
+    {
+        "Document ID": "0000810",
+        "Focus": "popliteal pterygium syndrome"
+    },
+    {
+        "Document ID": "0000804",
+        "Focus": "polycystic kidney disease"
+    },
+    {
+        "Document ID": "0000637",
+        "Focus": "medium-chain acyl-CoA dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000151",
+        "Focus": "cardiofaciocutaneous syndrome"
+    },
+    {
+        "Document ID": "0000145",
+        "Focus": "Camurati-Engelmann disease"
+    },
+    {
+        "Document ID": "0000623",
+        "Focus": "mandibulofacial dysostosis with microcephaly"
+    },
+    {
+        "Document ID": "0000179",
+        "Focus": "cholesteryl ester storage disease"
+    },
+    {
+        "Document ID": "0000390",
+        "Focus": "frontonasal dysplasia"
+    },
+    {
+        "Document ID": "0000384",
+        "Focus": "fragile XE syndrome"
+    },
+    {
+        "Document ID": "0000353",
+        "Focus": "familial hyperaldosteronism"
+    },
+    {
+        "Document ID": "0000435",
+        "Focus": "granulomatosis with polyangiitis"
+    },
+    {
+        "Document ID": "0000421",
+        "Focus": "glycogen storage disease type 0"
+    },
+    {
+        "Document ID": "0001059",
+        "Focus": "X-linked lymphoproliferative disease"
+    },
+    {
+        "Document ID": "0000347",
+        "Focus": "familial erythrocytosis"
+    },
+    {
+        "Document ID": "0001071",
+        "Focus": "15q24 microdeletion"
+    },
+    {
+        "Document ID": "0000409",
+        "Focus": "Gitelman syndrome"
+    },
+    {
+        "Document ID": "0001065",
+        "Focus": "X-linked thrombocytopenia"
+    },
+    {
+        "Document ID": "0001064",
+        "Focus": "X-linked spondyloepiphyseal dysplasia tarda"
+    },
+    {
+        "Document ID": "0001070",
+        "Focus": "15q13.3 microdeletion"
+    },
+    {
+        "Document ID": "0000408",
+        "Focus": "Gillespie syndrome"
+    },
+    {
+        "Document ID": "0000420",
+        "Focus": "glycine encephalopathy"
+    },
+    {
+        "Document ID": "0000346",
+        "Focus": "familial encephalopathy with neuroserpin inclusion bodies"
+    },
+    {
+        "Document ID": "0001058",
+        "Focus": "X-linked lissencephaly with abnormal genitalia"
+    },
+    {
+        "Document ID": "0000352",
+        "Focus": "familial hemophagocytic lymphohistiocytosis"
+    },
+    {
+        "Document ID": "0000434",
+        "Focus": "GRACILE syndrome"
+    },
+    {
+        "Document ID": "0000385",
+        "Focus": "Fraser syndrome"
+    },
+    {
+        "Document ID": "0000391",
+        "Focus": "frontotemporal dementia with parkinsonism-17"
+    },
+    {
+        "Document ID": "0000178",
+        "Focus": "CHMP2B-related frontotemporal dementia"
+    },
+    {
+        "Document ID": "0000144",
+        "Focus": "campomelic dysplasia"
+    },
+    {
+        "Document ID": "0000622",
+        "Focus": "mandibuloacral dysplasia"
+    },
+    {
+        "Document ID": "0000636",
+        "Focus": "MECP2-related severe neonatal encephalopathy"
+    },
+    {
+        "Document ID": "0000150",
+        "Focus": "carbamoyl phosphate synthetase I deficiency"
+    },
+    {
+        "Document ID": "0000805",
+        "Focus": "polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy"
+    },
+    {
+        "Document ID": "0000811",
+        "Focus": "porphyria"
+    },
+    {
+        "Document ID": "0000187",
+        "Focus": "CHST3-related skeletal dysplasia"
+    },
+    {
+        "Document ID": "0000839",
+        "Focus": "Proteus syndrome"
+    },
+    {
+        "Document ID": "0000193",
+        "Focus": "Coats plus syndrome"
+    },
+    {
+        "Document ID": "0000018",
+        "Focus": "adenosine deaminase deficiency"
+    },
+    {
+        "Document ID": "0000030",
+        "Focus": "Alagille syndrome"
+    },
+    {
+        "Document ID": "0000756",
+        "Focus": "ornithine translocase deficiency"
+    },
+    {
+        "Document ID": "0000742",
+        "Focus": "Ochoa syndrome"
+    },
+    {
+        "Document ID": "0000024",
+        "Focus": "adult polyglucosan body disease"
+    },
+    {
+        "Document ID": "0000971",
+        "Focus": "task-specific focal dystonia"
+    },
+    {
+        "Document ID": "0000965",
+        "Focus": "SYNGAP1-related intellectual disability"
+    },
+    {
+        "Document ID": "0000795",
+        "Focus": "phosphoglycerate mutase deficiency"
+    },
+    {
+        "Document ID": "0000781",
+        "Focus": "Pendred syndrome"
+    },
+    {
+        "Document ID": "0000959",
+        "Focus": "succinic semialdehyde dehydrogenase deficiency"
+    },
+    {
+        "Document ID": "0000568",
+        "Focus": "Kufs disease"
+    },
+    {
+        "Document ID": "0000554",
+        "Focus": "Kallmann syndrome"
+    },
+    {
+        "Document ID": "0000232",
+        "Focus": "congenital insensitivity to pain with anhidrosis"
+    },
+    {
+        "Document ID": "0000226",
+        "Focus": "congenital generalized lipodystrophy"
+    },
+    {
+        "Document ID": "0000540",
+        "Focus": "Jackson-Weiss syndrome"
+    },
+    {
+        "Document ID": "0000597",
+        "Focus": "leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation"
+    },
+    {
+        "Document ID": "0000583",
+        "Focus": "laryngo-onycho-cutaneous syndrome"
+    }
+]

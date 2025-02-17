@@ -1,0 +1,354 @@
+[
+    {
+        "Document ID": "0000029",
+        "Focus": "Cardiomyopathy"
+    },
+    {
+        "Document ID": "0000001",
+        "Focus": "Alpha-1 Antitrypsin Deficiency"
+    },
+    {
+        "Document ID": "0000028",
+        "Focus": "Cardiogenic Shock"
+    },
+    {
+        "Document ID": "0000002",
+        "Focus": "Anemia"
+    },
+    {
+        "Document ID": "0000003",
+        "Focus": "Aneurysm"
+    },
+    {
+        "Document ID": "0000013",
+        "Focus": "Atrial Fibrillation"
+    },
+    {
+        "Document ID": "0000007",
+        "Focus": "ARDS"
+    },
+    {
+        "Document ID": "0000006",
+        "Focus": "Aplastic Anemia"
+    },
+    {
+        "Document ID": "0000012",
+        "Focus": "Atherosclerosis"
+    },
+    {
+        "Document ID": "0000004",
+        "Focus": "Angina"
+    },
+    {
+        "Document ID": "0000010",
+        "Focus": "Asthma"
+    },
+    {
+        "Document ID": "0000038",
+        "Focus": "Childhood Interstitial Lung Disease"
+    },
+    {
+        "Document ID": "0000039",
+        "Focus": "Congenital Heart Defects"
+    },
+    {
+        "Document ID": "0000005",
+        "Focus": "Antiphospholipid Antibody Syndrome"
+    },
+    {
+        "Document ID": "0000089",
+        "Focus": "Marfan Syndrome"
+    },
+    {
+        "Document ID": "0000062",
+        "Focus": "Heart Murmur"
+    },
+    {
+        "Document ID": "0000076",
+        "Focus": "Hypersensitivity Pneumonitis"
+    },
+    {
+        "Document ID": "0000116",
+        "Focus": "Sarcoidosis"
+    },
+    {
+        "Document ID": "0000102",
+        "Focus": "Pernicious Anemia"
+    },
+    {
+        "Document ID": "0000117",
+        "Focus": "Sickle Cell Disease"
+    },
+    {
+        "Document ID": "0000077",
+        "Focus": "Hypotension"
+    },
+    {
+        "Document ID": "0000063",
+        "Focus": "Heart Palpitations"
+    },
+    {
+        "Document ID": "0000049",
+        "Focus": "Cystic Fibrosis"
+    },
+    {
+        "Document ID": "0000061",
+        "Focus": "Heart Failure"
+    },
+    {
+        "Document ID": "0000129",
+        "Focus": "Thrombocythemia and Thrombocytosis"
+    },
+    {
+        "Document ID": "0000101",
+        "Focus": "Peripheral Artery Disease"
+    },
+    {
+        "Document ID": "0000115",
+        "Focus": "Rh Incompatibility"
+    },
+    {
+        "Document ID": "0000114",
+        "Focus": "Restless Legs Syndrome"
+    },
+    {
+        "Document ID": "0000100",
+        "Focus": "Pericarditis"
+    },
+    {
+        "Document ID": "0000060",
+        "Focus": "Heart Disease in Women"
+    },
+    {
+        "Document ID": "0000070",
+        "Focus": "High Blood Cholesterol"
+    },
+    {
+        "Document ID": "0000058",
+        "Focus": "Heart Attack"
+    },
+    {
+        "Document ID": "0000104",
+        "Focus": "Pleurisy and Other Pleural Disorders"
+    },
+    {
+        "Document ID": "0000139",
+        "Focus": "Von Willebrand Disease"
+    },
+    {
+        "Document ID": "0000105",
+        "Focus": "Pneumonia"
+    },
+    {
+        "Document ID": "0000059",
+        "Focus": "Heart Block"
+    },
+    {
+        "Document ID": "0000071",
+        "Focus": "High Blood Pressure"
+    },
+    {
+        "Document ID": "0000098",
+        "Focus": "Patent Ductus Arteriosus"
+    },
+    {
+        "Document ID": "0000067",
+        "Focus": "Hemochromatosis"
+    },
+    {
+        "Document ID": "0000113",
+        "Focus": "Respiratory Failure"
+    },
+    {
+        "Document ID": "0000107",
+        "Focus": "Primary Ciliary Dyskinesia"
+    },
+    {
+        "Document ID": "0000106",
+        "Focus": "Polycythemia Vera"
+    },
+    {
+        "Document ID": "0000112",
+        "Focus": "Respiratory Distress Syndrome"
+    },
+    {
+        "Document ID": "0000072",
+        "Focus": "Holes in the Heart"
+    },
+    {
+        "Document ID": "0000066",
+        "Focus": "Heart Valve Disease"
+    },
+    {
+        "Document ID": "0000094",
+        "Focus": "Obesity Hypoventilation Syndrome"
+    },
+    {
+        "Document ID": "0000057",
+        "Focus": "Fanconi Anemia"
+    },
+    {
+        "Document ID": "0000136",
+        "Focus": "Vasculitis"
+    },
+    {
+        "Document ID": "0000056",
+        "Focus": "Endocarditis"
+    },
+    {
+        "Document ID": "0000095",
+        "Focus": "Overweight and Obesity"
+    },
+    {
+        "Document ID": "0000081",
+        "Focus": "Insomnia"
+    },
+    {
+        "Document ID": "0000083",
+        "Focus": "Kawasaki Disease"
+    },
+    {
+        "Document ID": "0000068",
+        "Focus": "Hemolytic Anemia"
+    },
+    {
+        "Document ID": "0000108",
+        "Focus": "Pulmonary Embolism"
+    },
+    {
+        "Document ID": "0000135",
+        "Focus": "Varicose Veins"
+    },
+    {
+        "Document ID": "0000121",
+        "Focus": "Smoking and Your Heart"
+    },
+    {
+        "Document ID": "0000109",
+        "Focus": "Pulmonary Hypertension"
+    },
+    {
+        "Document ID": "0000055",
+        "Focus": "Electrocardiogram"
+    },
+    {
+        "Document ID": "0000069",
+        "Focus": "Hemophilia"
+    },
+    {
+        "Document ID": "0000082",
+        "Focus": "Iron-Deficiency Anemia"
+    },
+    {
+        "Document ID": "0000096",
+        "Focus": "Oxygen Therapy"
+    },
+    {
+        "Document ID": "0000092",
+        "Focus": "Narcolepsy"
+    },
+    {
+        "Document ID": "0000051",
+        "Focus": "Deep Vein Thrombosis"
+    },
+    {
+        "Document ID": "0000045",
+        "Focus": "Coronary Heart Disease Risk Factors"
+    },
+    {
+        "Document ID": "0000079",
+        "Focus": "Immune Thrombocytopenia"
+    },
+    {
+        "Document ID": "0000125",
+        "Focus": "Sudden Cardiac Arrest"
+    },
+    {
+        "Document ID": "0000131",
+        "Focus": "Thrombotic Thrombocytopenic Purpura"
+    },
+    {
+        "Document ID": "0000119",
+        "Focus": "Sleep Deprivation and Deficiency"
+    },
+    {
+        "Document ID": "0000118",
+        "Focus": "Sleep Apnea"
+    },
+    {
+        "Document ID": "0000130",
+        "Focus": "Thrombocytopenia"
+    },
+    {
+        "Document ID": "0000124",
+        "Focus": "Stroke"
+    },
+    {
+        "Document ID": "0000078",
+        "Focus": "Idiopathic Pulmonary Fibrosis"
+    },
+    {
+        "Document ID": "0000044",
+        "Focus": "Coronary Heart Disease"
+    },
+    {
+        "Document ID": "0000091",
+        "Focus": "Mitral Valve Prolapse"
+    },
+    {
+        "Document ID": "0000046",
+        "Focus": "Coronary Microvascular Disease"
+    },
+    {
+        "Document ID": "0000052",
+        "Focus": "Diabetic Heart Disease"
+    },
+    {
+        "Document ID": "0000126",
+        "Focus": "Tetralogy of Fallot"
+    },
+    {
+        "Document ID": "0000127",
+        "Focus": "Thalassemias"
+    },
+    {
+        "Document ID": "0000053",
+        "Focus": "Disseminated Intravascular Coagulation"
+    },
+    {
+        "Document ID": "0000047",
+        "Focus": "Cough"
+    },
+    {
+        "Document ID": "0000090",
+        "Focus": "Metabolic Syndrome"
+    },
+    {
+        "Document ID": "0000008",
+        "Focus": "Arrhythmia"
+    },
+    {
+        "Document ID": "0000020",
+        "Focus": "Bronchiectasis"
+    },
+    {
+        "Document ID": "0000021",
+        "Focus": "Bronchitis"
+    },
+    {
+        "Document ID": "0000009",
+        "Focus": "Asbestos-Related Lung Diseases"
+    },
+    {
+        "Document ID": "0000022",
+        "Focus": "Bronchopulmonary Dysplasia"
+    },
+    {
+        "Document ID": "0000031",
+        "Focus": "Carotid Artery Disease"
+    },
+    {
+        "Document ID": "0000019",
+        "Focus": "Broken Heart Syndrome"
+    }
+]

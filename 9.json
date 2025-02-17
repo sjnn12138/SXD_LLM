@@ -1,0 +1,238 @@
+[
+    {
+        "Document ID": "0000001",
+        "Focus": "Acanthamoeba - Granulomatous Amebic Encephalitis (GAE); Keratitis"
+    },
+    {
+        "Document ID": "0000015",
+        "Focus": "Parasites - Angiostrongyliasis (also known as Angiostrongylus Infection)"
+    },
+    {
+        "Document ID": "0000439",
+        "Focus": "Yersinia"
+    },
+    {
+        "Document ID": "0000438",
+        "Focus": "Yellow Fever Vaccination"
+    },
+    {
+        "Document ID": "0000014",
+        "Focus": "Anaplasmosis"
+    },
+    {
+        "Document ID": "0000228",
+        "Focus": "Hendra Virus Disease (HeV)"
+    },
+    {
+        "Document ID": "0000214",
+        "Focus": "Parasites - Lice - Head Lice"
+    },
+    {
+        "Document ID": "0000163",
+        "Focus": "Parasites - Fascioliasis (Fasciola Infection)"
+    },
+    {
+        "Document ID": "0000003",
+        "Focus": "Acinetobacter in Healthcare Settings"
+    },
+    {
+        "Document ID": "0000364",
+        "Focus": "Parasites - Scabies"
+    },
+    {
+        "Document ID": "0000199",
+        "Focus": null
+    },
+    {
+        "Document ID": "0000212",
+        "Focus": "Hantavirus"
+    },
+    {
+        "Document ID": "0000038",
+        "Focus": "Parasites - Babesiosis"
+    },
+    {
+        "Document ID": "0000399",
+        "Focus": "Tuberculosis (TB)"
+    },
+    {
+        "Document ID": "0000414",
+        "Focus": "Parasites - Toxocariasis (also known as Roundworm Infection)"
+    },
+    {
+        "Document ID": "0000366",
+        "Focus": "Parasites - Schistosomiasis"
+    },
+    {
+        "Document ID": "0000415",
+        "Focus": "Parasites - Toxoplasmosis (Toxoplasma infection)"
+    },
+    {
+        "Document ID": "0000261",
+        "Focus": "Parasites - Leishmaniasis"
+    },
+    {
+        "Document ID": "0000272",
+        "Focus": "Marburg hemorrhagic fever (Marburg HF)"
+    },
+    {
+        "Document ID": "0000266",
+        "Focus": "Lujo Hemorrhagic Fever (LUHF)"
+    },
+    {
+        "Document ID": "0000313",
+        "Focus": "Omsk Hemorrhagic Fever (OHF)"
+    },
+    {
+        "Document ID": "0000273",
+        "Focus": "Marine Toxins"
+    },
+    {
+        "Document ID": "0000265",
+        "Focus": "Parasites - Loiasis"
+    },
+    {
+        "Document ID": "0000305",
+        "Focus": "Nocardiosis"
+    },
+    {
+        "Document ID": "0000339",
+        "Focus": "Parasites - Lice - Pubic \"Crab\" Lice"
+    },
+    {
+        "Document ID": "0000258",
+        "Focus": "Lymphocytic Choriomeningitis (LCM)"
+    },
+    {
+        "Document ID": "0000269",
+        "Focus": "Parasites - Lymphatic Filariasis"
+    },
+    {
+        "Document ID": "0000241",
+        "Focus": "Parasites - Hookworm"
+    },
+    {
+        "Document ID": "0000255",
+        "Focus": "La Crosse Encephalitis"
+    },
+    {
+        "Document ID": "0000094",
+        "Focus": "Varicella (Chickenpox) Vaccination"
+    },
+    {
+        "Document ID": "0000254",
+        "Focus": "Kyasanur Forest Disease (KFD)"
+    },
+    {
+        "Document ID": "0000054",
+        "Focus": "Botulism"
+    },
+    {
+        "Document ID": "0000120",
+        "Focus": "Parasites - Cyclosporiasis (Cyclospora Infection)"
+    },
+    {
+        "Document ID": "0000121",
+        "Focus": "Parasites - Cysticercosis"
+    },
+    {
+        "Document ID": "0000092",
+        "Focus": "Chapare Hemorrhagic Fever (CHHF)"
+    },
+    {
+        "Document ID": "0000327",
+        "Focus": "Parasites - Enterobiasis (also known as Pinworm Infection)"
+    },
+    {
+        "Document ID": "0000440",
+        "Focus": "Parasites - Zoonotic Hookworm"
+    },
+    {
+        "Document ID": "0000087",
+        "Focus": "Crimean-Congo Hemorrhagic Fever (CCHF)"
+    },
+    {
+        "Document ID": "0000244",
+        "Focus": "2009 H1N1 Flu"
+    },
+    {
+        "Document ID": "0000091",
+        "Focus": "Parasites - American Trypanosomiasis (also known as Chagas Disease)"
+    },
+    {
+        "Document ID": "0000319",
+        "Focus": "Parasites - Paragonimiasis (also known as Paragonimus Infection)"
+    },
+    {
+        "Document ID": "0000053",
+        "Focus": "Parasites - Lice - Body Lice"
+    },
+    {
+        "Document ID": "0000090",
+        "Focus": "Chronic Fatigue Syndrome (CFS)"
+    },
+    {
+        "Document ID": "0000008",
+        "Focus": "Alkhurma Hemorrhagic Fever (AHF)"
+    },
+    {
+        "Document ID": "0000381",
+        "Focus": "Parasites - African Trypanosomiasis (also known as Sleeping Sickness)"
+    },
+    {
+        "Document ID": "0000418",
+        "Focus": "Parasites - Trichinellosis (also known as Trichinosis)"
+    },
+    {
+        "Document ID": "0000342",
+        "Focus": "Rabies"
+    },
+    {
+        "Document ID": "0000424",
+        "Focus": null
+    },
+    {
+        "Document ID": "0000419",
+        "Focus": "Typhoid Fever"
+    },
+    {
+        "Document ID": "0000141",
+        "Focus": "Eastern Equine Encephalitis"
+    },
+    {
+        "Document ID": "0000341",
+        "Focus": "Q Fever"
+    },
+    {
+        "Document ID": "0000354",
+        "Focus": "Rocky Mountain Spotted Fever (RMSF)"
+    },
+    {
+        "Document ID": "0000432",
+        "Focus": "Parasites - Trichuriasis (also known as Whipworm Infection)"
+    },
+    {
+        "Document ID": null,
+        "Focus": "Parasites - Taeniasis"
+    },
+    {
+        "Document ID": "0000146",
+        "Focus": "Ehrlichiosis"
+    },
+    {
+        "Document ID": "0000344",
+        "Focus": "Parasites - Baylisascaris infection"
+    },
+    {
+        "Document ID": "0000423",
+        "Focus": null
+    },
+    {
+        "Document ID": "0000144",
+        "Focus": "Parasites - Echinococcosis"
+    },
+    {
+        "Document ID": "0000030",
+        "Focus": "Parasites - Ascariasis"
+    }
+]

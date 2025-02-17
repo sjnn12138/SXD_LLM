@@ -1,0 +1,5250 @@
+[
+    {
+        "Document ID": "0000559",
+        "Focus": "Glycopyrrolate"
+    },
+    {
+        "Document ID": "0001121",
+        "Focus": "Sodium Ferric Gluconate Injection"
+    },
+    {
+        "Document ID": "0001135",
+        "Focus": "Stavudine"
+    },
+    {
+        "Document ID": "0000565",
+        "Focus": "Griseofulvin"
+    },
+    {
+        "Document ID": "0000203",
+        "Focus": "Carvedilol"
+    },
+    {
+        "Document ID": "0000217",
+        "Focus": "Ceftaroline Injection"
+    },
+    {
+        "Document ID": "0001109",
+        "Focus": "Shingles (Zoster) Vaccine"
+    },
+    {
+        "Document ID": "0000571",
+        "Focus": "Halobetasol"
+    },
+    {
+        "Document ID": "0000940",
+        "Focus": "Papaverine"
+    },
+    {
+        "Document ID": "0000798",
+        "Focus": "Midazolam Injection"
+    },
+    {
+        "Document ID": "0000954",
+        "Focus": "Pemetrexed Injection"
+    },
+    {
+        "Document ID": "0000968",
+        "Focus": "Peramivir Injection"
+    },
+    {
+        "Document ID": "0000983",
+        "Focus": "Pilocarpine"
+    },
+    {
+        "Document ID": "0000997",
+        "Focus": "Polio Vaccine"
+    },
+    {
+        "Document ID": "0000029",
+        "Focus": "Albuterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000001",
+        "Focus": "Abacavir"
+    },
+    {
+        "Document ID": "0000767",
+        "Focus": "Metaxalone"
+    },
+    {
+        "Document ID": "0000773",
+        "Focus": "Methimazole"
+    },
+    {
+        "Document ID": "0000015",
+        "Focus": "Aclidinium Oral Inhalation"
+    },
+    {
+        "Document ID": "0001294",
+        "Focus": "Voriconazole"
+    },
+    {
+        "Document ID": "0000834",
+        "Focus": "Nafcillin Sodium Injection"
+    },
+    {
+        "Document ID": "0000820",
+        "Focus": "Mometasone Topical"
+    },
+    {
+        "Document ID": "0001280",
+        "Focus": "Varicella (Chickenpox) Vaccine"
+    },
+    {
+        "Document ID": "0000808",
+        "Focus": "Mirabegron"
+    },
+    {
+        "Document ID": "0000149",
+        "Focus": "Bisacodyl"
+    },
+    {
+        "Document ID": "0001257",
+        "Focus": "Trimethoprim"
+    },
+    {
+        "Document ID": "0001243",
+        "Focus": "Trazodone"
+    },
+    {
+        "Document ID": "0000175",
+        "Focus": "Busulfan"
+    },
+    {
+        "Document ID": "0000613",
+        "Focus": "Indacaterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000607",
+        "Focus": "Iloprost"
+    },
+    {
+        "Document ID": "0000161",
+        "Focus": "Brexpiprazole"
+    },
+    {
+        "Document ID": "0000388",
+        "Focus": "Dolasetron Injection"
+    },
+    {
+        "Document ID": "0001096",
+        "Focus": "Saquinavir"
+    },
+    {
+        "Document ID": "0001082",
+        "Focus": "Rolapitant"
+    },
+    {
+        "Document ID": "0001055",
+        "Focus": "Ranolazine"
+    },
+    {
+        "Document ID": "0001041",
+        "Focus": "Quinapril"
+    },
+    {
+        "Document ID": "0000439",
+        "Focus": "Ergoloid Mesylates"
+    },
+    {
+        "Document ID": "0000411",
+        "Focus": "Eculizumab Injection"
+    },
+    {
+        "Document ID": "0001069",
+        "Focus": "RimabotulinumtoxinB Injection"
+    },
+    {
+        "Document ID": "0000377",
+        "Focus": "Diphenhydramine Topical"
+    },
+    {
+        "Document ID": "0000363",
+        "Focus": "Dicyclomine"
+    },
+    {
+        "Document ID": "0000405",
+        "Focus": "Dronedarone"
+    },
+    {
+        "Document ID": "0000362",
+        "Focus": "Dicloxacillin"
+    },
+    {
+        "Document ID": "0000404",
+        "Focus": "Dronabinol"
+    },
+    {
+        "Document ID": "0000410",
+        "Focus": "Econazole Topical"
+    },
+    {
+        "Document ID": "0000376",
+        "Focus": "Diphenhydramine"
+    },
+    {
+        "Document ID": "0001068",
+        "Focus": "Riluzole"
+    },
+    {
+        "Document ID": "0001040",
+        "Focus": "Quetiapine"
+    },
+    {
+        "Document ID": "0000438",
+        "Focus": "Eprosartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0001054",
+        "Focus": "Ranitidine Hydrochloride Injection"
+    },
+    {
+        "Document ID": "0001083",
+        "Focus": "Romidepsin Injection"
+    },
+    {
+        "Document ID": "0001097",
+        "Focus": "Sargramostim Injection"
+    },
+    {
+        "Document ID": "0000389",
+        "Focus": "Dolutegravir"
+    },
+    {
+        "Document ID": "0000606",
+        "Focus": "Iloperidone"
+    },
+    {
+        "Document ID": "0000160",
+        "Focus": "Brentuximab Vedotin Injection"
+    },
+    {
+        "Document ID": "0000174",
+        "Focus": "Buspirone"
+    },
+    {
+        "Document ID": "0000612",
+        "Focus": "IncobotulinumtoxinA Injection"
+    },
+    {
+        "Document ID": "0001242",
+        "Focus": "Travoprost Ophthalmic"
+    },
+    {
+        "Document ID": "0001256",
+        "Focus": "Trimethobenzamide"
+    },
+    {
+        "Document ID": "0000148",
+        "Focus": "Bimatoprost Topical"
+    },
+    {
+        "Document ID": "0000809",
+        "Focus": "Mirtazapine"
+    },
+    {
+        "Document ID": "0000821",
+        "Focus": "Montelukast"
+    },
+    {
+        "Document ID": "0001281",
+        "Focus": "Vedolizumab Injection"
+    },
+    {
+        "Document ID": "0001295",
+        "Focus": "Vorinostat"
+    },
+    {
+        "Document ID": "0000835",
+        "Focus": "Naftifine Hydrochloride Topical"
+    },
+    {
+        "Document ID": "0000772",
+        "Focus": "Methenamine"
+    },
+    {
+        "Document ID": "0000014",
+        "Focus": "Acitretin"
+    },
+    {
+        "Document ID": "0000766",
+        "Focus": "Metaproterenol"
+    },
+    {
+        "Document ID": "0000996",
+        "Focus": "Pneumococcal Polysaccharide Vaccine"
+    },
+    {
+        "Document ID": "0000028",
+        "Focus": "Albuterol and Ipratropium Oral Inhalation"
+    },
+    {
+        "Document ID": "0000982",
+        "Focus": "Phytonadione"
+    },
+    {
+        "Document ID": "0000969",
+        "Focus": "Perampanel"
+    },
+    {
+        "Document ID": "0000955",
+        "Focus": "Penbutolol"
+    },
+    {
+        "Document ID": "0000799",
+        "Focus": "Mifepristone (Korlym)"
+    },
+    {
+        "Document ID": "0000941",
+        "Focus": "Paregoric"
+    },
+    {
+        "Document ID": "0001108",
+        "Focus": "Sevelamer"
+    },
+    {
+        "Document ID": "0000216",
+        "Focus": "Cefprozil"
+    },
+    {
+        "Document ID": "0000570",
+        "Focus": "Halcinonide Topical"
+    },
+    {
+        "Document ID": "0000564",
+        "Focus": "Granisetron Transdermal Patch"
+    },
+    {
+        "Document ID": "0000202",
+        "Focus": "Carmustine Implant"
+    },
+    {
+        "Document ID": "0001134",
+        "Focus": "Spironolactone and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000558",
+        "Focus": "Glyburide and Metformin"
+    },
+    {
+        "Document ID": "0001120",
+        "Focus": "Sodium Bicarbonate"
+    },
+    {
+        "Document ID": "0000599",
+        "Focus": "Ibrutinib"
+    },
+    {
+        "Document ID": "0000228",
+        "Focus": "Certolizumab Injection"
+    },
+    {
+        "Document ID": "0001136",
+        "Focus": "Stool Softeners"
+    },
+    {
+        "Document ID": "0001122",
+        "Focus": "Sodium Oxybate"
+    },
+    {
+        "Document ID": "0000572",
+        "Focus": "Haloperidol"
+    },
+    {
+        "Document ID": "0000214",
+        "Focus": "Cefoxitin Injection"
+    },
+    {
+        "Document ID": "0000200",
+        "Focus": "Carisoprodol"
+    },
+    {
+        "Document ID": "0000566",
+        "Focus": "Guaifenesin"
+    },
+    {
+        "Document ID": "0000957",
+        "Focus": "Penicillin G (Potassium, Sodium) Injection"
+    },
+    {
+        "Document ID": "0000943",
+        "Focus": "Patiromer"
+    },
+    {
+        "Document ID": "0000994",
+        "Focus": "Plerixafor Injection"
+    },
+    {
+        "Document ID": "0000758",
+        "Focus": "Meprobamate"
+    },
+    {
+        "Document ID": "0000980",
+        "Focus": "Phenylephrine"
+    },
+    {
+        "Document ID": "0001308",
+        "Focus": "Zoledronic Acid Injection"
+    },
+    {
+        "Document ID": "0000016",
+        "Focus": "Acyclovir"
+    },
+    {
+        "Document ID": "0000770",
+        "Focus": "Methamphetamine"
+    },
+    {
+        "Document ID": "0000764",
+        "Focus": "Mesna Injection"
+    },
+    {
+        "Document ID": "0000002",
+        "Focus": "Abatacept Injection"
+    },
+    {
+        "Document ID": "0001283",
+        "Focus": "Venlafaxine"
+    },
+    {
+        "Document ID": "0000823",
+        "Focus": "Morphine Rectal"
+    },
+    {
+        "Document ID": "0000837",
+        "Focus": "Naloxegol"
+    },
+    {
+        "Document ID": "0001297",
+        "Focus": "Warfarin"
+    },
+    {
+        "Document ID": "0000189",
+        "Focus": "Calcium Carbonate"
+    },
+    {
+        "Document ID": "0001240",
+        "Focus": "Tranylcypromine"
+    },
+    {
+        "Document ID": "0000638",
+        "Focus": "Irbesartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0001254",
+        "Focus": "Trihexyphenidyl"
+    },
+    {
+        "Document ID": "0000162",
+        "Focus": "Brimonidine Ophthalmic"
+    },
+    {
+        "Document ID": "0000604",
+        "Focus": "Idoxuridine Ophthalmic"
+    },
+    {
+        "Document ID": "0000610",
+        "Focus": "Imipramine"
+    },
+    {
+        "Document ID": "0000176",
+        "Focus": "Busulfan Injection"
+    },
+    {
+        "Document ID": "0001268",
+        "Focus": "Valacyclovir"
+    },
+    {
+        "Document ID": "0001081",
+        "Focus": "Roflumilast"
+    },
+    {
+        "Document ID": "0001095",
+        "Focus": "Sapropterin"
+    },
+    {
+        "Document ID": "0001042",
+        "Focus": "Quinidine Oral"
+    },
+    {
+        "Document ID": "0001056",
+        "Focus": "Rasagiline"
+    },
+    {
+        "Document ID": "0000348",
+        "Focus": "Dexmethylphenidate"
+    },
+    {
+        "Document ID": "0000406",
+        "Focus": "Droxidopa"
+    },
+    {
+        "Document ID": "0000360",
+        "Focus": "Diclofenac Topical (osteoarthritis pain)"
+    },
+    {
+        "Document ID": "0000374",
+        "Focus": "Dinoprostone"
+    },
+    {
+        "Document ID": "0000412",
+        "Focus": "Edoxaban"
+    },
+    {
+        "Document ID": "0000375",
+        "Focus": "Dinutuximab Injection"
+    },
+    {
+        "Document ID": "0000413",
+        "Focus": "Efavirenz"
+    },
+    {
+        "Document ID": "0000407",
+        "Focus": "Dulaglutide Injection"
+    },
+    {
+        "Document ID": "0000361",
+        "Focus": "Diclofenac Transdermal Patch"
+    },
+    {
+        "Document ID": "0000349",
+        "Focus": "Dexrazoxane Injection"
+    },
+    {
+        "Document ID": "0001057",
+        "Focus": "Rasburicase Injection"
+    },
+    {
+        "Document ID": "0001043",
+        "Focus": "Quinine"
+    },
+    {
+        "Document ID": "0001094",
+        "Focus": "Salsalate"
+    },
+    {
+        "Document ID": "0001080",
+        "Focus": "Rizatriptan"
+    },
+    {
+        "Document ID": "0000611",
+        "Focus": "Imiquimod Topical"
+    },
+    {
+        "Document ID": "0001269",
+        "Focus": "Valganciclovir"
+    },
+    {
+        "Document ID": "0000177",
+        "Focus": "Butabarbital"
+    },
+    {
+        "Document ID": "0000163",
+        "Focus": "Brinzolamide Ophthalmic"
+    },
+    {
+        "Document ID": "0000605",
+        "Focus": "Ifosfamide Injection"
+    },
+    {
+        "Document ID": "0001255",
+        "Focus": "Trimethadione"
+    },
+    {
+        "Document ID": "0001241",
+        "Focus": "Trastuzumab Injection"
+    },
+    {
+        "Document ID": "0000639",
+        "Focus": "Irinotecan Injection"
+    },
+    {
+        "Document ID": "0000836",
+        "Focus": "Nalbuphine Injection"
+    },
+    {
+        "Document ID": "0000188",
+        "Focus": "Calcitriol Topical"
+    },
+    {
+        "Document ID": "0001296",
+        "Focus": "Vortioxetine"
+    },
+    {
+        "Document ID": "0001282",
+        "Focus": "Vemurafenib"
+    },
+    {
+        "Document ID": "0000822",
+        "Focus": "Morphine Oral"
+    },
+    {
+        "Document ID": "0000765",
+        "Focus": "Mesoridazine Oral"
+    },
+    {
+        "Document ID": "0000003",
+        "Focus": "Abiraterone"
+    },
+    {
+        "Document ID": "0000017",
+        "Focus": "Acyclovir Injection"
+    },
+    {
+        "Document ID": "0001309",
+        "Focus": "Zolmitriptan"
+    },
+    {
+        "Document ID": "0000771",
+        "Focus": "Methazolamide"
+    },
+    {
+        "Document ID": "0000981",
+        "Focus": "Phenytoin"
+    },
+    {
+        "Document ID": "0000759",
+        "Focus": "Mercaptopurine"
+    },
+    {
+        "Document ID": "0000995",
+        "Focus": "Pneumococcal Conjugate Vaccine (PCV13)"
+    },
+    {
+        "Document ID": "0000942",
+        "Focus": "Paroxetine"
+    },
+    {
+        "Document ID": "0000956",
+        "Focus": "Penciclovir Cream"
+    },
+    {
+        "Document ID": "0000201",
+        "Focus": "Carmustine"
+    },
+    {
+        "Document ID": "0000567",
+        "Focus": "Guanabenz"
+    },
+    {
+        "Document ID": "0000573",
+        "Focus": "Haloperidol Injection"
+    },
+    {
+        "Document ID": "0000215",
+        "Focus": "Cefpodoxime"
+    },
+    {
+        "Document ID": "0001123",
+        "Focus": "Sodium Phosphate"
+    },
+    {
+        "Document ID": "0001137",
+        "Focus": "Streptozocin"
+    },
+    {
+        "Document ID": "0000229",
+        "Focus": "Cetirizine"
+    },
+    {
+        "Document ID": "0000598",
+        "Focus": "Ibritumomab Injection"
+    },
+    {
+        "Document ID": "0000588",
+        "Focus": "Hydrocortisone, Neomycin, and Polymyxin"
+    },
+    {
+        "Document ID": "0000211",
+        "Focus": "Cefixime"
+    },
+    {
+        "Document ID": "0000577",
+        "Focus": "Histrelin Implant"
+    },
+    {
+        "Document ID": "0000563",
+        "Focus": "Granisetron Injection"
+    },
+    {
+        "Document ID": "0000205",
+        "Focus": "Cefaclor"
+    },
+    {
+        "Document ID": "0001133",
+        "Focus": "Spironolactone"
+    },
+    {
+        "Document ID": "0000239",
+        "Focus": "Chlorpheniramine"
+    },
+    {
+        "Document ID": "0001127",
+        "Focus": "Sofosbuvir"
+    },
+    {
+        "Document ID": "0000952",
+        "Focus": "Pegloticase Injection"
+    },
+    {
+        "Document ID": "0000946",
+        "Focus": "Pegaspargase Injection"
+    },
+    {
+        "Document ID": "0000775",
+        "Focus": "Methotrexate"
+    },
+    {
+        "Document ID": "0000013",
+        "Focus": "Acetylcysteine Oral Inhalation"
+    },
+    {
+        "Document ID": "0000007",
+        "Focus": "Acebutolol"
+    },
+    {
+        "Document ID": "0000761",
+        "Focus": "Mesalamine"
+    },
+    {
+        "Document ID": "0000749",
+        "Focus": "Meloxicam"
+    },
+    {
+        "Document ID": "0000991",
+        "Focus": "Pirfenidone"
+    },
+    {
+        "Document ID": "0000985",
+        "Focus": "Pimecrolimus Topical"
+    },
+    {
+        "Document ID": "0000826",
+        "Focus": "Moxifloxacin Injection"
+    },
+    {
+        "Document ID": "0001286",
+        "Focus": "Vigabatrin"
+    },
+    {
+        "Document ID": "0000198",
+        "Focus": "Carfilzomib Injection"
+    },
+    {
+        "Document ID": "0001292",
+        "Focus": "Vismodegib"
+    },
+    {
+        "Document ID": "0000832",
+        "Focus": "Nadolol"
+    },
+    {
+        "Document ID": "0000601",
+        "Focus": "Icosapent Ethyl"
+    },
+    {
+        "Document ID": "0000167",
+        "Focus": "Budesonide Nasal Spray"
+    },
+    {
+        "Document ID": "0001279",
+        "Focus": "Varenicline"
+    },
+    {
+        "Document ID": "0000173",
+        "Focus": "Bupropion"
+    },
+    {
+        "Document ID": "0000615",
+        "Focus": "Indinavir"
+    },
+    {
+        "Document ID": "0001245",
+        "Focus": "Tretinoin Topical"
+    },
+    {
+        "Document ID": "0001251",
+        "Focus": "Triazolam"
+    },
+    {
+        "Document ID": "0000629",
+        "Focus": "Interferon Alfa-2b Injection"
+    },
+    {
+        "Document ID": "0001084",
+        "Focus": "Romiplostim Injection"
+    },
+    {
+        "Document ID": "0001090",
+        "Focus": "Rufinamide"
+    },
+    {
+        "Document ID": "0000365",
+        "Focus": "Diethylpropion"
+    },
+    {
+        "Document ID": "0000403",
+        "Focus": "Doxylamine and Pyridoxine"
+    },
+    {
+        "Document ID": "0000417",
+        "Focus": "Eletriptan"
+    },
+    {
+        "Document ID": "0000371",
+        "Focus": "Diltiazem"
+    },
+    {
+        "Document ID": "0001047",
+        "Focus": "Raloxifene"
+    },
+    {
+        "Document ID": "0000359",
+        "Focus": "Diclofenac Topical (actinic keratosis)"
+    },
+    {
+        "Document ID": "0001053",
+        "Focus": "Ranitidine"
+    },
+    {
+        "Document ID": "0001052",
+        "Focus": "Ranibizumab Injection"
+    },
+    {
+        "Document ID": "0000358",
+        "Focus": "Diclofenac Ophthalmic"
+    },
+    {
+        "Document ID": "0001046",
+        "Focus": "Rabies Vaccine"
+    },
+    {
+        "Document ID": "0000416",
+        "Focus": "Elbasvir and Grazoprevir"
+    },
+    {
+        "Document ID": "0000370",
+        "Focus": "Dihydroergotamine Injection and Nasal Spray"
+    },
+    {
+        "Document ID": "0000364",
+        "Focus": "Didanosine"
+    },
+    {
+        "Document ID": "0000402",
+        "Focus": "Doxylamine"
+    },
+    {
+        "Document ID": "0001091",
+        "Focus": "Ruxolitinib"
+    },
+    {
+        "Document ID": "0001085",
+        "Focus": "Ropinirole"
+    },
+    {
+        "Document ID": "0001250",
+        "Focus": "Triamterene and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000628",
+        "Focus": "Insulin Lispro Injection"
+    },
+    {
+        "Document ID": "0001244",
+        "Focus": "Tretinoin"
+    },
+    {
+        "Document ID": "0000172",
+        "Focus": "Buprenorphine Transdermal Patch"
+    },
+    {
+        "Document ID": "0000614",
+        "Focus": "Indapamide"
+    },
+    {
+        "Document ID": "0000600",
+        "Focus": "Ibuprofen"
+    },
+    {
+        "Document ID": "0001278",
+        "Focus": "Vardenafil"
+    },
+    {
+        "Document ID": "0000166",
+        "Focus": "Brompheniramine"
+    },
+    {
+        "Document ID": "0001293",
+        "Focus": "Vorapaxar"
+    },
+    {
+        "Document ID": "0000833",
+        "Focus": "Nafarelin"
+    },
+    {
+        "Document ID": "0000827",
+        "Focus": "Moxifloxacin Ophthalmic"
+    },
+    {
+        "Document ID": "0000199",
+        "Focus": "Cariprazine"
+    },
+    {
+        "Document ID": "0001287",
+        "Focus": "Vilazodone"
+    },
+    {
+        "Document ID": "0000984",
+        "Focus": "Pilocarpine Ophthalmic"
+    },
+    {
+        "Document ID": "0000990",
+        "Focus": "Pirbuterol Acetate Oral Inhalation"
+    },
+    {
+        "Document ID": "0000748",
+        "Focus": "Megestrol"
+    },
+    {
+        "Document ID": "0000006",
+        "Focus": "Acarbose"
+    },
+    {
+        "Document ID": "0000760",
+        "Focus": "Meropenem Injection"
+    },
+    {
+        "Document ID": "0000774",
+        "Focus": "Methocarbamol"
+    },
+    {
+        "Document ID": "0000012",
+        "Focus": "Acetazolamide Oral"
+    },
+    {
+        "Document ID": "0000947",
+        "Focus": "Pegfilgrastim Injection"
+    },
+    {
+        "Document ID": "0000953",
+        "Focus": "Pembrolizumab Injection"
+    },
+    {
+        "Document ID": "0001126",
+        "Focus": "Sodium Polystyrene Sulfonate"
+    },
+    {
+        "Document ID": "0000238",
+        "Focus": "Chlorothiazide"
+    },
+    {
+        "Document ID": "0001132",
+        "Focus": "Spinosad Topical"
+    },
+    {
+        "Document ID": "0000562",
+        "Focus": "Granisetron"
+    },
+    {
+        "Document ID": "0000204",
+        "Focus": "Caspofungin Injection"
+    },
+    {
+        "Document ID": "0000210",
+        "Focus": "Cefepime Injection"
+    },
+    {
+        "Document ID": "0000576",
+        "Focus": "Hepatitis B Vaccine"
+    },
+    {
+        "Document ID": "0000589",
+        "Focus": "Hydromorphone"
+    },
+    {
+        "Document ID": "0000206",
+        "Focus": "Cefadroxil"
+    },
+    {
+        "Document ID": "0001118",
+        "Focus": "Sirolimus"
+    },
+    {
+        "Document ID": "0000560",
+        "Focus": "Golimumab Injection"
+    },
+    {
+        "Document ID": "0000574",
+        "Focus": "Heparin Injection"
+    },
+    {
+        "Document ID": "0000212",
+        "Focus": "Cefotaxime Injection"
+    },
+    {
+        "Document ID": "0001124",
+        "Focus": "Sodium Phosphate Rectal"
+    },
+    {
+        "Document ID": "0000548",
+        "Focus": "Gemfibrozil"
+    },
+    {
+        "Document ID": "0001130",
+        "Focus": "Sorafenib"
+    },
+    {
+        "Document ID": "0000979",
+        "Focus": "Phentermine and Topiramate"
+    },
+    {
+        "Document ID": "0000945",
+        "Focus": "Pegaptanib Injection"
+    },
+    {
+        "Document ID": "0000951",
+        "Focus": "Peginterferon Beta-1a Injection"
+    },
+    {
+        "Document ID": "0000789",
+        "Focus": "Metoclopramide Injection"
+    },
+    {
+        "Document ID": "0000762",
+        "Focus": "Mesalamine Rectal"
+    },
+    {
+        "Document ID": "0000004",
+        "Focus": "AbobotulinumtoxinA Injection"
+    },
+    {
+        "Document ID": "0000010",
+        "Focus": "Acetaminophen Injection"
+    },
+    {
+        "Document ID": "0000776",
+        "Focus": "Methotrexate Injection"
+    },
+    {
+        "Document ID": "0000986",
+        "Focus": "Pimozide"
+    },
+    {
+        "Document ID": "0000038",
+        "Focus": "Alitretinoin"
+    },
+    {
+        "Document ID": "0000992",
+        "Focus": "Piroxicam"
+    },
+    {
+        "Document ID": "0000819",
+        "Focus": "Mometasone Oral Inhalation"
+    },
+    {
+        "Document ID": "0000831",
+        "Focus": "Nabumetone"
+    },
+    {
+        "Document ID": "0001291",
+        "Focus": "Vinorelbine"
+    },
+    {
+        "Document ID": "0001285",
+        "Focus": "Verteporfin Injection"
+    },
+    {
+        "Document ID": "0000825",
+        "Focus": "Moxifloxacin"
+    },
+    {
+        "Document ID": "0000616",
+        "Focus": "Indomethacin"
+    },
+    {
+        "Document ID": "0000170",
+        "Focus": "Bumetanide"
+    },
+    {
+        "Document ID": "0000164",
+        "Focus": "Bromfenac Ophthalmic"
+    },
+    {
+        "Document ID": "0000602",
+        "Focus": "Idarubicin"
+    },
+    {
+        "Document ID": "0001252",
+        "Focus": "Trifluoperazine"
+    },
+    {
+        "Document ID": "0000158",
+        "Focus": "Bosentan"
+    },
+    {
+        "Document ID": "0001246",
+        "Focus": "Triamcinolone"
+    },
+    {
+        "Document ID": "0001093",
+        "Focus": "Salmeterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000399",
+        "Focus": "Doxorubicin Lipid Complex Injection"
+    },
+    {
+        "Document ID": "0001087",
+        "Focus": "Rosuvastatin"
+    },
+    {
+        "Document ID": "0000372",
+        "Focus": "Dimenhydrinate"
+    },
+    {
+        "Document ID": "0000414",
+        "Focus": "Efinaconazole Topical"
+    },
+    {
+        "Document ID": "0000400",
+        "Focus": "Doxycycline"
+    },
+    {
+        "Document ID": "0001078",
+        "Focus": "Rivastigmine"
+    },
+    {
+        "Document ID": "0000366",
+        "Focus": "Diflorasone Topical"
+    },
+    {
+        "Document ID": "0001050",
+        "Focus": "Ramipril"
+    },
+    {
+        "Document ID": "0000428",
+        "Focus": "Enoxaparin Injection"
+    },
+    {
+        "Document ID": "0001044",
+        "Focus": "Quinupristin and Dalfopristin Injection"
+    },
+    {
+        "Document ID": "0001045",
+        "Focus": "Rabeprazole"
+    },
+    {
+        "Document ID": "0001051",
+        "Focus": "Ramucirumab Injection"
+    },
+    {
+        "Document ID": "0000429",
+        "Focus": "Entacapone"
+    },
+    {
+        "Document ID": "0000401",
+        "Focus": "Doxycycline Injection"
+    },
+    {
+        "Document ID": "0000367",
+        "Focus": "Diflunisal"
+    },
+    {
+        "Document ID": "0001079",
+        "Focus": "Rivastigmine Transdermal Patch"
+    },
+    {
+        "Document ID": "0000373",
+        "Focus": "Dimethyl Fumarate"
+    },
+    {
+        "Document ID": "0000415",
+        "Focus": "Eflornithine"
+    },
+    {
+        "Document ID": "0001086",
+        "Focus": "Rosiglitazone"
+    },
+    {
+        "Document ID": "0000398",
+        "Focus": "Doxorubicin"
+    },
+    {
+        "Document ID": "0001092",
+        "Focus": "Salicylic Acid Topical"
+    },
+    {
+        "Document ID": "0001247",
+        "Focus": "Triamcinolone Nasal Spray"
+    },
+    {
+        "Document ID": "0000159",
+        "Focus": "Bosutinib"
+    },
+    {
+        "Document ID": "0001253",
+        "Focus": "Trifluridine and Tipiracil"
+    },
+    {
+        "Document ID": "0000165",
+        "Focus": "Bromocriptine"
+    },
+    {
+        "Document ID": "0000603",
+        "Focus": "Idelalisib"
+    },
+    {
+        "Document ID": "0000617",
+        "Focus": "Infliximab Injection"
+    },
+    {
+        "Document ID": "0000171",
+        "Focus": "Buprenorphine Sublingual and Buccal"
+    },
+    {
+        "Document ID": "0001284",
+        "Focus": "Verapamil"
+    },
+    {
+        "Document ID": "0000824",
+        "Focus": "Morphine Sulfate Injection"
+    },
+    {
+        "Document ID": "0000830",
+        "Focus": "Nabilone"
+    },
+    {
+        "Document ID": "0001290",
+        "Focus": "Vincristine Lipid Complex Injection"
+    },
+    {
+        "Document ID": "0000818",
+        "Focus": "Mometasone Nasal Spray"
+    },
+    {
+        "Document ID": "0000993",
+        "Focus": "Pitavastatin"
+    },
+    {
+        "Document ID": "0000987",
+        "Focus": "Pindolol"
+    },
+    {
+        "Document ID": "0000039",
+        "Focus": "Allopurinol"
+    },
+    {
+        "Document ID": "0000011",
+        "Focus": "Acetaminophen, Butalbital, and Caffeine"
+    },
+    {
+        "Document ID": "0000777",
+        "Focus": "Methsuximide"
+    },
+    {
+        "Document ID": "0000763",
+        "Focus": "Mesna"
+    },
+    {
+        "Document ID": "0000005",
+        "Focus": "Acamprosate"
+    },
+    {
+        "Document ID": "0000788",
+        "Focus": "Metoclopramide"
+    },
+    {
+        "Document ID": "0000950",
+        "Focus": "Peginterferon Alfa-2b Injection (Sylatron)"
+    },
+    {
+        "Document ID": "0000944",
+        "Focus": "Pazopanib"
+    },
+    {
+        "Document ID": "0000978",
+        "Focus": "Phentermine"
+    },
+    {
+        "Document ID": "0000549",
+        "Focus": "Gemifloxacin"
+    },
+    {
+        "Document ID": "0001131",
+        "Focus": "Sotalol"
+    },
+    {
+        "Document ID": "0001125",
+        "Focus": "Sodium Picosulfate, Magnesium Oxide, and Anhydrous Citric Acid"
+    },
+    {
+        "Document ID": "0000575",
+        "Focus": "Hepatitis A Vaccine"
+    },
+    {
+        "Document ID": "0000213",
+        "Focus": "Cefotetan Injection"
+    },
+    {
+        "Document ID": "0001119",
+        "Focus": "Sitagliptin"
+    },
+    {
+        "Document ID": "0000207",
+        "Focus": "Cefazolin Injection"
+    },
+    {
+        "Document ID": "0000561",
+        "Focus": "Goserelin Implant"
+    },
+    {
+        "Document ID": "0001181",
+        "Focus": "Terbutaline"
+    },
+    {
+        "Document ID": "0001195",
+        "Focus": "Tetrahydrozoline Ophthalmic"
+    },
+    {
+        "Document ID": "0001142",
+        "Focus": "Sulfadiazine"
+    },
+    {
+        "Document ID": "0000248",
+        "Focus": "Ciclopirox Topical"
+    },
+    {
+        "Document ID": "0001156",
+        "Focus": "Talc Intrapleural"
+    },
+    {
+        "Document ID": "0000260",
+        "Focus": "Cisplatin Injection"
+    },
+    {
+        "Document ID": "0000506",
+        "Focus": "Fluconazole Injection"
+    },
+    {
+        "Document ID": "0000512",
+        "Focus": "Fluocinonide Topical"
+    },
+    {
+        "Document ID": "0000274",
+        "Focus": "Clomiphene"
+    },
+    {
+        "Document ID": "0000923",
+        "Focus": "Oxybutynin Transdermal Patch"
+    },
+    {
+        "Document ID": "0000089",
+        "Focus": "Ascorbic Acid"
+    },
+    {
+        "Document ID": "0000937",
+        "Focus": "Panitumumab Injection"
+    },
+    {
+        "Document ID": "0000738",
+        "Focus": "Maraviroc"
+    },
+    {
+        "Document ID": "0000704",
+        "Focus": "Linaclotide"
+    },
+    {
+        "Document ID": "0000062",
+        "Focus": "Amlodipine"
+    },
+    {
+        "Document ID": "0000076",
+        "Focus": "Anthrax Vaccine"
+    },
+    {
+        "Document ID": "0000710",
+        "Focus": "Liotrix"
+    },
+    {
+        "Document ID": "0000857",
+        "Focus": "Nevirapine"
+    },
+    {
+        "Document ID": "0000843",
+        "Focus": "Naratriptan"
+    },
+    {
+        "Document ID": "0000894",
+        "Focus": "Olmesartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0001234",
+        "Focus": "Trabectedin Injection"
+    },
+    {
+        "Document ID": "0001220",
+        "Focus": "Tolazamide"
+    },
+    {
+        "Document ID": "0000880",
+        "Focus": "Norfloxacin"
+    },
+    {
+        "Document ID": "0000658",
+        "Focus": "Ixazomib"
+    },
+    {
+        "Document ID": "0000670",
+        "Focus": "Lacosamide Injection"
+    },
+    {
+        "Document ID": "0000116",
+        "Focus": "Baclofen Oral"
+    },
+    {
+        "Document ID": "0001208",
+        "Focus": "Tigecycline Injection"
+    },
+    {
+        "Document ID": "0000102",
+        "Focus": "Auranofin"
+    },
+    {
+        "Document ID": "0000664",
+        "Focus": "Ketorolac Injection"
+    },
+    {
+        "Document ID": "0000499",
+        "Focus": "Finasteride"
+    },
+    {
+        "Document ID": "0001036",
+        "Focus": "Pyrazinamide"
+    },
+    {
+        "Document ID": "0000328",
+        "Focus": "Daunorubicin Lipid Complex Injection"
+    },
+    {
+        "Document ID": "0001022",
+        "Focus": "Procarbazine"
+    },
+    {
+        "Document ID": "0000314",
+        "Focus": "Dalbavancin Injection"
+    },
+    {
+        "Document ID": "0000472",
+        "Focus": "Etravirine"
+    },
+    {
+        "Document ID": "0000466",
+        "Focus": "Ethinyl Estradiol and Norelgestromin Transdermal Patch"
+    },
+    {
+        "Document ID": "0000300",
+        "Focus": "Cyclopentolate Ophthalmic"
+    },
+    {
+        "Document ID": "0000467",
+        "Focus": "Ethosuximide"
+    },
+    {
+        "Document ID": "0000301",
+        "Focus": "Cyclophosphamide"
+    },
+    {
+        "Document ID": "0000315",
+        "Focus": "Dalfampridine"
+    },
+    {
+        "Document ID": "0000473",
+        "Focus": "Everolimus"
+    },
+    {
+        "Document ID": "0001023",
+        "Focus": "Prochlorperazine"
+    },
+    {
+        "Document ID": "0000329",
+        "Focus": "Decitabine Injection"
+    },
+    {
+        "Document ID": "0001037",
+        "Focus": "Pyrethrin and Piperonyl Butoxide Topical"
+    },
+    {
+        "Document ID": "0000498",
+        "Focus": "Filgrastim, Filgrastim-sndz, Tbo-filgrastim Injection"
+    },
+    {
+        "Document ID": "0000103",
+        "Focus": "Avanafil"
+    },
+    {
+        "Document ID": "0000665",
+        "Focus": "Ketorolac Nasal Spray"
+    },
+    {
+        "Document ID": "0000671",
+        "Focus": "Lactulose"
+    },
+    {
+        "Document ID": "0001209",
+        "Focus": "Tiludronate"
+    },
+    {
+        "Document ID": "0000117",
+        "Focus": "Balsalazide"
+    },
+    {
+        "Document ID": "0001221",
+        "Focus": "Tolbutamide"
+    },
+    {
+        "Document ID": "0000659",
+        "Focus": "Japanese Encephalitis Vaccine"
+    },
+    {
+        "Document ID": "0000881",
+        "Focus": "Nortriptyline"
+    },
+    {
+        "Document ID": "0000895",
+        "Focus": "Olodaterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0001235",
+        "Focus": "Tramadol"
+    },
+    {
+        "Document ID": "0000842",
+        "Focus": "Naproxen"
+    },
+    {
+        "Document ID": "0000856",
+        "Focus": "Netupitant and Palonosetron"
+    },
+    {
+        "Document ID": "0000077",
+        "Focus": "Antipyrine-Benzocaine Otic"
+    },
+    {
+        "Document ID": "0000711",
+        "Focus": "Liraglutide Injection"
+    },
+    {
+        "Document ID": "0000705",
+        "Focus": "Linagliptin"
+    },
+    {
+        "Document ID": "0000063",
+        "Focus": "Amlodipine and Benazepril"
+    },
+    {
+        "Document ID": "0000739",
+        "Focus": "Mebendazole"
+    },
+    {
+        "Document ID": "0000088",
+        "Focus": "Artemether and Lumefantrine"
+    },
+    {
+        "Document ID": "0000936",
+        "Focus": "Pancrelipase"
+    },
+    {
+        "Document ID": "0000922",
+        "Focus": "Oxybutynin Topical"
+    },
+    {
+        "Document ID": "0000513",
+        "Focus": "Fluoride"
+    },
+    {
+        "Document ID": "0000275",
+        "Focus": "Clomipramine"
+    },
+    {
+        "Document ID": "0000261",
+        "Focus": "Citalopram"
+    },
+    {
+        "Document ID": "0000507",
+        "Focus": "Fludarabine Injection"
+    },
+    {
+        "Document ID": "0001157",
+        "Focus": "Talimogene Laherparepvec Injection"
+    },
+    {
+        "Document ID": "0000249",
+        "Focus": "Cidofovir Injection"
+    },
+    {
+        "Document ID": "0001143",
+        "Focus": "Sulfasalazine"
+    },
+    {
+        "Document ID": "0001194",
+        "Focus": "Tetracycline"
+    },
+    {
+        "Document ID": "0001180",
+        "Focus": "Terbinafine"
+    },
+    {
+        "Document ID": "0001196",
+        "Focus": "Thalidomide"
+    },
+    {
+        "Document ID": "0000288",
+        "Focus": "Colesevelam"
+    },
+    {
+        "Document ID": "0001182",
+        "Focus": "Terbutaline Injection"
+    },
+    {
+        "Document ID": "0001155",
+        "Focus": "Tafluprost Ophthalmic"
+    },
+    {
+        "Document ID": "0000539",
+        "Focus": "Fulvestrant Injection"
+    },
+    {
+        "Document ID": "0001141",
+        "Focus": "Sulfacetamide Ophthalmic"
+    },
+    {
+        "Document ID": "0000277",
+        "Focus": "Clonidine"
+    },
+    {
+        "Document ID": "0001169",
+        "Focus": "Telbivudine"
+    },
+    {
+        "Document ID": "0000511",
+        "Focus": "Fluocinolone Topical"
+    },
+    {
+        "Document ID": "0000505",
+        "Focus": "Fluconazole"
+    },
+    {
+        "Document ID": "0000263",
+        "Focus": "Clarithromycin"
+    },
+    {
+        "Document ID": "0000934",
+        "Focus": "Palonosetron Injection"
+    },
+    {
+        "Document ID": "0000920",
+        "Focus": "Oxiconazole"
+    },
+    {
+        "Document ID": "0000908",
+        "Focus": "Oritavancin Injection"
+    },
+    {
+        "Document ID": "0000049",
+        "Focus": "Amantadine"
+    },
+    {
+        "Document ID": "0000713",
+        "Focus": "Lisinopril"
+    },
+    {
+        "Document ID": "0000075",
+        "Focus": "Anastrozole"
+    },
+    {
+        "Document ID": "0000061",
+        "Focus": "Amlexanox"
+    },
+    {
+        "Document ID": "0000707",
+        "Focus": "Linezolid"
+    },
+    {
+        "Document ID": "0000698",
+        "Focus": "Levonorgestrel"
+    },
+    {
+        "Document ID": "0000840",
+        "Focus": "Naltrexone"
+    },
+    {
+        "Document ID": "0000854",
+        "Focus": "Neomycin, Polymyxin, and Bacitracin Topical"
+    },
+    {
+        "Document ID": "0000868",
+        "Focus": "Nimodipine"
+    },
+    {
+        "Document ID": "0000883",
+        "Focus": "Nystatin and Triamcinolone"
+    },
+    {
+        "Document ID": "0001223",
+        "Focus": "Tolmetin"
+    },
+    {
+        "Document ID": "0000129",
+        "Focus": "Benazepril and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0001237",
+        "Focus": "Trandolapril"
+    },
+    {
+        "Document ID": "0000897",
+        "Focus": "Olopatadine Ophthalmic"
+    },
+    {
+        "Document ID": "0000667",
+        "Focus": "Ketotifen Ophthalmic"
+    },
+    {
+        "Document ID": "0000101",
+        "Focus": "Atropine Ophthalmic"
+    },
+    {
+        "Document ID": "0000115",
+        "Focus": "Bacitracin Topical"
+    },
+    {
+        "Document ID": "0000673",
+        "Focus": "Lamivudine and Zidovudine"
+    },
+    {
+        "Document ID": "0001021",
+        "Focus": "Procainamide Oral"
+    },
+    {
+        "Document ID": "0000459",
+        "Focus": "Estrogen Injection"
+    },
+    {
+        "Document ID": "0001035",
+        "Focus": "Pyrantel"
+    },
+    {
+        "Document ID": "0000303",
+        "Focus": "Cyclosporine"
+    },
+    {
+        "Document ID": "0000465",
+        "Focus": "Ethinyl Estradiol and Etonogestrel Vaginal Ring"
+    },
+    {
+        "Document ID": "0000471",
+        "Focus": "Etoposide Injection"
+    },
+    {
+        "Document ID": "0001009",
+        "Focus": "Pramoxine"
+    },
+    {
+        "Document ID": "0000317",
+        "Focus": "Danazol"
+    },
+    {
+        "Document ID": "0000470",
+        "Focus": "Etoposide"
+    },
+    {
+        "Document ID": "0000316",
+        "Focus": "Dalteparin Injection"
+    },
+    {
+        "Document ID": "0001008",
+        "Focus": "Pramlintide Injection"
+    },
+    {
+        "Document ID": "0000302",
+        "Focus": "Cyclophosphamide Injection"
+    },
+    {
+        "Document ID": "0000464",
+        "Focus": "Ethambutol"
+    },
+    {
+        "Document ID": "0001034",
+        "Focus": "Psyllium"
+    },
+    {
+        "Document ID": "0001020",
+        "Focus": "Probenecid"
+    },
+    {
+        "Document ID": "0000458",
+        "Focus": "Estrogen and Progestin (Oral Contraceptives)"
+    },
+    {
+        "Document ID": "0000114",
+        "Focus": "Bacitracin Ophthalmic"
+    },
+    {
+        "Document ID": "0000672",
+        "Focus": "Lamivudine"
+    },
+    {
+        "Document ID": "0000666",
+        "Focus": "Ketorolac Ophthalmic"
+    },
+    {
+        "Document ID": "0000100",
+        "Focus": "Atovaquone"
+    },
+    {
+        "Document ID": "0001236",
+        "Focus": "Trametinib"
+    },
+    {
+        "Document ID": "0000128",
+        "Focus": "Benazepril"
+    },
+    {
+        "Document ID": "0000896",
+        "Focus": "Olopatadine Nasal Spray"
+    },
+    {
+        "Document ID": "0000882",
+        "Focus": "Nystatin"
+    },
+    {
+        "Document ID": "0001222",
+        "Focus": "Tolcapone"
+    },
+    {
+        "Document ID": "0000869",
+        "Focus": "Nintedanib"
+    },
+    {
+        "Document ID": "0000855",
+        "Focus": "Nepafenac Ophthalmic"
+    },
+    {
+        "Document ID": "0000841",
+        "Focus": "Naltrexone Injection"
+    },
+    {
+        "Document ID": "0000699",
+        "Focus": "Levonorgestrel Intrauterine System"
+    },
+    {
+        "Document ID": "0000060",
+        "Focus": "Amitriptyline"
+    },
+    {
+        "Document ID": "0000706",
+        "Focus": "Lindane"
+    },
+    {
+        "Document ID": "0000712",
+        "Focus": "Lisdexamfetamine"
+    },
+    {
+        "Document ID": "0000074",
+        "Focus": "Anakinra"
+    },
+    {
+        "Document ID": "0000048",
+        "Focus": "Alvimopan"
+    },
+    {
+        "Document ID": "0000909",
+        "Focus": "Orlistat"
+    },
+    {
+        "Document ID": "0000921",
+        "Focus": "Oxybutynin"
+    },
+    {
+        "Document ID": "0000935",
+        "Focus": "Pamidronate Injection"
+    },
+    {
+        "Document ID": "0000504",
+        "Focus": "Floxuridine"
+    },
+    {
+        "Document ID": "0000262",
+        "Focus": "Cladribine"
+    },
+    {
+        "Document ID": "0001168",
+        "Focus": "Telavancin Injection"
+    },
+    {
+        "Document ID": "0000276",
+        "Focus": "Clonazepam"
+    },
+    {
+        "Document ID": "0000510",
+        "Focus": "Flunisolide Oral Inhalation"
+    },
+    {
+        "Document ID": "0000538",
+        "Focus": "Frovatriptan"
+    },
+    {
+        "Document ID": "0001140",
+        "Focus": "Sulconazole Topical"
+    },
+    {
+        "Document ID": "0001154",
+        "Focus": "Tadalafil"
+    },
+    {
+        "Document ID": "0001183",
+        "Focus": "Terconazole Vaginal Cream, Vaginal Suppositories"
+    },
+    {
+        "Document ID": "0000289",
+        "Focus": "Colestipol"
+    },
+    {
+        "Document ID": "0001197",
+        "Focus": "Theophylline"
+    },
+    {
+        "Document ID": "0001193",
+        "Focus": "Tetanus, Diphtheria, Pertussis (Tdap) Vaccine"
+    },
+    {
+        "Document ID": "0001187",
+        "Focus": "Testosterone Buccal"
+    },
+    {
+        "Document ID": "0000299",
+        "Focus": "Cyclobenzaprine"
+    },
+    {
+        "Document ID": "0000514",
+        "Focus": "Fluorouracil Injection"
+    },
+    {
+        "Document ID": "0000272",
+        "Focus": "Clobetasol"
+    },
+    {
+        "Document ID": "0000266",
+        "Focus": "Clindamycin and Benzoyl Peroxide Topical"
+    },
+    {
+        "Document ID": "0001178",
+        "Focus": "Tenofovir"
+    },
+    {
+        "Document ID": "0000500",
+        "Focus": "Fingolimod"
+    },
+    {
+        "Document ID": "0000528",
+        "Focus": "Fluticasone Topical"
+    },
+    {
+        "Document ID": "0001150",
+        "Focus": "Suvorexant"
+    },
+    {
+        "Document ID": "0001144",
+        "Focus": "Sulfinpyrazone"
+    },
+    {
+        "Document ID": "0000919",
+        "Focus": "Oxcarbazepine"
+    },
+    {
+        "Document ID": "0000931",
+        "Focus": "Paliperidone"
+    },
+    {
+        "Document ID": "0000925",
+        "Focus": "Oxymetazoline Nasal Spray"
+    },
+    {
+        "Document ID": "0000070",
+        "Focus": "Ampicillin and Sulbactam Injection"
+    },
+    {
+        "Document ID": "0000716",
+        "Focus": "Lodoxamide Ophthalmic"
+    },
+    {
+        "Document ID": "0000702",
+        "Focus": "Lidocaine Transdermal Patch"
+    },
+    {
+        "Document ID": "0000064",
+        "Focus": "Amoxapine"
+    },
+    {
+        "Document ID": "0000058",
+        "Focus": "Aminophylline"
+    },
+    {
+        "Document ID": "0000879",
+        "Focus": "Norethindrone"
+    },
+    {
+        "Document ID": "0000845",
+        "Focus": "Nateglinide Oral"
+    },
+    {
+        "Document ID": "0000689",
+        "Focus": "Levalbuterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000851",
+        "Focus": "Nelfinavir"
+    },
+    {
+        "Document ID": "0000104",
+        "Focus": "Axitinib"
+    },
+    {
+        "Document ID": "0000662",
+        "Focus": "Ketoprofen"
+    },
+    {
+        "Document ID": "0000676",
+        "Focus": "Lansoprazole"
+    },
+    {
+        "Document ID": "0000110",
+        "Focus": "Azilsartan"
+    },
+    {
+        "Document ID": "0000138",
+        "Focus": "Betaine"
+    },
+    {
+        "Document ID": "0001226",
+        "Focus": "Tolvaptan"
+    },
+    {
+        "Document ID": "0000886",
+        "Focus": "Ofatumumab Injection"
+    },
+    {
+        "Document ID": "0000892",
+        "Focus": "Olaparib"
+    },
+    {
+        "Document ID": "0001232",
+        "Focus": "Torsemide Oral"
+    },
+    {
+        "Document ID": "0000460",
+        "Focus": "Estrogen Vaginal"
+    },
+    {
+        "Document ID": "0001018",
+        "Focus": "Primaquine"
+    },
+    {
+        "Document ID": "0000306",
+        "Focus": "Cyproheptadine"
+    },
+    {
+        "Document ID": "0000312",
+        "Focus": "Daclatasvir"
+    },
+    {
+        "Document ID": "0000474",
+        "Focus": "Evolocumab Injection"
+    },
+    {
+        "Document ID": "0001024",
+        "Focus": "Progesterone"
+    },
+    {
+        "Document ID": "0001030",
+        "Focus": "Propranolol (Infantile Hemangioma)"
+    },
+    {
+        "Document ID": "0000448",
+        "Focus": "Escitalopram"
+    },
+    {
+        "Document ID": "0001031",
+        "Focus": "Propylthiouracil"
+    },
+    {
+        "Document ID": "0000449",
+        "Focus": "Eslicarbazepine"
+    },
+    {
+        "Document ID": "0001025",
+        "Focus": "Progestin-Only Oral Contraceptives"
+    },
+    {
+        "Document ID": "0000313",
+        "Focus": "Dactinomycin"
+    },
+    {
+        "Document ID": "0000475",
+        "Focus": "Exemestane"
+    },
+    {
+        "Document ID": "0000461",
+        "Focus": "Eszopiclone"
+    },
+    {
+        "Document ID": "0000307",
+        "Focus": "Cytarabine"
+    },
+    {
+        "Document ID": "0001019",
+        "Focus": "Primidone"
+    },
+    {
+        "Document ID": "0000893",
+        "Focus": "Olmesartan"
+    },
+    {
+        "Document ID": "0001233",
+        "Focus": "Tositumomab Injection"
+    },
+    {
+        "Document ID": "0001227",
+        "Focus": "Topiramate"
+    },
+    {
+        "Document ID": "0000139",
+        "Focus": "Betamethasone Topical"
+    },
+    {
+        "Document ID": "0000887",
+        "Focus": "Ofloxacin"
+    },
+    {
+        "Document ID": "0000677",
+        "Focus": "Lansoprazole, Clarithromycin, and Amoxicillin"
+    },
+    {
+        "Document ID": "0000111",
+        "Focus": "Azithromycin"
+    },
+    {
+        "Document ID": "0000105",
+        "Focus": "Azacitidine Injection"
+    },
+    {
+        "Document ID": "0000663",
+        "Focus": "Ketorolac"
+    },
+    {
+        "Document ID": "0000850",
+        "Focus": "Nelarabine Injection"
+    },
+    {
+        "Document ID": "0000688",
+        "Focus": "Leuprolide Injection"
+    },
+    {
+        "Document ID": "0000844",
+        "Focus": "Natalizumab Injection"
+    },
+    {
+        "Document ID": "0000878",
+        "Focus": "Nizatidine"
+    },
+    {
+        "Document ID": "0000059",
+        "Focus": "Amiodarone"
+    },
+    {
+        "Document ID": "0000703",
+        "Focus": "Lidocaine Viscous"
+    },
+    {
+        "Document ID": "0000065",
+        "Focus": "Amoxicillin"
+    },
+    {
+        "Document ID": "0000071",
+        "Focus": "Ampicillin Injection"
+    },
+    {
+        "Document ID": "0000717",
+        "Focus": "Lomitapide"
+    },
+    {
+        "Document ID": "0000924",
+        "Focus": "Oxycodone"
+    },
+    {
+        "Document ID": "0000930",
+        "Focus": "Palifermin"
+    },
+    {
+        "Document ID": "0000918",
+        "Focus": "Oxazepam"
+    },
+    {
+        "Document ID": "0001145",
+        "Focus": "Sulindac"
+    },
+    {
+        "Document ID": "0000529",
+        "Focus": "Fluvastatin"
+    },
+    {
+        "Document ID": "0001151",
+        "Focus": "Tacrolimus"
+    },
+    {
+        "Document ID": "0001179",
+        "Focus": "Terazosin"
+    },
+    {
+        "Document ID": "0000267",
+        "Focus": "Clindamycin Injection"
+    },
+    {
+        "Document ID": "0000501",
+        "Focus": "Flavoxate"
+    },
+    {
+        "Document ID": "0000515",
+        "Focus": "Fluorouracil Topical"
+    },
+    {
+        "Document ID": "0000273",
+        "Focus": "Clofarabine Injection"
+    },
+    {
+        "Document ID": "0000298",
+        "Focus": "Cyanocobalamin Nasal Gel"
+    },
+    {
+        "Document ID": "0001186",
+        "Focus": "Tesamorelin Injection"
+    },
+    {
+        "Document ID": "0001192",
+        "Focus": "Tetanus, Diphtheria (Td) Vaccine"
+    },
+    {
+        "Document ID": "0001184",
+        "Focus": "Teriflunomide"
+    },
+    {
+        "Document ID": "0001190",
+        "Focus": "Testosterone Topical"
+    },
+    {
+        "Document ID": "0000503",
+        "Focus": "Flibanserin"
+    },
+    {
+        "Document ID": "0000265",
+        "Focus": "Clindamycin"
+    },
+    {
+        "Document ID": "0000271",
+        "Focus": "Clobazam"
+    },
+    {
+        "Document ID": "0000517",
+        "Focus": "Fluoxymesterone"
+    },
+    {
+        "Document ID": "0000259",
+        "Focus": "Cisapride"
+    },
+    {
+        "Document ID": "0001147",
+        "Focus": "Sumatriptan Injection"
+    },
+    {
+        "Document ID": "0001153",
+        "Focus": "Tacrolimus Topical"
+    },
+    {
+        "Document ID": "0000098",
+        "Focus": "Atomoxetine"
+    },
+    {
+        "Document ID": "0000926",
+        "Focus": "Oxymorphone"
+    },
+    {
+        "Document ID": "0000932",
+        "Focus": "Paliperidone Injection"
+    },
+    {
+        "Document ID": "0000067",
+        "Focus": "Amphetamine"
+    },
+    {
+        "Document ID": "0000701",
+        "Focus": "Levothyroxine"
+    },
+    {
+        "Document ID": "0000715",
+        "Focus": "Lithium"
+    },
+    {
+        "Document ID": "0000073",
+        "Focus": "Anagrelide"
+    },
+    {
+        "Document ID": "0000729",
+        "Focus": "Luliconazole Topical"
+    },
+    {
+        "Document ID": "0000852",
+        "Focus": "Neomycin Topical"
+    },
+    {
+        "Document ID": "0000846",
+        "Focus": "Nebivolol"
+    },
+    {
+        "Document ID": "0000113",
+        "Focus": "Bacillus Calmette-Guerin (BCG) Vaccine"
+    },
+    {
+        "Document ID": "0000675",
+        "Focus": "Lanreotide Injection"
+    },
+    {
+        "Document ID": "0000661",
+        "Focus": "Ketoconazole Topical"
+    },
+    {
+        "Document ID": "0000107",
+        "Focus": "Azelaic Acid Topical"
+    },
+    {
+        "Document ID": "0001219",
+        "Focus": "Tofacitinib"
+    },
+    {
+        "Document ID": "0001231",
+        "Focus": "Torsemide Injection"
+    },
+    {
+        "Document ID": "0000891",
+        "Focus": "Olanzapine Injection"
+    },
+    {
+        "Document ID": "0000649",
+        "Focus": "Isotretinoin"
+    },
+    {
+        "Document ID": "0000885",
+        "Focus": "Octreotide Injection"
+    },
+    {
+        "Document ID": "0001225",
+        "Focus": "Tolterodine"
+    },
+    {
+        "Document ID": "0000488",
+        "Focus": "Fentanyl Nasal Spray"
+    },
+    {
+        "Document ID": "0000477",
+        "Focus": "Ezetimibe"
+    },
+    {
+        "Document ID": "0000311",
+        "Focus": "Dacarbazine"
+    },
+    {
+        "Document ID": "0000305",
+        "Focus": "Cyclosporine Ophthalmic"
+    },
+    {
+        "Document ID": "0000463",
+        "Focus": "Ethacrynic Acid"
+    },
+    {
+        "Document ID": "0001033",
+        "Focus": "Pseudoephedrine"
+    },
+    {
+        "Document ID": "0001027",
+        "Focus": "Propafenone"
+    },
+    {
+        "Document ID": "0000339",
+        "Focus": "Desloratadine"
+    },
+    {
+        "Document ID": "0000338",
+        "Focus": "Desipramine"
+    },
+    {
+        "Document ID": "0001026",
+        "Focus": "Promethazine"
+    },
+    {
+        "Document ID": "0001032",
+        "Focus": "Protriptyline"
+    },
+    {
+        "Document ID": "0000304",
+        "Focus": "Cyclosporine Injection"
+    },
+    {
+        "Document ID": "0000462",
+        "Focus": "Etanercept Injection"
+    },
+    {
+        "Document ID": "0000476",
+        "Focus": "Exenatide Injection"
+    },
+    {
+        "Document ID": "0000310",
+        "Focus": "Dabrafenib"
+    },
+    {
+        "Document ID": "0000489",
+        "Focus": "Fentanyl Sublingual Spray"
+    },
+    {
+        "Document ID": "0000884",
+        "Focus": "Obinutuzumab Injection"
+    },
+    {
+        "Document ID": "0001224",
+        "Focus": "Tolnaftate"
+    },
+    {
+        "Document ID": "0001230",
+        "Focus": "Toremifene"
+    },
+    {
+        "Document ID": "0000648",
+        "Focus": "Isosorbide"
+    },
+    {
+        "Document ID": "0000890",
+        "Focus": "Olanzapine"
+    },
+    {
+        "Document ID": "0000660",
+        "Focus": "Ketoconazole"
+    },
+    {
+        "Document ID": "0001218",
+        "Focus": "Tocilizumab Injection"
+    },
+    {
+        "Document ID": "0000106",
+        "Focus": "Azathioprine"
+    },
+    {
+        "Document ID": "0000112",
+        "Focus": "Aztreonam Injection"
+    },
+    {
+        "Document ID": "0000674",
+        "Focus": "Lamotrigine"
+    },
+    {
+        "Document ID": "0000847",
+        "Focus": "Necitumumab Injection"
+    },
+    {
+        "Document ID": "0000853",
+        "Focus": "Neomycin, Polymyxin, and Bacitracin Ophthalmic"
+    },
+    {
+        "Document ID": "0000728",
+        "Focus": "Lubiprostone"
+    },
+    {
+        "Document ID": "0000714",
+        "Focus": "Lisinopril and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000072",
+        "Focus": "Ampicillin Oral"
+    },
+    {
+        "Document ID": "0000066",
+        "Focus": "Amoxicillin and Clavulanic Acid"
+    },
+    {
+        "Document ID": "0000700",
+        "Focus": "Levorphanol Oral"
+    },
+    {
+        "Document ID": "0000933",
+        "Focus": "Palivizumab Injection"
+    },
+    {
+        "Document ID": "0000099",
+        "Focus": "Atorvastatin"
+    },
+    {
+        "Document ID": "0000927",
+        "Focus": "Oxytocin Injection"
+    },
+    {
+        "Document ID": "0001152",
+        "Focus": "Tacrolimus Injection"
+    },
+    {
+        "Document ID": "0001146",
+        "Focus": "Sumatriptan"
+    },
+    {
+        "Document ID": "0000258",
+        "Focus": "Ciprofloxacin Ophthalmic"
+    },
+    {
+        "Document ID": "0000270",
+        "Focus": "Clioquinol Topical"
+    },
+    {
+        "Document ID": "0000516",
+        "Focus": "Fluoxetine"
+    },
+    {
+        "Document ID": "0000502",
+        "Focus": "Flecainide"
+    },
+    {
+        "Document ID": "0000264",
+        "Focus": "Clemastine"
+    },
+    {
+        "Document ID": "0001191",
+        "Focus": "Testosterone Transdermal Patch"
+    },
+    {
+        "Document ID": "0001185",
+        "Focus": "Teriparatide (rDNA origin) Injection"
+    },
+    {
+        "Document ID": "0000282",
+        "Focus": "Clozapine"
+    },
+    {
+        "Document ID": "0001188",
+        "Focus": "Testosterone Injection"
+    },
+    {
+        "Document ID": "0000296",
+        "Focus": "Cromolyn Sodium Nasal Solution"
+    },
+    {
+        "Document ID": "0001163",
+        "Focus": "Tedizolid"
+    },
+    {
+        "Document ID": "0000269",
+        "Focus": "Clindamycin Vaginal"
+    },
+    {
+        "Document ID": "0001177",
+        "Focus": "Teniposide Injection"
+    },
+    {
+        "Document ID": "0000241",
+        "Focus": "Chlorpropamide"
+    },
+    {
+        "Document ID": "0000527",
+        "Focus": "Fluticasone Oral Inhalation"
+    },
+    {
+        "Document ID": "0000533",
+        "Focus": "Formoterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000255",
+        "Focus": "Ciprofloxacin and Dexamethasone Otic"
+    },
+    {
+        "Document ID": "0000902",
+        "Focus": "Ombitasvir, Paritaprevir, Ritonavir, and Dasabuvir"
+    },
+    {
+        "Document ID": "0000916",
+        "Focus": "Oxandrolone"
+    },
+    {
+        "Document ID": "0000080",
+        "Focus": "Apraclonidine Ophthalmic"
+    },
+    {
+        "Document ID": "0000094",
+        "Focus": "Aspirin, Butalbital, and Caffeine"
+    },
+    {
+        "Document ID": "0000719",
+        "Focus": "Loperamide"
+    },
+    {
+        "Document ID": "0000725",
+        "Focus": "Losartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000043",
+        "Focus": "Alprazolam"
+    },
+    {
+        "Document ID": "0000057",
+        "Focus": "Aminolevulinic Acid Topical"
+    },
+    {
+        "Document ID": "0000731",
+        "Focus": "Lurasidone"
+    },
+    {
+        "Document ID": "0000876",
+        "Focus": "Nitroglycerin Transdermal Patch"
+    },
+    {
+        "Document ID": "0000862",
+        "Focus": "Nicotine Nasal Spray"
+    },
+    {
+        "Document ID": "0000692",
+        "Focus": "Levocetirizine"
+    },
+    {
+        "Document ID": "0000686",
+        "Focus": "Leucovorin"
+    },
+    {
+        "Document ID": "0001215",
+        "Focus": "Tizanidine"
+    },
+    {
+        "Document ID": "0001201",
+        "Focus": "Thiotepa Injection"
+    },
+    {
+        "Document ID": "0000679",
+        "Focus": "Lapatinib"
+    },
+    {
+        "Document ID": "0000889",
+        "Focus": "Ofloxacin Otic"
+    },
+    {
+        "Document ID": "0000651",
+        "Focus": "Isradipine"
+    },
+    {
+        "Document ID": "0000137",
+        "Focus": "Besifloxacin Ophthalmic"
+    },
+    {
+        "Document ID": "0001229",
+        "Focus": "Topotecan Injection"
+    },
+    {
+        "Document ID": "0000123",
+        "Focus": "Bedaquiline"
+    },
+    {
+        "Document ID": "0000645",
+        "Focus": "Isocarboxazid"
+    },
+    {
+        "Document ID": "0000490",
+        "Focus": "Fentanyl Transdermal Patch"
+    },
+    {
+        "Document ID": "0000484",
+        "Focus": "Felodipine"
+    },
+    {
+        "Document ID": "0001017",
+        "Focus": "Pregabalin"
+    },
+    {
+        "Document ID": "0000309",
+        "Focus": "Dabigatran"
+    },
+    {
+        "Document ID": "0001003",
+        "Focus": "Posaconazole"
+    },
+    {
+        "Document ID": "0000335",
+        "Focus": "Denileukin Diftitox Injection"
+    },
+    {
+        "Document ID": "0000453",
+        "Focus": "Estradiol Transdermal Patch"
+    },
+    {
+        "Document ID": "0000447",
+        "Focus": "Erythromycin Ophthalmic"
+    },
+    {
+        "Document ID": "0000321",
+        "Focus": "Daptomycin Injection"
+    },
+    {
+        "Document ID": "0000446",
+        "Focus": "Erythromycin and Sulfisoxazole"
+    },
+    {
+        "Document ID": "0000320",
+        "Focus": "Dapsone"
+    },
+    {
+        "Document ID": "0000334",
+        "Focus": "Demeclocycline"
+    },
+    {
+        "Document ID": "0000452",
+        "Focus": "Estradiol Topical"
+    },
+    {
+        "Document ID": "0001002",
+        "Focus": "Ponatinib"
+    },
+    {
+        "Document ID": "0000308",
+        "Focus": "Cytarabine Lipid Complex Injection"
+    },
+    {
+        "Document ID": "0001016",
+        "Focus": "Prednisone"
+    },
+    {
+        "Document ID": "0000485",
+        "Focus": "Fenofibrate"
+    },
+    {
+        "Document ID": "0000491",
+        "Focus": "Ferric Carboxymaltose Injection"
+    },
+    {
+        "Document ID": "0000122",
+        "Focus": "Beclomethasone Oral Inhalation"
+    },
+    {
+        "Document ID": "0000644",
+        "Focus": "Isavuconazonium Injection"
+    },
+    {
+        "Document ID": "0000650",
+        "Focus": "Isoxsuprine Oral"
+    },
+    {
+        "Document ID": "0000888",
+        "Focus": "Ofloxacin Ophthalmic"
+    },
+    {
+        "Document ID": "0001228",
+        "Focus": "Topotecan"
+    },
+    {
+        "Document ID": "0000136",
+        "Focus": "Bepotastine Ophthalmic"
+    },
+    {
+        "Document ID": "0001200",
+        "Focus": "Thioridazine"
+    },
+    {
+        "Document ID": "0000678",
+        "Focus": "Lanthanum"
+    },
+    {
+        "Document ID": "0001214",
+        "Focus": "Tipranavir"
+    },
+    {
+        "Document ID": "0000687",
+        "Focus": "Leucovorin Injection"
+    },
+    {
+        "Document ID": "0000693",
+        "Focus": "Levodopa and Carbidopa"
+    },
+    {
+        "Document ID": "0000863",
+        "Focus": "Nicotine Oral Inhalation"
+    },
+    {
+        "Document ID": "0000877",
+        "Focus": "Nivolumab Injection"
+    },
+    {
+        "Document ID": "0000056",
+        "Focus": "Aminocaproic Acid Injection"
+    },
+    {
+        "Document ID": "0000730",
+        "Focus": "Lumacaftor and Ivacaftor"
+    },
+    {
+        "Document ID": "0000724",
+        "Focus": "Losartan"
+    },
+    {
+        "Document ID": "0000042",
+        "Focus": "Alosetron"
+    },
+    {
+        "Document ID": "0000718",
+        "Focus": "Lomustine"
+    },
+    {
+        "Document ID": "0000095",
+        "Focus": "Atazanavir"
+    },
+    {
+        "Document ID": "0000081",
+        "Focus": "Apremilast"
+    },
+    {
+        "Document ID": "0000917",
+        "Focus": "Oxaprozin"
+    },
+    {
+        "Document ID": "0000903",
+        "Focus": "Omega-3 Fatty Acids"
+    },
+    {
+        "Document ID": "0000532",
+        "Focus": "Fondaparinux Injection"
+    },
+    {
+        "Document ID": "0000254",
+        "Focus": "Ciprofloxacin"
+    },
+    {
+        "Document ID": "0000240",
+        "Focus": "Chlorpromazine"
+    },
+    {
+        "Document ID": "0000526",
+        "Focus": "Fluticasone Nasal Spray"
+    },
+    {
+        "Document ID": "0001176",
+        "Focus": "Temsirolimus"
+    },
+    {
+        "Document ID": "0000268",
+        "Focus": "Clindamycin Topical"
+    },
+    {
+        "Document ID": "0001162",
+        "Focus": "Tavaborole Topical"
+    },
+    {
+        "Document ID": "0000297",
+        "Focus": "Cyanocobalamin Injection"
+    },
+    {
+        "Document ID": "0001189",
+        "Focus": "Testosterone Nasal Gel"
+    },
+    {
+        "Document ID": "0000283",
+        "Focus": "Co-trimoxazole"
+    },
+    {
+        "Document ID": "0000295",
+        "Focus": "Cromolyn Oral Inhalation"
+    },
+    {
+        "Document ID": "0000281",
+        "Focus": "Clotrimazole"
+    },
+    {
+        "Document ID": "0001174",
+        "Focus": "Temozolomide"
+    },
+    {
+        "Document ID": "0000518",
+        "Focus": "Fluphenazine"
+    },
+    {
+        "Document ID": "0001160",
+        "Focus": "Tapentadol"
+    },
+    {
+        "Document ID": "0000256",
+        "Focus": "Ciprofloxacin and Hydrocortisone Otic"
+    },
+    {
+        "Document ID": "0001148",
+        "Focus": "Sumatriptan Nasal Spray"
+    },
+    {
+        "Document ID": "0000530",
+        "Focus": "Fluvoxamine"
+    },
+    {
+        "Document ID": "0000524",
+        "Focus": "Fluticasone and Salmeterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000242",
+        "Focus": "Chlorthalidone"
+    },
+    {
+        "Document ID": "0000915",
+        "Focus": "Oxaliplatin Injection"
+    },
+    {
+        "Document ID": "0000901",
+        "Focus": "Ombitasvir, Paritaprevir, and Ritonavir"
+    },
+    {
+        "Document ID": "0000929",
+        "Focus": "Palbociclib"
+    },
+    {
+        "Document ID": "0000097",
+        "Focus": "Atenolol"
+    },
+    {
+        "Document ID": "0000083",
+        "Focus": "Arformoterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000068",
+        "Focus": "Amphotericin B Injection"
+    },
+    {
+        "Document ID": "0000732",
+        "Focus": "Macitentan"
+    },
+    {
+        "Document ID": "0000054",
+        "Focus": "Amiloride and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000040",
+        "Focus": "Almotriptan"
+    },
+    {
+        "Document ID": "0000726",
+        "Focus": "Lovastatin"
+    },
+    {
+        "Document ID": "0000861",
+        "Focus": "Nicotine Lozenges"
+    },
+    {
+        "Document ID": "0000875",
+        "Focus": "Nitroglycerin Topical"
+    },
+    {
+        "Document ID": "0000685",
+        "Focus": "Letrozole"
+    },
+    {
+        "Document ID": "0000691",
+        "Focus": "Levobunolol Ophthalmic"
+    },
+    {
+        "Document ID": "0000849",
+        "Focus": "Nefazodone"
+    },
+    {
+        "Document ID": "0001202",
+        "Focus": "Thiothixene"
+    },
+    {
+        "Document ID": "0000108",
+        "Focus": "Azelastine Nasal Spray"
+    },
+    {
+        "Document ID": "0001216",
+        "Focus": "Tobramycin Injection"
+    },
+    {
+        "Document ID": "0000646",
+        "Focus": "Isoetharine Oral Inhalation"
+    },
+    {
+        "Document ID": "0000120",
+        "Focus": "Becaplermin Topical"
+    },
+    {
+        "Document ID": "0000134",
+        "Focus": "Benztropine Mesylate Oral"
+    },
+    {
+        "Document ID": "0000652",
+        "Focus": "Itraconazole"
+    },
+    {
+        "Document ID": "0000487",
+        "Focus": "Fentanyl"
+    },
+    {
+        "Document ID": "0000493",
+        "Focus": "Ferumoxytol Injection"
+    },
+    {
+        "Document ID": "0001000",
+        "Focus": "Polymyxin B and Trimethoprim Ophthalmic"
+    },
+    {
+        "Document ID": "0000478",
+        "Focus": "Ezogabine"
+    },
+    {
+        "Document ID": "0001014",
+        "Focus": "Prednisolone"
+    },
+    {
+        "Document ID": "0000322",
+        "Focus": "Daratumumab Injection"
+    },
+    {
+        "Document ID": "0000444",
+        "Focus": "Erythromycin"
+    },
+    {
+        "Document ID": "0000450",
+        "Focus": "Esomeprazole"
+    },
+    {
+        "Document ID": "0001028",
+        "Focus": "Propantheline"
+    },
+    {
+        "Document ID": "0000336",
+        "Focus": "Denosumab Injection"
+    },
+    {
+        "Document ID": "0000451",
+        "Focus": "Estazolam"
+    },
+    {
+        "Document ID": "0000337",
+        "Focus": "Deoxycholic Acid Injection"
+    },
+    {
+        "Document ID": "0001029",
+        "Focus": "Propranolol (Cardiovascular)"
+    },
+    {
+        "Document ID": "0000323",
+        "Focus": "Darbepoetin Alfa Injection"
+    },
+    {
+        "Document ID": "0000445",
+        "Focus": "Erythromycin and Benzoyl Peroxide Topical"
+    },
+    {
+        "Document ID": "0001015",
+        "Focus": "Prednisolone Ophthalmic"
+    },
+    {
+        "Document ID": "0001001",
+        "Focus": "Pomalidomide"
+    },
+    {
+        "Document ID": "0000479",
+        "Focus": "Famciclovir"
+    },
+    {
+        "Document ID": "0000492",
+        "Focus": "Ferrous Sulfate (Iron)"
+    },
+    {
+        "Document ID": "0000486",
+        "Focus": "Fenoprofen"
+    },
+    {
+        "Document ID": "0000135",
+        "Focus": "Benzyl Alcohol Topical"
+    },
+    {
+        "Document ID": "0000653",
+        "Focus": "Ivabradine"
+    },
+    {
+        "Document ID": "0000647",
+        "Focus": "Isoniazid"
+    },
+    {
+        "Document ID": "0000121",
+        "Focus": "Beclomethasone Nasal Inhalation"
+    },
+    {
+        "Document ID": "0001217",
+        "Focus": "Tobramycin Ophthalmic"
+    },
+    {
+        "Document ID": "0000109",
+        "Focus": "Azelastine Ophthalmic"
+    },
+    {
+        "Document ID": "0001203",
+        "Focus": "Thyroid"
+    },
+    {
+        "Document ID": "0000848",
+        "Focus": "Nedocromil Ophthalmic"
+    },
+    {
+        "Document ID": "0000690",
+        "Focus": "Levetiracetam"
+    },
+    {
+        "Document ID": "0000684",
+        "Focus": "Lenvatinib"
+    },
+    {
+        "Document ID": "0000874",
+        "Focus": "Nitroglycerin Sublingual"
+    },
+    {
+        "Document ID": "0000860",
+        "Focus": "Nicotine Gum"
+    },
+    {
+        "Document ID": "0000041",
+        "Focus": "Alogliptin"
+    },
+    {
+        "Document ID": "0000727",
+        "Focus": "Loxapine"
+    },
+    {
+        "Document ID": "0000733",
+        "Focus": "Magnesium Gluconate"
+    },
+    {
+        "Document ID": "0000055",
+        "Focus": "Aminocaproic Acid"
+    },
+    {
+        "Document ID": "0000069",
+        "Focus": "Amphotericin B Lipid Complex Injection"
+    },
+    {
+        "Document ID": "0000082",
+        "Focus": "Aprepitant"
+    },
+    {
+        "Document ID": "0000928",
+        "Focus": "Paclitaxel Injection"
+    },
+    {
+        "Document ID": "0000096",
+        "Focus": "Atazanavir and Cobicistat"
+    },
+    {
+        "Document ID": "0000900",
+        "Focus": "Omalizumab Injection"
+    },
+    {
+        "Document ID": "0000914",
+        "Focus": "Oxacillin Sodium Injection"
+    },
+    {
+        "Document ID": "0000525",
+        "Focus": "Fluticasone and Vilanterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0000243",
+        "Focus": "Chlorzoxazone"
+    },
+    {
+        "Document ID": "0001149",
+        "Focus": "Sunitinib"
+    },
+    {
+        "Document ID": "0000257",
+        "Focus": "Ciprofloxacin Injection"
+    },
+    {
+        "Document ID": "0000531",
+        "Focus": "Folic Acid"
+    },
+    {
+        "Document ID": "0000519",
+        "Focus": "Flurandrenolide Topical"
+    },
+    {
+        "Document ID": "0001161",
+        "Focus": "Tasimelteon"
+    },
+    {
+        "Document ID": "0001175",
+        "Focus": "Temozolomide Injection"
+    },
+    {
+        "Document ID": "0000280",
+        "Focus": "Clorazepate"
+    },
+    {
+        "Document ID": "0000294",
+        "Focus": "Crofelemer"
+    },
+    {
+        "Document ID": "0000290",
+        "Focus": "Colistimethate Injection"
+    },
+    {
+        "Document ID": "0000284",
+        "Focus": "Co-trimoxazole Injection"
+    },
+    {
+        "Document ID": "0000535",
+        "Focus": "Foscarnet Sodium Injection"
+    },
+    {
+        "Document ID": "0000253",
+        "Focus": "Cinacalcet"
+    },
+    {
+        "Document ID": "0000247",
+        "Focus": "Ciclesonide Oral Inhalation"
+    },
+    {
+        "Document ID": "0001159",
+        "Focus": "Tamsulosin"
+    },
+    {
+        "Document ID": "0000521",
+        "Focus": "Flurbiprofen"
+    },
+    {
+        "Document ID": "0000509",
+        "Focus": "Flunisolide Nasal Spray"
+    },
+    {
+        "Document ID": "0001171",
+        "Focus": "Telmisartan"
+    },
+    {
+        "Document ID": "0001165",
+        "Focus": "Teduglutide Injection"
+    },
+    {
+        "Document ID": "0000092",
+        "Focus": "Aspirin"
+    },
+    {
+        "Document ID": "0000938",
+        "Focus": "Panobinostat"
+    },
+    {
+        "Document ID": "0000086",
+        "Focus": "Armodafinil"
+    },
+    {
+        "Document ID": "0000910",
+        "Focus": "Orphenadrine"
+    },
+    {
+        "Document ID": "0000904",
+        "Focus": "Omeprazole"
+    },
+    {
+        "Document ID": "0000051",
+        "Focus": "Amifostine Injection"
+    },
+    {
+        "Document ID": "0000737",
+        "Focus": "Maprotiline"
+    },
+    {
+        "Document ID": "0000723",
+        "Focus": "Lorcaserin"
+    },
+    {
+        "Document ID": "0000045",
+        "Focus": "Altretamine"
+    },
+    {
+        "Document ID": "0000079",
+        "Focus": "Apomorphine"
+    },
+    {
+        "Document ID": "0000680",
+        "Focus": "Latanoprost Ophthalmic"
+    },
+    {
+        "Document ID": "0000858",
+        "Focus": "Niacin"
+    },
+    {
+        "Document ID": "0000694",
+        "Focus": "Levofloxacin"
+    },
+    {
+        "Document ID": "0000864",
+        "Focus": "Nicotine Transdermal Patch"
+    },
+    {
+        "Document ID": "0000870",
+        "Focus": "Nisoldipine"
+    },
+    {
+        "Document ID": "0000125",
+        "Focus": "Belimumab Injection"
+    },
+    {
+        "Document ID": "0000643",
+        "Focus": "Isavuconazonium"
+    },
+    {
+        "Document ID": "0000657",
+        "Focus": "Ixabepilone Injection"
+    },
+    {
+        "Document ID": "0000131",
+        "Focus": "Bentoquatam Topical"
+    },
+    {
+        "Document ID": "0000119",
+        "Focus": "Basiliximab Injection"
+    },
+    {
+        "Document ID": "0001207",
+        "Focus": "Ticlopidine"
+    },
+    {
+        "Document ID": "0001213",
+        "Focus": "Tiotropium Oral Inhalation"
+    },
+    {
+        "Document ID": "0000482",
+        "Focus": "Febuxostat"
+    },
+    {
+        "Document ID": "0000496",
+        "Focus": "Fexofenadine and Pseudoephedrine"
+    },
+    {
+        "Document ID": "0000441",
+        "Focus": "Eribulin Injection"
+    },
+    {
+        "Document ID": "0001039",
+        "Focus": "Pyridoxine"
+    },
+    {
+        "Document ID": "0000327",
+        "Focus": "Daunorubicin"
+    },
+    {
+        "Document ID": "0000333",
+        "Focus": "Delavirdine"
+    },
+    {
+        "Document ID": "0000455",
+        "Focus": "Estrogen"
+    },
+    {
+        "Document ID": "0001005",
+        "Focus": "Potassium Iodide"
+    },
+    {
+        "Document ID": "0001011",
+        "Focus": "Pravastatin"
+    },
+    {
+        "Document ID": "0000469",
+        "Focus": "Etodolac"
+    },
+    {
+        "Document ID": "0001010",
+        "Focus": "Prasugrel"
+    },
+    {
+        "Document ID": "0000468",
+        "Focus": "Etidronate"
+    },
+    {
+        "Document ID": "0001004",
+        "Focus": "Potassium"
+    },
+    {
+        "Document ID": "0000332",
+        "Focus": "Degarelix Injection"
+    },
+    {
+        "Document ID": "0000454",
+        "Focus": "Estramustine"
+    },
+    {
+        "Document ID": "0000440",
+        "Focus": "Ergotamine and Caffeine"
+    },
+    {
+        "Document ID": "0000326",
+        "Focus": "Dasatinib"
+    },
+    {
+        "Document ID": "0001038",
+        "Focus": "Pyridostigmine"
+    },
+    {
+        "Document ID": "0000497",
+        "Focus": "Fidaxomicin"
+    },
+    {
+        "Document ID": "0000483",
+        "Focus": "Felbamate"
+    },
+    {
+        "Document ID": "0001212",
+        "Focus": "Tinidazole"
+    },
+    {
+        "Document ID": "0001206",
+        "Focus": "Ticarcillin and Clavulanate Injection"
+    },
+    {
+        "Document ID": "0000118",
+        "Focus": "Barium Sulfate"
+    },
+    {
+        "Document ID": "0000656",
+        "Focus": "Ivermectin Topical"
+    },
+    {
+        "Document ID": "0000130",
+        "Focus": "Bendamustine Injection"
+    },
+    {
+        "Document ID": "0000124",
+        "Focus": "Belatacept Injection"
+    },
+    {
+        "Document ID": "0000642",
+        "Focus": "Iron Sucrose Injection"
+    },
+    {
+        "Document ID": "0000871",
+        "Focus": "Nitazoxanide"
+    },
+    {
+        "Document ID": "0000865",
+        "Focus": "Nifedipine"
+    },
+    {
+        "Document ID": "0000695",
+        "Focus": "Levofloxacin Injection"
+    },
+    {
+        "Document ID": "0000859",
+        "Focus": "Nicardipine"
+    },
+    {
+        "Document ID": "0000681",
+        "Focus": "Ledipasvir and Sofosbuvir"
+    },
+    {
+        "Document ID": "0000078",
+        "Focus": "Apixaban"
+    },
+    {
+        "Document ID": "0000722",
+        "Focus": "Lorazepam"
+    },
+    {
+        "Document ID": "0000044",
+        "Focus": "Alprostadil Urogenital"
+    },
+    {
+        "Document ID": "0000050",
+        "Focus": "Ambrisentan"
+    },
+    {
+        "Document ID": "0000736",
+        "Focus": "Malathion Topical"
+    },
+    {
+        "Document ID": "0000905",
+        "Focus": "OnabotulinumtoxinA Injection"
+    },
+    {
+        "Document ID": "0000911",
+        "Focus": "Oseltamivir"
+    },
+    {
+        "Document ID": "0000939",
+        "Focus": "Pantoprazole"
+    },
+    {
+        "Document ID": "0000087",
+        "Focus": "Arsenic Trioxide Injection"
+    },
+    {
+        "Document ID": "0000093",
+        "Focus": "Aspirin and Extended-Release Dipyridamole"
+    },
+    {
+        "Document ID": "0001164",
+        "Focus": "Tedizolid Injection"
+    },
+    {
+        "Document ID": "0000508",
+        "Focus": "Fludrocortisone Acetate"
+    },
+    {
+        "Document ID": "0001170",
+        "Focus": "Telithromycin"
+    },
+    {
+        "Document ID": "0001158",
+        "Focus": "Tamoxifen"
+    },
+    {
+        "Document ID": "0000246",
+        "Focus": "Ciclesonide Nasal Spray"
+    },
+    {
+        "Document ID": "0000520",
+        "Focus": "Flurazepam"
+    },
+    {
+        "Document ID": "0000534",
+        "Focus": "Fosamprenavir"
+    },
+    {
+        "Document ID": "0000252",
+        "Focus": "Cimetidine Hydrochloride Injection"
+    },
+    {
+        "Document ID": "0000285",
+        "Focus": "Cobimetinib"
+    },
+    {
+        "Document ID": "0000291",
+        "Focus": "Collagenase Clostridium Histolyticum Injection"
+    },
+    {
+        "Document ID": "0001199",
+        "Focus": "Thioguanine"
+    },
+    {
+        "Document ID": "0000287",
+        "Focus": "Colchicine"
+    },
+    {
+        "Document ID": "0000293",
+        "Focus": "Crizotinib"
+    },
+    {
+        "Document ID": "0000522",
+        "Focus": "Flurbiprofen Ophthalmic"
+    },
+    {
+        "Document ID": "0000244",
+        "Focus": "Cholestyramine Resin"
+    },
+    {
+        "Document ID": "0000250",
+        "Focus": "Cilostazol"
+    },
+    {
+        "Document ID": "0000536",
+        "Focus": "Fosfomycin"
+    },
+    {
+        "Document ID": "0000278",
+        "Focus": "Clonidine Transdermal Patch"
+    },
+    {
+        "Document ID": "0001166",
+        "Focus": "Tegaserod"
+    },
+    {
+        "Document ID": "0001172",
+        "Focus": "Telmisartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000085",
+        "Focus": "Aripiprazole Injection"
+    },
+    {
+        "Document ID": "0000091",
+        "Focus": "Asparaginase Erwinia chrysanthemi"
+    },
+    {
+        "Document ID": "0000907",
+        "Focus": "Ondansetron Injection"
+    },
+    {
+        "Document ID": "0000913",
+        "Focus": "Ospemifene"
+    },
+    {
+        "Document ID": "0000046",
+        "Focus": "Aluminum Hydroxide"
+    },
+    {
+        "Document ID": "0000720",
+        "Focus": "Lopinavir and Ritonavir"
+    },
+    {
+        "Document ID": "0000734",
+        "Focus": "Magnesium Hydroxide"
+    },
+    {
+        "Document ID": "0000052",
+        "Focus": "Amikacin Injection"
+    },
+    {
+        "Document ID": "0000708",
+        "Focus": "Linezolid Injection"
+    },
+    {
+        "Document ID": "0000697",
+        "Focus": "Levomilnacipran"
+    },
+    {
+        "Document ID": "0000683",
+        "Focus": "Lenalidomide"
+    },
+    {
+        "Document ID": "0000873",
+        "Focus": "Nitroglycerin Spray"
+    },
+    {
+        "Document ID": "0000867",
+        "Focus": "Nilutamide"
+    },
+    {
+        "Document ID": "0000132",
+        "Focus": "Benzonatate"
+    },
+    {
+        "Document ID": "0000654",
+        "Focus": "Ivacaftor"
+    },
+    {
+        "Document ID": "0000898",
+        "Focus": "Olsalazine"
+    },
+    {
+        "Document ID": "0000640",
+        "Focus": "Irinotecan Lipid Complex Injection"
+    },
+    {
+        "Document ID": "0000126",
+        "Focus": "Belinostat Injection"
+    },
+    {
+        "Document ID": "0001238",
+        "Focus": "Trandolapril and Verapamil"
+    },
+    {
+        "Document ID": "0001210",
+        "Focus": "Timolol Ophthalmic"
+    },
+    {
+        "Document ID": "0000668",
+        "Focus": "Labetalol Oral"
+    },
+    {
+        "Document ID": "0001204",
+        "Focus": "Tiagabine"
+    },
+    {
+        "Document ID": "0000495",
+        "Focus": "Fexofenadine"
+    },
+    {
+        "Document ID": "0000481",
+        "Focus": "Famotidine Injection"
+    },
+    {
+        "Document ID": "0000456",
+        "Focus": "Estrogen and Bazedoxifene"
+    },
+    {
+        "Document ID": "0000330",
+        "Focus": "Deferasirox"
+    },
+    {
+        "Document ID": "0000324",
+        "Focus": "Darifenacin"
+    },
+    {
+        "Document ID": "0000442",
+        "Focus": "Erlotinib"
+    },
+    {
+        "Document ID": "0001012",
+        "Focus": "Praziquantel"
+    },
+    {
+        "Document ID": "0001006",
+        "Focus": "Pralatrexate Injection"
+    },
+    {
+        "Document ID": "0000318",
+        "Focus": "Dantrolene Oral"
+    },
+    {
+        "Document ID": "0000319",
+        "Focus": "Dapagliflozin"
+    },
+    {
+        "Document ID": "0001007",
+        "Focus": "Pramipexole"
+    },
+    {
+        "Document ID": "0001013",
+        "Focus": "Prazosin"
+    },
+    {
+        "Document ID": "0000325",
+        "Focus": "Darunavir"
+    },
+    {
+        "Document ID": "0000443",
+        "Focus": "Ertapenem Injection"
+    },
+    {
+        "Document ID": "0000457",
+        "Focus": "Estrogen and Progestin (Hormone Replacement Therapy)"
+    },
+    {
+        "Document ID": "0000331",
+        "Focus": "Deferiprone"
+    },
+    {
+        "Document ID": "0000480",
+        "Focus": "Famotidine"
+    },
+    {
+        "Document ID": "0000494",
+        "Focus": "Fesoterodine"
+    },
+    {
+        "Document ID": "0001205",
+        "Focus": "Ticagrelor"
+    },
+    {
+        "Document ID": "0001211",
+        "Focus": "Timolol Oral"
+    },
+    {
+        "Document ID": "0000669",
+        "Focus": "Lacosamide"
+    },
+    {
+        "Document ID": "0000641",
+        "Focus": "Iron Dextran Injection"
+    },
+    {
+        "Document ID": "0000899",
+        "Focus": "Omacetaxine Injection"
+    },
+    {
+        "Document ID": "0001239",
+        "Focus": "Tranexamic Acid"
+    },
+    {
+        "Document ID": "0000127",
+        "Focus": "Belladonna Alkaloid Combinations and Phenobarbital"
+    },
+    {
+        "Document ID": "0000133",
+        "Focus": "Benzoyl Peroxide Topical"
+    },
+    {
+        "Document ID": "0000655",
+        "Focus": "Ivermectin"
+    },
+    {
+        "Document ID": "0000866",
+        "Focus": "Nilotinib"
+    },
+    {
+        "Document ID": "0000872",
+        "Focus": "Nitrofurantoin"
+    },
+    {
+        "Document ID": "0000682",
+        "Focus": "Leflunomide"
+    },
+    {
+        "Document ID": "0000696",
+        "Focus": "Levoleucovorin Injection"
+    },
+    {
+        "Document ID": "0000709",
+        "Focus": "Liothyronine"
+    },
+    {
+        "Document ID": "0000735",
+        "Focus": "Magnesium Oxide"
+    },
+    {
+        "Document ID": "0000053",
+        "Focus": "Amiloride"
+    },
+    {
+        "Document ID": "0000047",
+        "Focus": "Aluminum Hydroxide and Magnesium Hydroxide"
+    },
+    {
+        "Document ID": "0000721",
+        "Focus": "Loratadine"
+    },
+    {
+        "Document ID": "0000912",
+        "Focus": "Osimertinib"
+    },
+    {
+        "Document ID": "0000906",
+        "Focus": "Ondansetron"
+    },
+    {
+        "Document ID": "0000090",
+        "Focus": "Asenapine"
+    },
+    {
+        "Document ID": "0000084",
+        "Focus": "Aripiprazole"
+    },
+    {
+        "Document ID": "0001173",
+        "Focus": "Temazepam"
+    },
+    {
+        "Document ID": "0001167",
+        "Focus": "Telaprevir"
+    },
+    {
+        "Document ID": "0000279",
+        "Focus": "Clopidogrel"
+    },
+    {
+        "Document ID": "0000251",
+        "Focus": "Cimetidine"
+    },
+    {
+        "Document ID": "0000537",
+        "Focus": "Fosinopril"
+    },
+    {
+        "Document ID": "0000523",
+        "Focus": "Flutamide"
+    },
+    {
+        "Document ID": "0000245",
+        "Focus": "Choline Magnesium Trisalicylate"
+    },
+    {
+        "Document ID": "0000292",
+        "Focus": "Corticotropin, Repository Injection"
+    },
+    {
+        "Document ID": "0000286",
+        "Focus": "Codeine"
+    },
+    {
+        "Document ID": "0001198",
+        "Focus": "Thiamine"
+    },
+    {
+        "Document ID": "0000587",
+        "Focus": "Hydrocortisone Topical"
+    },
+    {
+        "Document ID": "0000593",
+        "Focus": "Hydroxyurea"
+    },
+    {
+        "Document ID": "0000578",
+        "Focus": "Human Papillomavirus (HPV) Vaccine (Cervarix)"
+    },
+    {
+        "Document ID": "0001100",
+        "Focus": "Secobarbital"
+    },
+    {
+        "Document ID": "0001114",
+        "Focus": "Simeprevir"
+    },
+    {
+        "Document ID": "0000544",
+        "Focus": "Ganciclovir Injection"
+    },
+    {
+        "Document ID": "0000222",
+        "Focus": "Ceftriaxone Injection"
+    },
+    {
+        "Document ID": "0000236",
+        "Focus": "Chlordiazepoxide and Clidinium"
+    },
+    {
+        "Document ID": "0001128",
+        "Focus": "Solifenacin"
+    },
+    {
+        "Document ID": "0000550",
+        "Focus": "Gentamicin Injection"
+    },
+    {
+        "Document ID": "0000961",
+        "Focus": "Penicillin V Potassium Oral"
+    },
+    {
+        "Document ID": "0000975",
+        "Focus": "Phenelzine"
+    },
+    {
+        "Document ID": "0000785",
+        "Focus": "Methylprednisolone Oral"
+    },
+    {
+        "Document ID": "0000949",
+        "Focus": "Peginterferon Alfa-2b (PEG-Intron)"
+    },
+    {
+        "Document ID": "0000791",
+        "Focus": "Metoprolol"
+    },
+    {
+        "Document ID": "0001302",
+        "Focus": "Zidovudine Injection"
+    },
+    {
+        "Document ID": "0000008",
+        "Focus": "Acetaminophen"
+    },
+    {
+        "Document ID": "0000020",
+        "Focus": "Adapalene"
+    },
+    {
+        "Document ID": "0000746",
+        "Focus": "Mefenamic Acid"
+    },
+    {
+        "Document ID": "0000752",
+        "Focus": "Memantine"
+    },
+    {
+        "Document ID": "0000034",
+        "Focus": "Alendronate"
+    },
+    {
+        "Document ID": "0000815",
+        "Focus": "Modafinil"
+    },
+    {
+        "Document ID": "0000801",
+        "Focus": "Miglitol"
+    },
+    {
+        "Document ID": "0001289",
+        "Focus": "Vincristine Injection"
+    },
+    {
+        "Document ID": "0000197",
+        "Focus": "Carboplatin Injection"
+    },
+    {
+        "Document ID": "0000829",
+        "Focus": "Mycophenolate"
+    },
+    {
+        "Document ID": "0000183",
+        "Focus": "Cabozantinib"
+    },
+    {
+        "Document ID": "0000168",
+        "Focus": "Budesonide Oral"
+    },
+    {
+        "Document ID": "0001276",
+        "Focus": "Vancomycin Hydrochloride Injection"
+    },
+    {
+        "Document ID": "0001262",
+        "Focus": "Ulipristal"
+    },
+    {
+        "Document ID": "0000154",
+        "Focus": "Bleomycin"
+    },
+    {
+        "Document ID": "0000632",
+        "Focus": "Interferon beta-1a Subcutaneous Injection"
+    },
+    {
+        "Document ID": "0000626",
+        "Focus": "Insulin Human Inhalation"
+    },
+    {
+        "Document ID": "0000140",
+        "Focus": "Betaxolol"
+    },
+    {
+        "Document ID": "0000395",
+        "Focus": "Doxazosin"
+    },
+    {
+        "Document ID": "0000381",
+        "Focus": "Dipyridamole"
+    },
+    {
+        "Document ID": "0001074",
+        "Focus": "Risperidone Injection"
+    },
+    {
+        "Document ID": "0001060",
+        "Focus": "Reserpine"
+    },
+    {
+        "Document ID": "0000418",
+        "Focus": "Elotuzumab Injection"
+    },
+    {
+        "Document ID": "0000430",
+        "Focus": "Entecavir"
+    },
+    {
+        "Document ID": "0001048",
+        "Focus": "Raltegravir"
+    },
+    {
+        "Document ID": "0000356",
+        "Focus": "Diclofenac"
+    },
+    {
+        "Document ID": "0000342",
+        "Focus": "Desonide Topical"
+    },
+    {
+        "Document ID": "0000424",
+        "Focus": "Emtricitabine and Tenofovir"
+    },
+    {
+        "Document ID": "0000343",
+        "Focus": "Desoximetasone Topical"
+    },
+    {
+        "Document ID": "0000425",
+        "Focus": "Enalapril"
+    },
+    {
+        "Document ID": "0000431",
+        "Focus": "Enzalutamide"
+    },
+    {
+        "Document ID": "0000357",
+        "Focus": "Diclofenac and Misoprostol"
+    },
+    {
+        "Document ID": "0001049",
+        "Focus": "Ramelteon"
+    },
+    {
+        "Document ID": "0001061",
+        "Focus": "Retapamulin"
+    },
+    {
+        "Document ID": "0000419",
+        "Focus": "Eltrombopag"
+    },
+    {
+        "Document ID": "0001075",
+        "Focus": "Ritonavir"
+    },
+    {
+        "Document ID": "0000380",
+        "Focus": "Dipivefrin Ophthalmic"
+    },
+    {
+        "Document ID": "0000394",
+        "Focus": "Dorzolamide Ophthalmic"
+    },
+    {
+        "Document ID": "0000627",
+        "Focus": "Insulin Injection"
+    },
+    {
+        "Document ID": "0000141",
+        "Focus": "Betaxolol Ophthalmic"
+    },
+    {
+        "Document ID": "0000155",
+        "Focus": "Blinatumomab Injection"
+    },
+    {
+        "Document ID": "0000633",
+        "Focus": "Interferon Beta-1b Injection"
+    },
+    {
+        "Document ID": "0001263",
+        "Focus": "Umeclidinium and Vilanterol Oral Inhalation"
+    },
+    {
+        "Document ID": "0001277",
+        "Focus": "Vandetanib"
+    },
+    {
+        "Document ID": "0000169",
+        "Focus": "Budesonide Oral Inhalation"
+    },
+    {
+        "Document ID": "0000182",
+        "Focus": "Cabergoline"
+    },
+    {
+        "Document ID": "0000196",
+        "Focus": "Carbamazepine"
+    },
+    {
+        "Document ID": "0001288",
+        "Focus": "Vinblastine"
+    },
+    {
+        "Document ID": "0000828",
+        "Focus": "Mupirocin"
+    },
+    {
+        "Document ID": "0000800",
+        "Focus": "Mifepristone (Mifeprex)"
+    },
+    {
+        "Document ID": "0000814",
+        "Focus": "MMR Vaccine (Measles, Mumps, and Rubella)"
+    },
+    {
+        "Document ID": "0000753",
+        "Focus": "Meningococcal Group B Vaccine (MenB)"
+    },
+    {
+        "Document ID": "0000035",
+        "Focus": "Alfuzosin"
+    },
+    {
+        "Document ID": "0000021",
+        "Focus": "Adefovir"
+    },
+    {
+        "Document ID": "0000747",
+        "Focus": "Mefloquine"
+    },
+    {
+        "Document ID": "0000009",
+        "Focus": "Acetaminophen and Codeine"
+    },
+    {
+        "Document ID": "0001303",
+        "Focus": "Zidovudine Oral"
+    },
+    {
+        "Document ID": "0000790",
+        "Focus": "Metolazone"
+    },
+    {
+        "Document ID": "0000948",
+        "Focus": "Peginterferon Alfa-2a Injection"
+    },
+    {
+        "Document ID": "0000784",
+        "Focus": "Methylphenidate Transdermal Patch"
+    },
+    {
+        "Document ID": "0000974",
+        "Focus": "Phenazopyridine"
+    },
+    {
+        "Document ID": "0000960",
+        "Focus": "Penicillin G Procaine Injection"
+    },
+    {
+        "Document ID": "0001129",
+        "Focus": "Sonidegib"
+    },
+    {
+        "Document ID": "0000237",
+        "Focus": "Chloroquine Phosphate Oral"
+    },
+    {
+        "Document ID": "0000551",
+        "Focus": "Gentamicin Ophthalmic"
+    },
+    {
+        "Document ID": "0000545",
+        "Focus": "Gatifloxacin Ophthalmic"
+    },
+    {
+        "Document ID": "0000223",
+        "Focus": "Cefuroxime"
+    },
+    {
+        "Document ID": "0001115",
+        "Focus": "Simethicone"
+    },
+    {
+        "Document ID": "0000579",
+        "Focus": "Human Papillomavirus (HPV) Vaccine (Gardasil)"
+    },
+    {
+        "Document ID": "0001101",
+        "Focus": "Secukinumab Injection"
+    },
+    {
+        "Document ID": "0000592",
+        "Focus": "Hydroxychloroquine"
+    },
+    {
+        "Document ID": "0000586",
+        "Focus": "Hydrocortisone Oral"
+    },
+    {
+        "Document ID": "0000590",
+        "Focus": "Hydromorphone Injection"
+    },
+    {
+        "Document ID": "0000584",
+        "Focus": "Hydrocodone Combination Products"
+    },
+    {
+        "Document ID": "0000209",
+        "Focus": "Cefditoren"
+    },
+    {
+        "Document ID": "0001117",
+        "Focus": "Sipuleucel-T Injection"
+    },
+    {
+        "Document ID": "0001103",
+        "Focus": "Selegiline Transdermal Patch"
+    },
+    {
+        "Document ID": "0000553",
+        "Focus": "Glimepiride"
+    },
+    {
+        "Document ID": "0000235",
+        "Focus": "Chlordiazepoxide"
+    },
+    {
+        "Document ID": "0000221",
+        "Focus": "Ceftolozane and Tazobactam Injection"
+    },
+    {
+        "Document ID": "0000547",
+        "Focus": "Gemcitabine Injection"
+    },
+    {
+        "Document ID": "0000976",
+        "Focus": "Phenobarbital"
+    },
+    {
+        "Document ID": "0000962",
+        "Focus": "Pentamidine Isethionate Injection"
+    },
+    {
+        "Document ID": "0000792",
+        "Focus": "Metronidazole Injection"
+    },
+    {
+        "Document ID": "0000786",
+        "Focus": "Methylprednisolone Sodium Succinate Injection"
+    },
+    {
+        "Document ID": "0000779",
+        "Focus": "Methyldopa"
+    },
+    {
+        "Document ID": "0001301",
+        "Focus": "Zanamivir Oral Inhalation"
+    },
+    {
+        "Document ID": "0000037",
+        "Focus": "Aliskiren"
+    },
+    {
+        "Document ID": "0000751",
+        "Focus": "Melphalan Injection"
+    },
+    {
+        "Document ID": "0000989",
+        "Focus": "Piperacillin and Tazobactam Injection"
+    },
+    {
+        "Document ID": "0000745",
+        "Focus": "Medroxyprogesterone Injection"
+    },
+    {
+        "Document ID": "0000023",
+        "Focus": "Afatinib"
+    },
+    {
+        "Document ID": "0000802",
+        "Focus": "Miglustat"
+    },
+    {
+        "Document ID": "0000816",
+        "Focus": "Moexipril"
+    },
+    {
+        "Document ID": "0000180",
+        "Focus": "Butorphanol Nasal Spray"
+    },
+    {
+        "Document ID": "0000194",
+        "Focus": "Captopril"
+    },
+    {
+        "Document ID": "0001261",
+        "Focus": "Typhoid Vaccine"
+    },
+    {
+        "Document ID": "0000619",
+        "Focus": "Influenza Vaccine, Live Intranasal"
+    },
+    {
+        "Document ID": "0001275",
+        "Focus": "Vancomycin"
+    },
+    {
+        "Document ID": "0000143",
+        "Focus": "Bevacizumab Injection"
+    },
+    {
+        "Document ID": "0000625",
+        "Focus": "Insulin Glulisine (rDNA origin) Injection"
+    },
+    {
+        "Document ID": "0000631",
+        "Focus": "Interferon beta-1a Intramuscular Injection"
+    },
+    {
+        "Document ID": "0000157",
+        "Focus": "Bortezomib"
+    },
+    {
+        "Document ID": "0001249",
+        "Focus": "Triamterene"
+    },
+    {
+        "Document ID": "0000382",
+        "Focus": "Disopyramide"
+    },
+    {
+        "Document ID": "0000396",
+        "Focus": "Doxepin"
+    },
+    {
+        "Document ID": "0001088",
+        "Focus": "Rotavirus Vaccine"
+    },
+    {
+        "Document ID": "0001063",
+        "Focus": "Rifabutin"
+    },
+    {
+        "Document ID": "0001077",
+        "Focus": "Rivaroxaban"
+    },
+    {
+        "Document ID": "0000369",
+        "Focus": "Digoxin Oral"
+    },
+    {
+        "Document ID": "0000427",
+        "Focus": "Enfuvirtide Injection"
+    },
+    {
+        "Document ID": "0000341",
+        "Focus": "Desmopressin Oral"
+    },
+    {
+        "Document ID": "0000355",
+        "Focus": "Diazepam Rectal"
+    },
+    {
+        "Document ID": "0000433",
+        "Focus": "Epinephrine Injection"
+    },
+    {
+        "Document ID": "0000354",
+        "Focus": "Diazepam"
+    },
+    {
+        "Document ID": "0000432",
+        "Focus": "Epinastine Ophthalmic"
+    },
+    {
+        "Document ID": "0000426",
+        "Focus": "Enalapril and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000340",
+        "Focus": "Desmopressin Nasal"
+    },
+    {
+        "Document ID": "0000368",
+        "Focus": "Difluprednate Ophthalmic"
+    },
+    {
+        "Document ID": "0001076",
+        "Focus": "Rituximab Injection"
+    },
+    {
+        "Document ID": "0001062",
+        "Focus": "Ribavirin"
+    },
+    {
+        "Document ID": "0001089",
+        "Focus": "Rotigotine Transdermal Patch"
+    },
+    {
+        "Document ID": "0000397",
+        "Focus": "Doxepin Topical"
+    },
+    {
+        "Document ID": "0000383",
+        "Focus": "Disulfiram"
+    },
+    {
+        "Document ID": "0000630",
+        "Focus": "Interferon Alfacon-1 Injection"
+    },
+    {
+        "Document ID": "0001248",
+        "Focus": "Triamcinolone Topical"
+    },
+    {
+        "Document ID": "0000156",
+        "Focus": "Boceprevir"
+    },
+    {
+        "Document ID": "0000142",
+        "Focus": "Bethanechol"
+    },
+    {
+        "Document ID": "0000624",
+        "Focus": "Insulin Glargine (rDNA origin) Injection"
+    },
+    {
+        "Document ID": "0001274",
+        "Focus": "Valsartan and Sacubitril"
+    },
+    {
+        "Document ID": "0001260",
+        "Focus": "Trospium"
+    },
+    {
+        "Document ID": "0000618",
+        "Focus": "Influenza Vaccine, Inactivated or Recombinant"
+    },
+    {
+        "Document ID": "0000195",
+        "Focus": "Captopril and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000181",
+        "Focus": "Cabazitaxel Injection"
+    },
+    {
+        "Document ID": "0000817",
+        "Focus": "Molindone"
+    },
+    {
+        "Document ID": "0000803",
+        "Focus": "Milnacipran"
+    },
+    {
+        "Document ID": "0000744",
+        "Focus": "Medroxyprogesterone"
+    },
+    {
+        "Document ID": "0000022",
+        "Focus": "Ado-trastuzumab Emtansine"
+    },
+    {
+        "Document ID": "0000036",
+        "Focus": "Alirocumab Injection"
+    },
+    {
+        "Document ID": "0000988",
+        "Focus": "Pioglitazone"
+    },
+    {
+        "Document ID": "0000750",
+        "Focus": "Melphalan"
+    },
+    {
+        "Document ID": "0000778",
+        "Focus": "Methyclothiazide"
+    },
+    {
+        "Document ID": "0001300",
+        "Focus": "Zaleplon"
+    },
+    {
+        "Document ID": "0000787",
+        "Focus": "Metipranolol Ophthalmic"
+    },
+    {
+        "Document ID": "0000793",
+        "Focus": "Metronidazole Oral"
+    },
+    {
+        "Document ID": "0000963",
+        "Focus": "Pentamidine Oral Inhalation"
+    },
+    {
+        "Document ID": "0000977",
+        "Focus": "Phenoxybenzamine"
+    },
+    {
+        "Document ID": "0000220",
+        "Focus": "Ceftibuten"
+    },
+    {
+        "Document ID": "0000546",
+        "Focus": "Gefitinib"
+    },
+    {
+        "Document ID": "0000552",
+        "Focus": "Glatiramer Injection"
+    },
+    {
+        "Document ID": "0000234",
+        "Focus": "Chloramphenicol Injection"
+    },
+    {
+        "Document ID": "0001102",
+        "Focus": "Selegiline"
+    },
+    {
+        "Document ID": "0001116",
+        "Focus": "Simvastatin"
+    },
+    {
+        "Document ID": "0000208",
+        "Focus": "Cefdinir"
+    },
+    {
+        "Document ID": "0000585",
+        "Focus": "Hydrocortisone Injection"
+    },
+    {
+        "Document ID": "0000591",
+        "Focus": "Hydromorphone Rectal"
+    },
+    {
+        "Document ID": "0000595",
+        "Focus": "Hyoscyamine"
+    },
+    {
+        "Document ID": "0000581",
+        "Focus": "Hydralazine"
+    },
+    {
+        "Document ID": "0000230",
+        "Focus": "Cetuximab Injection"
+    },
+    {
+        "Document ID": "0000556",
+        "Focus": "Glucarpidase"
+    },
+    {
+        "Document ID": "0000542",
+        "Focus": "Galantamine"
+    },
+    {
+        "Document ID": "0000224",
+        "Focus": "Cefuroxime Injection"
+    },
+    {
+        "Document ID": "0001112",
+        "Focus": "Siltuximab Injection"
+    },
+    {
+        "Document ID": "0000218",
+        "Focus": "Ceftazidime and Avibactam Injection"
+    },
+    {
+        "Document ID": "0001106",
+        "Focus": "Sertaconazole Topical"
+    },
+    {
+        "Document ID": "0000797",
+        "Focus": "Midazolam"
+    },
+    {
+        "Document ID": "0000783",
+        "Focus": "Methylphenidate"
+    },
+    {
+        "Document ID": "0000973",
+        "Focus": "Pertuzumab Injection"
+    },
+    {
+        "Document ID": "0000967",
+        "Focus": "Pentoxifylline"
+    },
+    {
+        "Document ID": "0000754",
+        "Focus": "Meningococcal Vaccines"
+    },
+    {
+        "Document ID": "0000032",
+        "Focus": "Alectinib"
+    },
+    {
+        "Document ID": "0000026",
+        "Focus": "Albiglutide Injection"
+    },
+    {
+        "Document ID": "0000740",
+        "Focus": "Mechlorethamine"
+    },
+    {
+        "Document ID": "0000998",
+        "Focus": "Polyethylene Glycol 3350"
+    },
+    {
+        "Document ID": "0000768",
+        "Focus": "Metformin"
+    },
+    {
+        "Document ID": "0001310",
+        "Focus": "Zolmitriptan Nasal Spray"
+    },
+    {
+        "Document ID": "0001304",
+        "Focus": "Zileuton"
+    },
+    {
+        "Document ID": "0000185",
+        "Focus": "Calcitonin Salmon Injection"
+    },
+    {
+        "Document ID": "0000191",
+        "Focus": "Candesartan"
+    },
+    {
+        "Document ID": "0000807",
+        "Focus": "Mipomersen Injection"
+    },
+    {
+        "Document ID": "0000813",
+        "Focus": "Mitoxantrone Injection"
+    },
+    {
+        "Document ID": "0000620",
+        "Focus": "Ingenol Mebutate Topical"
+    },
+    {
+        "Document ID": "0000146",
+        "Focus": "Bicalutamide"
+    },
+    {
+        "Document ID": "0001258",
+        "Focus": "Trimipramine"
+    },
+    {
+        "Document ID": "0000152",
+        "Focus": "Bismuth, Metronidazole, and Tetracycline"
+    },
+    {
+        "Document ID": "0000634",
+        "Focus": "Interferon Gamma-1b Injection"
+    },
+    {
+        "Document ID": "0001264",
+        "Focus": "Umeclidinium Oral Inhalation"
+    },
+    {
+        "Document ID": "0001270",
+        "Focus": "Valproic Acid"
+    },
+    {
+        "Document ID": "0000608",
+        "Focus": "Imatinib"
+    },
+    {
+        "Document ID": "0000387",
+        "Focus": "Dolasetron"
+    },
+    {
+        "Document ID": "0001099",
+        "Focus": "Scopolamine Transdermal Patch"
+    },
+    {
+        "Document ID": "0000393",
+        "Focus": "Dorzolamide and Timolol Ophthalmic"
+    },
+    {
+        "Document ID": "0000344",
+        "Focus": "Desvenlafaxine"
+    },
+    {
+        "Document ID": "0000422",
+        "Focus": "Empagliflozin"
+    },
+    {
+        "Document ID": "0000436",
+        "Focus": "Epoetin Alfa Injection"
+    },
+    {
+        "Document ID": "0000350",
+        "Focus": "Dextroamphetamine"
+    },
+    {
+        "Document ID": "0001066",
+        "Focus": "Rifaximin"
+    },
+    {
+        "Document ID": "0000378",
+        "Focus": "Diphenoxylate"
+    },
+    {
+        "Document ID": "0001072",
+        "Focus": "Risedronate"
+    },
+    {
+        "Document ID": "0001073",
+        "Focus": "Risperidone"
+    },
+    {
+        "Document ID": "0000379",
+        "Focus": "Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine"
+    },
+    {
+        "Document ID": "0001067",
+        "Focus": "Rilpivirine"
+    },
+    {
+        "Document ID": "0000437",
+        "Focus": "Eprosartan"
+    },
+    {
+        "Document ID": "0000351",
+        "Focus": "Dextroamphetamine and Amphetamine"
+    },
+    {
+        "Document ID": "0000345",
+        "Focus": "Dexamethasone Ophthalmic"
+    },
+    {
+        "Document ID": "0000423",
+        "Focus": "Emtricitabine"
+    },
+    {
+        "Document ID": "0000392",
+        "Focus": "Dornase Alfa"
+    },
+    {
+        "Document ID": "0001098",
+        "Focus": "Saxagliptin"
+    },
+    {
+        "Document ID": "0000386",
+        "Focus": "Dofetilide"
+    },
+    {
+        "Document ID": "0001271",
+        "Focus": "Valrubicin Intravesical"
+    },
+    {
+        "Document ID": "0000609",
+        "Focus": "Imipenem and Cilastatin Sodium Injection"
+    },
+    {
+        "Document ID": "0001265",
+        "Focus": "Unoprostone Ophthalmic"
+    },
+    {
+        "Document ID": "0000153",
+        "Focus": "Bisoprolol"
+    },
+    {
+        "Document ID": "0000635",
+        "Focus": "Ipilimumab Injection"
+    },
+    {
+        "Document ID": "0000621",
+        "Focus": "Insulin Aspart (rDNA Origin) Injection"
+    },
+    {
+        "Document ID": "0001259",
+        "Focus": "Triptorelin Injection"
+    },
+    {
+        "Document ID": "0000147",
+        "Focus": "Bimatoprost Ophthalmic"
+    },
+    {
+        "Document ID": "0000812",
+        "Focus": "Mitotane"
+    },
+    {
+        "Document ID": "0000806",
+        "Focus": "Minoxidil Topical"
+    },
+    {
+        "Document ID": "0000190",
+        "Focus": "Canagliflozin"
+    },
+    {
+        "Document ID": "0000184",
+        "Focus": "Calcipotriene Topical"
+    },
+    {
+        "Document ID": "0001305",
+        "Focus": "Ziprasidone"
+    },
+    {
+        "Document ID": "0000769",
+        "Focus": "Methadone"
+    },
+    {
+        "Document ID": "0001311",
+        "Focus": "Zolpidem"
+    },
+    {
+        "Document ID": "0000027",
+        "Focus": "Albuterol"
+    },
+    {
+        "Document ID": "0000999",
+        "Focus": "Polyethylene glycol-electrolyte solution (PEG-ES)"
+    },
+    {
+        "Document ID": "0000741",
+        "Focus": "Mechlorethamine Topical"
+    },
+    {
+        "Document ID": "0000755",
+        "Focus": "Meperidine"
+    },
+    {
+        "Document ID": "0000033",
+        "Focus": "Alemtuzumab Injection"
+    },
+    {
+        "Document ID": "0000966",
+        "Focus": "Pentostatin Injection"
+    },
+    {
+        "Document ID": "0000972",
+        "Focus": "Perphenazine"
+    },
+    {
+        "Document ID": "0000782",
+        "Focus": "Methylnaltrexone Injection"
+    },
+    {
+        "Document ID": "0000796",
+        "Focus": "Miconazole"
+    },
+    {
+        "Document ID": "0001107",
+        "Focus": "Sertraline"
+    },
+    {
+        "Document ID": "0000219",
+        "Focus": "Ceftazidime Injection"
+    },
+    {
+        "Document ID": "0001113",
+        "Focus": "Silver Sulfadiazine"
+    },
+    {
+        "Document ID": "0000543",
+        "Focus": "Ganciclovir"
+    },
+    {
+        "Document ID": "0000225",
+        "Focus": "Celecoxib"
+    },
+    {
+        "Document ID": "0000231",
+        "Focus": "Cevimeline"
+    },
+    {
+        "Document ID": "0000557",
+        "Focus": "Glyburide"
+    },
+    {
+        "Document ID": "0000580",
+        "Focus": "Human Papillomavirus (HPV) Vaccine (Gardasil-9)"
+    },
+    {
+        "Document ID": "0000594",
+        "Focus": "Hydroxyzine"
+    },
+    {
+        "Document ID": "0000582",
+        "Focus": "Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000596",
+        "Focus": "Ibandronate"
+    },
+    {
+        "Document ID": "0000227",
+        "Focus": "Ceritinib"
+    },
+    {
+        "Document ID": "0001139",
+        "Focus": "Sucralfate"
+    },
+    {
+        "Document ID": "0000541",
+        "Focus": "Gabapentin"
+    },
+    {
+        "Document ID": "0000555",
+        "Focus": "Glucagon"
+    },
+    {
+        "Document ID": "0000233",
+        "Focus": "Chlorambucil"
+    },
+    {
+        "Document ID": "0001105",
+        "Focus": "Senna"
+    },
+    {
+        "Document ID": "0000569",
+        "Focus": "Haemophilus influenzae type b (Hib) Vaccine"
+    },
+    {
+        "Document ID": "0001111",
+        "Focus": "Silodosin"
+    },
+    {
+        "Document ID": "0000958",
+        "Focus": "Penicillin G Benzathine and Penicillin G Procaine Injection"
+    },
+    {
+        "Document ID": "0000780",
+        "Focus": "Methyldopa and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000794",
+        "Focus": "Metronidazole Topical"
+    },
+    {
+        "Document ID": "0000964",
+        "Focus": "Pentazocine"
+    },
+    {
+        "Document ID": "0000970",
+        "Focus": "Perindopril"
+    },
+    {
+        "Document ID": "0000743",
+        "Focus": "Meclofenamate"
+    },
+    {
+        "Document ID": "0000025",
+        "Focus": "Albendazole"
+    },
+    {
+        "Document ID": "0000031",
+        "Focus": "Aldesleukin"
+    },
+    {
+        "Document ID": "0000757",
+        "Focus": "Mepolizumab Injection"
+    },
+    {
+        "Document ID": "0001307",
+        "Focus": "Ziv-aflibercept Injection"
+    },
+    {
+        "Document ID": "0000019",
+        "Focus": "Adalimumab Injection"
+    },
+    {
+        "Document ID": "0000192",
+        "Focus": "Candesartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0001298",
+        "Focus": "Yellow Fever Vaccine"
+    },
+    {
+        "Document ID": "0000186",
+        "Focus": "Calcitonin Salmon Nasal Spray"
+    },
+    {
+        "Document ID": "0000838",
+        "Focus": "Naloxone Injection"
+    },
+    {
+        "Document ID": "0000810",
+        "Focus": "Misoprostol"
+    },
+    {
+        "Document ID": "0000804",
+        "Focus": "Minocycline Oral"
+    },
+    {
+        "Document ID": "0000637",
+        "Focus": "Irbesartan"
+    },
+    {
+        "Document ID": "0000151",
+        "Focus": "Bismuth Subsalicylate"
+    },
+    {
+        "Document ID": "0000145",
+        "Focus": "Bexarotene Topical"
+    },
+    {
+        "Document ID": "0000623",
+        "Focus": "Insulin Detemir (rDNA Origin) Injection"
+    },
+    {
+        "Document ID": "0001273",
+        "Focus": "Valsartan and Hydrochlorothiazide"
+    },
+    {
+        "Document ID": "0000179",
+        "Focus": "Butorphanol Injection"
+    },
+    {
+        "Document ID": "0001267",
+        "Focus": "Ustekinumab Injection"
+    },
+    {
+        "Document ID": "0000390",
+        "Focus": "Donepezil"
+    },
+    {
+        "Document ID": "0000384",
+        "Focus": "Dobutamine Hydrochloride Injection"
+    },
+    {
+        "Document ID": "0000353",
+        "Focus": "Dextromethorphan and Quinidine"
+    },
+    {
+        "Document ID": "0000435",
+        "Focus": "Eplerenone"
+    },
+    {
+        "Document ID": "0000421",
+        "Focus": "Elvitegravir, Cobicistat, Emtricitabine, and Tenofovir"
+    },
+    {
+        "Document ID": "0001059",
+        "Focus": "Repaglinide"
+    },
+    {
+        "Document ID": "0000347",
+        "Focus": "Dexlansoprazole"
+    },
+    {
+        "Document ID": "0001071",
+        "Focus": "Riociguat"
+    },
+    {
+        "Document ID": "0000409",
+        "Focus": "Dutasteride"
+    },
+    {
+        "Document ID": "0001065",
+        "Focus": "Rifapentine"
+    },
+    {
+        "Document ID": "0001064",
+        "Focus": "Rifampin"
+    },
+    {
+        "Document ID": "0001070",
+        "Focus": "Rimantadine"
+    },
+    {
+        "Document ID": "0000408",
+        "Focus": "Duloxetine"
+    },
+    {
+        "Document ID": "0000420",
+        "Focus": "Eluxadoline"
+    },
+    {
+        "Document ID": "0000346",
+        "Focus": "Dexamethasone Oral"
+    },
+    {
+        "Document ID": "0001058",
+        "Focus": "Regorafenib"
+    },
+    {
+        "Document ID": "0000352",
+        "Focus": "Dextromethorphan"
+    },
+    {
+        "Document ID": "0000434",
+        "Focus": "Epirubicin"
+    },
+    {
+        "Document ID": "0000385",
+        "Focus": "Docetaxel Injection"
+    },
+    {
+        "Document ID": "0000391",
+        "Focus": "Doripenem Injection"
+    },
+    {
+        "Document ID": "0001266",
+        "Focus": "Ursodiol"
+    },
+    {
+        "Document ID": "0000178",
+        "Focus": "Butoconazole Vaginal Cream"
+    },
+    {
+        "Document ID": "0001272",
+        "Focus": "Valsartan"
+    },
+    {
+        "Document ID": "0000144",
+        "Focus": "Bexarotene"
+    },
+    {
+        "Document ID": "0000622",
+        "Focus": "Insulin Degludec (rDNA Origin) Injection"
+    },
+    {
+        "Document ID": "0000636",
+        "Focus": "Ipratropium Oral Inhalation"
+    },
+    {
+        "Document ID": "0000150",
+        "Focus": "Bisacodyl Rectal"
+    },
+    {
+        "Document ID": "0000805",
+        "Focus": "Minoxidil Oral"
+    },
+    {
+        "Document ID": "0000811",
+        "Focus": "Mitomycin"
+    },
+    {
+        "Document ID": "0000187",
+        "Focus": "Calcitriol"
+    },
+    {
+        "Document ID": "0001299",
+        "Focus": "Zafirlukast"
+    },
+    {
+        "Document ID": "0000839",
+        "Focus": "Naloxone Nasal Spray"
+    },
+    {
+        "Document ID": "0000193",
+        "Focus": "Capecitabine"
+    },
+    {
+        "Document ID": "0001312",
+        "Focus": "Zonisamide"
+    },
+    {
+        "Document ID": "0000018",
+        "Focus": "Acyclovir Topical"
+    },
+    {
+        "Document ID": "0001306",
+        "Focus": "Ziprasidone Injection"
+    },
+    {
+        "Document ID": "0000030",
+        "Focus": "Alcaftadine Ophthalmic"
+    },
+    {
+        "Document ID": "0000756",
+        "Focus": "Meperidine Hydrochloride Injection"
+    },
+    {
+        "Document ID": "0000742",
+        "Focus": "Meclizine"
+    },
+    {
+        "Document ID": "0000024",
+        "Focus": "Aflibercept Injection"
+    },
+    {
+        "Document ID": "0000971",
+        "Focus": "Permethrin Topical"
+    },
+    {
+        "Document ID": "0000965",
+        "Focus": "Pentosan Polysulfate"
+    },
+    {
+        "Document ID": "0000795",
+        "Focus": "Mexiletine"
+    },
+    {
+        "Document ID": "0000781",
+        "Focus": "Methylergonovine Oral"
+    },
+    {
+        "Document ID": "0000959",
+        "Focus": "Penicillin G Benzathine Injection"
+    },
+    {
+        "Document ID": "0000568",
+        "Focus": "Guanfacine"
+    },
+    {
+        "Document ID": "0001110",
+        "Focus": "Sildenafil"
+    },
+    {
+        "Document ID": "0001104",
+        "Focus": "Selenium Sulfide"
+    },
+    {
+        "Document ID": "0000554",
+        "Focus": "Glipizide"
+    },
+    {
+        "Document ID": "0000232",
+        "Focus": "Chloral Hydrate"
+    },
+    {
+        "Document ID": "0001138",
+        "Focus": "Strontium-89 Chloride"
+    },
+    {
+        "Document ID": "0000226",
+        "Focus": "Cephalexin"
+    },
+    {
+        "Document ID": "0000540",
+        "Focus": "Furosemide"
+    },
+    {
+        "Document ID": "0000597",
+        "Focus": "Ibandronate Injection"
+    },
+    {
+        "Document ID": "0000583",
+        "Focus": "Hydrocodone"
+    }
+]

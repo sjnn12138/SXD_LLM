@@ -1,0 +1,3926 @@
+[
+    {
+        "Document ID": "0000559",
+        "Focus": "Listeria Infections"
+    },
+    {
+        "Document ID": "0000565",
+        "Focus": "Low Blood Pressure"
+    },
+    {
+        "Document ID": "0000203",
+        "Focus": "Circumcision"
+    },
+    {
+        "Document ID": "0000217",
+        "Focus": "Colonic Diseases"
+    },
+    {
+        "Document ID": "0000571",
+        "Focus": "Lymphatic Diseases"
+    },
+    {
+        "Document ID": "0000940",
+        "Focus": "Vaginal Diseases"
+    },
+    {
+        "Document ID": "0000798",
+        "Focus": "Sciatica"
+    },
+    {
+        "Document ID": "0000954",
+        "Focus": "Vitamin D"
+    },
+    {
+        "Document ID": "0000968",
+        "Focus": "Weight Control"
+    },
+    {
+        "Document ID": "0000029",
+        "Focus": "Anabolic Steroids"
+    },
+    {
+        "Document ID": "0000001",
+        "Focus": "A1C"
+    },
+    {
+        "Document ID": "0000767",
+        "Focus": "Rare Diseases"
+    },
+    {
+        "Document ID": "0000773",
+        "Focus": "Reproductive Hazards"
+    },
+    {
+        "Document ID": "0000015",
+        "Focus": "Adrenal Gland Disorders"
+    },
+    {
+        "Document ID": "0000834",
+        "Focus": "Speech and Communication Disorders"
+    },
+    {
+        "Document ID": "0000820",
+        "Focus": "Skin Conditions"
+    },
+    {
+        "Document ID": "0000808",
+        "Focus": "Sexual Health"
+    },
+    {
+        "Document ID": "0000149",
+        "Focus": "Carcinoid Tumors"
+    },
+    {
+        "Document ID": "0000175",
+        "Focus": "Child Abuse"
+    },
+    {
+        "Document ID": "0000613",
+        "Focus": "Miscarriage"
+    },
+    {
+        "Document ID": "0000607",
+        "Focus": "Metabolic Panel"
+    },
+    {
+        "Document ID": "0000161",
+        "Focus": "Cerebellar Disorders"
+    },
+    {
+        "Document ID": "0000388",
+        "Focus": "Gallstones"
+    },
+    {
+        "Document ID": "0000439",
+        "Focus": "Hearing Aids"
+    },
+    {
+        "Document ID": "0000411",
+        "Focus": "Growth Disorders"
+    },
+    {
+        "Document ID": "0000377",
+        "Focus": "Foot Health"
+    },
+    {
+        "Document ID": "0000363",
+        "Focus": "Finger Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000405",
+        "Focus": "Giardia Infections"
+    },
+    {
+        "Document ID": "0000362",
+        "Focus": "Financial Assistance"
+    },
+    {
+        "Document ID": "0000404",
+        "Focus": "Giant Cell Arteritis"
+    },
+    {
+        "Document ID": "0000410",
+        "Focus": "Granulomatosis with Polyangiitis"
+    },
+    {
+        "Document ID": "0000376",
+        "Focus": "Foodborne Illness"
+    },
+    {
+        "Document ID": "0000438",
+        "Focus": "Healthy Living"
+    },
+    {
+        "Document ID": "0000389",
+        "Focus": "Gangrene"
+    },
+    {
+        "Document ID": "0000606",
+        "Focus": "Metabolic Disorders"
+    },
+    {
+        "Document ID": "0000160",
+        "Focus": "Cellulitis"
+    },
+    {
+        "Document ID": "0000174",
+        "Focus": "Chikungunya"
+    },
+    {
+        "Document ID": "0000612",
+        "Focus": "Minerals"
+    },
+    {
+        "Document ID": "0000148",
+        "Focus": "Carbon Monoxide Poisoning"
+    },
+    {
+        "Document ID": "0000809",
+        "Focus": "Sexual Problems in Men"
+    },
+    {
+        "Document ID": "0000821",
+        "Focus": "Skin Infections"
+    },
+    {
+        "Document ID": "0000835",
+        "Focus": "Speech and Language Problems in Children"
+    },
+    {
+        "Document ID": "0000772",
+        "Focus": "Rehabilitation"
+    },
+    {
+        "Document ID": "0000014",
+        "Focus": "Adrenal Gland Cancer"
+    },
+    {
+        "Document ID": "0000766",
+        "Focus": "Radon"
+    },
+    {
+        "Document ID": "0000028",
+        "Focus": "Amyotrophic Lateral Sclerosis"
+    },
+    {
+        "Document ID": "0000969",
+        "Focus": "Weight Loss Surgery"
+    },
+    {
+        "Document ID": "0000955",
+        "Focus": "Vitamin E"
+    },
+    {
+        "Document ID": "0000799",
+        "Focus": "Scleroderma"
+    },
+    {
+        "Document ID": "0000941",
+        "Focus": "Valley Fever"
+    },
+    {
+        "Document ID": "0000216",
+        "Focus": "College Health"
+    },
+    {
+        "Document ID": "0000570",
+        "Focus": "Lyme Disease"
+    },
+    {
+        "Document ID": "0000564",
+        "Focus": "Living with HIV/AIDS"
+    },
+    {
+        "Document ID": "0000202",
+        "Focus": "Chronic Pain"
+    },
+    {
+        "Document ID": "0000558",
+        "Focus": "Limb Loss"
+    },
+    {
+        "Document ID": "0000599",
+        "Focus": "Meningococcal Infections"
+    },
+    {
+        "Document ID": "0000228",
+        "Focus": "Concussion"
+    },
+    {
+        "Document ID": "0000572",
+        "Focus": "Lymphedema"
+    },
+    {
+        "Document ID": "0000214",
+        "Focus": "Cold Sores"
+    },
+    {
+        "Document ID": "0000200",
+        "Focus": "Chronic Lymphocytic Leukemia"
+    },
+    {
+        "Document ID": "0000566",
+        "Focus": "Lung Cancer"
+    },
+    {
+        "Document ID": "0000957",
+        "Focus": "Vitamins"
+    },
+    {
+        "Document ID": "0000943",
+        "Focus": "Vascular Diseases"
+    },
+    {
+        "Document ID": "0000758",
+        "Focus": "Pulmonary Fibrosis"
+    },
+    {
+        "Document ID": "0000980",
+        "Focus": "Yeast Infections"
+    },
+    {
+        "Document ID": "0000016",
+        "Focus": "Advance Directives"
+    },
+    {
+        "Document ID": "0000770",
+        "Focus": "Rectal Disorders"
+    },
+    {
+        "Document ID": "0000764",
+        "Focus": "Radiation Exposure"
+    },
+    {
+        "Document ID": "0000002",
+        "Focus": "Abdominal Pain"
+    },
+    {
+        "Document ID": "0000823",
+        "Focus": "Sleep Apnea"
+    },
+    {
+        "Document ID": "0000837",
+        "Focus": "Spina Bifida"
+    },
+    {
+        "Document ID": "0000189",
+        "Focus": "Children's Health"
+    },
+    {
+        "Document ID": "0000638",
+        "Focus": "Native American Health"
+    },
+    {
+        "Document ID": "0000162",
+        "Focus": "Cerebral Palsy"
+    },
+    {
+        "Document ID": "0000604",
+        "Focus": "Mercury"
+    },
+    {
+        "Document ID": "0000610",
+        "Focus": "Migraine"
+    },
+    {
+        "Document ID": "0000176",
+        "Focus": "Child Behavior Disorders"
+    },
+    {
+        "Document ID": "0000348",
+        "Focus": "Eyelid Disorders"
+    },
+    {
+        "Document ID": "0000406",
+        "Focus": "Glaucoma"
+    },
+    {
+        "Document ID": "0000360",
+        "Focus": "Fibromyalgia"
+    },
+    {
+        "Document ID": "0000374",
+        "Focus": "Food Labeling"
+    },
+    {
+        "Document ID": "0000412",
+        "Focus": "Guillain-Barre Syndrome"
+    },
+    {
+        "Document ID": "0000375",
+        "Focus": "Food Safety"
+    },
+    {
+        "Document ID": "0000413",
+        "Focus": "Gum Disease"
+    },
+    {
+        "Document ID": "0000407",
+        "Focus": "Gluten Sensitivity"
+    },
+    {
+        "Document ID": "0000361",
+        "Focus": "Fifth Disease"
+    },
+    {
+        "Document ID": "0000349",
+        "Focus": "Facial Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000611",
+        "Focus": "Mild Cognitive Impairment"
+    },
+    {
+        "Document ID": "0000177",
+        "Focus": "Child Care"
+    },
+    {
+        "Document ID": "0000163",
+        "Focus": "Cervical Cancer"
+    },
+    {
+        "Document ID": "0000605",
+        "Focus": "Mesothelioma"
+    },
+    {
+        "Document ID": "0000639",
+        "Focus": "Native Hawaiian and Pacific Islander Health"
+    },
+    {
+        "Document ID": "0000836",
+        "Focus": "Spider Bites"
+    },
+    {
+        "Document ID": "0000188",
+        "Focus": "Childhood Leukemia"
+    },
+    {
+        "Document ID": "0000822",
+        "Focus": "Skin Pigmentation Disorders"
+    },
+    {
+        "Document ID": "0000765",
+        "Focus": "Radiation Therapy"
+    },
+    {
+        "Document ID": "0000003",
+        "Focus": "Abortion"
+    },
+    {
+        "Document ID": "0000017",
+        "Focus": "African American Health"
+    },
+    {
+        "Document ID": "0000771",
+        "Focus": "Refractive Errors"
+    },
+    {
+        "Document ID": "0000981",
+        "Focus": "Zika Virus"
+    },
+    {
+        "Document ID": "0000759",
+        "Focus": "Pulmonary Hypertension"
+    },
+    {
+        "Document ID": "0000942",
+        "Focus": "Varicose Veins"
+    },
+    {
+        "Document ID": "0000956",
+        "Focus": "Vitamin K"
+    },
+    {
+        "Document ID": "0000201",
+        "Focus": "Chronic Myeloid Leukemia"
+    },
+    {
+        "Document ID": "0000567",
+        "Focus": "Lung Diseases"
+    },
+    {
+        "Document ID": "0000573",
+        "Focus": "Lymphoma"
+    },
+    {
+        "Document ID": "0000215",
+        "Focus": "Collapsed Lung"
+    },
+    {
+        "Document ID": "0000229",
+        "Focus": "Congenital Heart Defects"
+    },
+    {
+        "Document ID": "0000598",
+        "Focus": "Meningitis"
+    },
+    {
+        "Document ID": "0000588",
+        "Focus": "Medical Ethics"
+    },
+    {
+        "Document ID": "0000211",
+        "Focus": "Cocaine"
+    },
+    {
+        "Document ID": "0000577",
+        "Focus": "Male Breast Cancer"
+    },
+    {
+        "Document ID": "0000563",
+        "Focus": "Liver Transplantation"
+    },
+    {
+        "Document ID": "0000205",
+        "Focus": "Cleft Lip and Palate"
+    },
+    {
+        "Document ID": "0000239",
+        "Focus": "Coronavirus Infections"
+    },
+    {
+        "Document ID": "0000952",
+        "Focus": "Vitamin A"
+    },
+    {
+        "Document ID": "0000946",
+        "Focus": "Vegetarian Diet"
+    },
+    {
+        "Document ID": "0000775",
+        "Focus": "Respiratory Syncytial Virus Infections"
+    },
+    {
+        "Document ID": "0000013",
+        "Focus": "Adoption"
+    },
+    {
+        "Document ID": "0000007",
+        "Focus": "Acupuncture"
+    },
+    {
+        "Document ID": "0000761",
+        "Focus": "Quitting Smoking"
+    },
+    {
+        "Document ID": "0000749",
+        "Focus": "Progressive Supranuclear Palsy"
+    },
+    {
+        "Document ID": "0000826",
+        "Focus": "Smallpox"
+    },
+    {
+        "Document ID": "0000198",
+        "Focus": "Chronic Fatigue Syndrome"
+    },
+    {
+        "Document ID": "0000832",
+        "Focus": "Soft Tissue Sarcoma"
+    },
+    {
+        "Document ID": "0000601",
+        "Focus": "Menstruation"
+    },
+    {
+        "Document ID": "0000167",
+        "Focus": "Chagas Disease"
+    },
+    {
+        "Document ID": "0000173",
+        "Focus": "Chickenpox"
+    },
+    {
+        "Document ID": "0000615",
+        "Focus": "Mobility Aids"
+    },
+    {
+        "Document ID": "0000629",
+        "Focus": "Muscle Cramps"
+    },
+    {
+        "Document ID": "0000365",
+        "Focus": "Fires"
+    },
+    {
+        "Document ID": "0000403",
+        "Focus": "Germs and Hygiene"
+    },
+    {
+        "Document ID": "0000417",
+        "Focus": "Hair Loss"
+    },
+    {
+        "Document ID": "0000371",
+        "Focus": "Fluid and Electrolyte Balance"
+    },
+    {
+        "Document ID": "0000359",
+        "Focus": "Fever"
+    },
+    {
+        "Document ID": "0000358",
+        "Focus": "Fetal Health and Development"
+    },
+    {
+        "Document ID": "0000416",
+        "Focus": "Haemophilus Infections"
+    },
+    {
+        "Document ID": "0000370",
+        "Focus": "Flu Shot"
+    },
+    {
+        "Document ID": "0000364",
+        "Focus": "Fire Safety"
+    },
+    {
+        "Document ID": "0000402",
+        "Focus": "GERD"
+    },
+    {
+        "Document ID": "0000628",
+        "Focus": "Mumps"
+    },
+    {
+        "Document ID": "0000172",
+        "Focus": "Chiari Malformation"
+    },
+    {
+        "Document ID": "0000614",
+        "Focus": "Mitral Valve Prolapse"
+    },
+    {
+        "Document ID": "0000600",
+        "Focus": "Menopause"
+    },
+    {
+        "Document ID": "0000166",
+        "Focus": "Cesarean Section"
+    },
+    {
+        "Document ID": "0000833",
+        "Focus": "Sore Throat"
+    },
+    {
+        "Document ID": "0000827",
+        "Focus": "Smokeless Tobacco"
+    },
+    {
+        "Document ID": "0000199",
+        "Focus": "Chronic Kidney Disease"
+    },
+    {
+        "Document ID": "0000748",
+        "Focus": "Preterm Labor"
+    },
+    {
+        "Document ID": "0000006",
+        "Focus": "Acoustic Neuroma"
+    },
+    {
+        "Document ID": "0000760",
+        "Focus": "Pulmonary Rehabilitation"
+    },
+    {
+        "Document ID": "0000774",
+        "Focus": "Respiratory Failure"
+    },
+    {
+        "Document ID": "0000012",
+        "Focus": "Adhesions"
+    },
+    {
+        "Document ID": "0000947",
+        "Focus": "Veterans and Military Family Health"
+    },
+    {
+        "Document ID": "0000953",
+        "Focus": "Vitamin C"
+    },
+    {
+        "Document ID": "0000238",
+        "Focus": "Coronary Artery Disease"
+    },
+    {
+        "Document ID": "0000562",
+        "Focus": "Liver Function Tests"
+    },
+    {
+        "Document ID": "0000204",
+        "Focus": "Cirrhosis"
+    },
+    {
+        "Document ID": "0000210",
+        "Focus": "Club Drugs"
+    },
+    {
+        "Document ID": "0000576",
+        "Focus": "Malaria"
+    },
+    {
+        "Document ID": "0000589",
+        "Focus": "Medicare"
+    },
+    {
+        "Document ID": "0000206",
+        "Focus": "Climate Change"
+    },
+    {
+        "Document ID": "0000560",
+        "Focus": "Liver Cancer"
+    },
+    {
+        "Document ID": "0000574",
+        "Focus": "Macular Degeneration"
+    },
+    {
+        "Document ID": "0000212",
+        "Focus": "Cochlear Implants"
+    },
+    {
+        "Document ID": "0000548",
+        "Focus": "Latex Allergy"
+    },
+    {
+        "Document ID": "0000979",
+        "Focus": "X-Rays"
+    },
+    {
+        "Document ID": "0000945",
+        "Focus": "Vasectomy"
+    },
+    {
+        "Document ID": "0000951",
+        "Focus": "Vital Signs"
+    },
+    {
+        "Document ID": "0000789",
+        "Focus": "Safety"
+    },
+    {
+        "Document ID": "0000762",
+        "Focus": "Rabies"
+    },
+    {
+        "Document ID": "0000004",
+        "Focus": "Abscess"
+    },
+    {
+        "Document ID": "0000010",
+        "Focus": "Acute Myeloid Leukemia"
+    },
+    {
+        "Document ID": "0000776",
+        "Focus": "Restless Legs"
+    },
+    {
+        "Document ID": "0000038",
+        "Focus": "Angioplasty"
+    },
+    {
+        "Document ID": "0000819",
+        "Focus": "Skin Cancer"
+    },
+    {
+        "Document ID": "0000831",
+        "Focus": "Sodium"
+    },
+    {
+        "Document ID": "0000825",
+        "Focus": "Small Intestine Disorders"
+    },
+    {
+        "Document ID": "0000616",
+        "Focus": "Molds"
+    },
+    {
+        "Document ID": "0000170",
+        "Focus": "Chest Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000164",
+        "Focus": "Cervical Cancer Screening"
+    },
+    {
+        "Document ID": "0000602",
+        "Focus": "Mental Disorders"
+    },
+    {
+        "Document ID": "0000158",
+        "Focus": "Cataract"
+    },
+    {
+        "Document ID": "0000399",
+        "Focus": "Genetic Testing"
+    },
+    {
+        "Document ID": "0000372",
+        "Focus": "Folic Acid"
+    },
+    {
+        "Document ID": "0000414",
+        "Focus": "Gun Safety"
+    },
+    {
+        "Document ID": "0000400",
+        "Focus": "Genital Herpes"
+    },
+    {
+        "Document ID": "0000366",
+        "Focus": "First Aid"
+    },
+    {
+        "Document ID": "0000428",
+        "Focus": "Health Disparities"
+    },
+    {
+        "Document ID": "0000429",
+        "Focus": "Health Facilities"
+    },
+    {
+        "Document ID": "0000401",
+        "Focus": "Genital Warts"
+    },
+    {
+        "Document ID": "0000367",
+        "Focus": "Fistulas"
+    },
+    {
+        "Document ID": "0000373",
+        "Focus": "Food Allergy"
+    },
+    {
+        "Document ID": "0000415",
+        "Focus": "H1N1 Flu (Swine Flu)"
+    },
+    {
+        "Document ID": "0000398",
+        "Focus": "Genetic Disorders"
+    },
+    {
+        "Document ID": "0000159",
+        "Focus": "Celiac Disease"
+    },
+    {
+        "Document ID": "0000165",
+        "Focus": "Cervix Disorders"
+    },
+    {
+        "Document ID": "0000603",
+        "Focus": "Mental Health"
+    },
+    {
+        "Document ID": "0000617",
+        "Focus": "Moles"
+    },
+    {
+        "Document ID": "0000171",
+        "Focus": "Chest Pain"
+    },
+    {
+        "Document ID": "0000824",
+        "Focus": "Sleep Disorders"
+    },
+    {
+        "Document ID": "0000830",
+        "Focus": "Snoring"
+    },
+    {
+        "Document ID": "0000818",
+        "Focus": "Skin Aging"
+    },
+    {
+        "Document ID": "0000039",
+        "Focus": "Animal Bites"
+    },
+    {
+        "Document ID": "0000011",
+        "Focus": "Addison Disease"
+    },
+    {
+        "Document ID": "0000777",
+        "Focus": "Retinal Detachment"
+    },
+    {
+        "Document ID": "0000763",
+        "Focus": "Radiation Emergencies"
+    },
+    {
+        "Document ID": "0000005",
+        "Focus": "Acne"
+    },
+    {
+        "Document ID": "0000788",
+        "Focus": "Rural Health Concerns"
+    },
+    {
+        "Document ID": "0000950",
+        "Focus": "Vision Impairment and Blindness"
+    },
+    {
+        "Document ID": "0000944",
+        "Focus": "Vasculitis"
+    },
+    {
+        "Document ID": "0000978",
+        "Focus": "Wrist Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000549",
+        "Focus": "Lead Poisoning"
+    },
+    {
+        "Document ID": "0000575",
+        "Focus": "Malabsorption Syndromes"
+    },
+    {
+        "Document ID": "0000213",
+        "Focus": "Cold and Cough Medicines"
+    },
+    {
+        "Document ID": "0000207",
+        "Focus": "Clinical Trials"
+    },
+    {
+        "Document ID": "0000561",
+        "Focus": "Liver Diseases"
+    },
+    {
+        "Document ID": "0000248",
+        "Focus": "Crohn's Disease"
+    },
+    {
+        "Document ID": "0000260",
+        "Focus": "Dementia"
+    },
+    {
+        "Document ID": "0000506",
+        "Focus": "Infant and Newborn Care"
+    },
+    {
+        "Document ID": "0000512",
+        "Focus": "Infectious Diseases"
+    },
+    {
+        "Document ID": "0000274",
+        "Focus": "Diabetic Diet"
+    },
+    {
+        "Document ID": "0000923",
+        "Focus": "Ulcerative Colitis"
+    },
+    {
+        "Document ID": "0000089",
+        "Focus": "Bile Duct Cancer"
+    },
+    {
+        "Document ID": "0000937",
+        "Focus": "Uterine Fibroids"
+    },
+    {
+        "Document ID": "0000738",
+        "Focus": "Pregnancy and Medicines"
+    },
+    {
+        "Document ID": "0000704",
+        "Focus": "Peritoneal Disorders"
+    },
+    {
+        "Document ID": "0000062",
+        "Focus": "Assisted Living"
+    },
+    {
+        "Document ID": "0000076",
+        "Focus": "Baby Health Checkup"
+    },
+    {
+        "Document ID": "0000710",
+        "Focus": "Pheochromocytoma"
+    },
+    {
+        "Document ID": "0000857",
+        "Focus": "Stroke"
+    },
+    {
+        "Document ID": "0000843",
+        "Focus": "Spleen Diseases"
+    },
+    {
+        "Document ID": "0000894",
+        "Focus": "Tinea Infections"
+    },
+    {
+        "Document ID": "0000880",
+        "Focus": "Temporomandibular Joint Dysfunction"
+    },
+    {
+        "Document ID": "0000658",
+        "Focus": "Obsessive-Compulsive Disorder"
+    },
+    {
+        "Document ID": "0000670",
+        "Focus": "Ostomy"
+    },
+    {
+        "Document ID": "0000116",
+        "Focus": "Bone Infections"
+    },
+    {
+        "Document ID": "0000102",
+        "Focus": "Bleeding Disorders"
+    },
+    {
+        "Document ID": "0000664",
+        "Focus": "Organ Transplantation"
+    },
+    {
+        "Document ID": "0000499",
+        "Focus": "Hysterectomy"
+    },
+    {
+        "Document ID": "0000328",
+        "Focus": "Endometriosis"
+    },
+    {
+        "Document ID": "0000314",
+        "Focus": "Ebola"
+    },
+    {
+        "Document ID": "0000472",
+        "Focus": "High Blood Pressure in Pregnancy"
+    },
+    {
+        "Document ID": "0000466",
+        "Focus": "Heroin"
+    },
+    {
+        "Document ID": "0000300",
+        "Focus": "Drug Abuse"
+    },
+    {
+        "Document ID": "0000467",
+        "Focus": "Herpes Simplex"
+    },
+    {
+        "Document ID": "0000301",
+        "Focus": "Drug Reactions"
+    },
+    {
+        "Document ID": "0000315",
+        "Focus": "Ectopic Pregnancy"
+    },
+    {
+        "Document ID": "0000473",
+        "Focus": "Hip Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000329",
+        "Focus": "Endoscopy"
+    },
+    {
+        "Document ID": "0000498",
+        "Focus": "Hypothyroidism"
+    },
+    {
+        "Document ID": "0000103",
+        "Focus": "Blood"
+    },
+    {
+        "Document ID": "0000665",
+        "Focus": "Orthodontia"
+    },
+    {
+        "Document ID": "0000671",
+        "Focus": "Ovarian Cancer"
+    },
+    {
+        "Document ID": "0000117",
+        "Focus": "Bone Marrow Diseases"
+    },
+    {
+        "Document ID": "0000659",
+        "Focus": "Occupational Health"
+    },
+    {
+        "Document ID": "0000881",
+        "Focus": "Tendinitis"
+    },
+    {
+        "Document ID": "0000895",
+        "Focus": "Tinnitus"
+    },
+    {
+        "Document ID": "0000842",
+        "Focus": "Spine Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000856",
+        "Focus": "Stress"
+    },
+    {
+        "Document ID": "0000077",
+        "Focus": "Back Injuries"
+    },
+    {
+        "Document ID": "0000711",
+        "Focus": "Phobias"
+    },
+    {
+        "Document ID": "0000705",
+        "Focus": "Personal Health Records"
+    },
+    {
+        "Document ID": "0000063",
+        "Focus": "Assisted Reproductive Technology"
+    },
+    {
+        "Document ID": "0000739",
+        "Focus": "Pregnancy and Nutrition"
+    },
+    {
+        "Document ID": "0000088",
+        "Focus": "Bereavement"
+    },
+    {
+        "Document ID": "0000936",
+        "Focus": "Uterine Diseases"
+    },
+    {
+        "Document ID": "0000922",
+        "Focus": "Twins, Triplets, Multiple Births"
+    },
+    {
+        "Document ID": "0000513",
+        "Focus": "Infectious Mononucleosis"
+    },
+    {
+        "Document ID": "0000275",
+        "Focus": "Diabetic Eye Problems"
+    },
+    {
+        "Document ID": "0000261",
+        "Focus": "Dengue"
+    },
+    {
+        "Document ID": "0000507",
+        "Focus": "Infant and Newborn Development"
+    },
+    {
+        "Document ID": "0000249",
+        "Focus": "Croup"
+    },
+    {
+        "Document ID": "0000288",
+        "Focus": "Digestive Diseases"
+    },
+    {
+        "Document ID": "0000539",
+        "Focus": "Kidney Failure"
+    },
+    {
+        "Document ID": "0000277",
+        "Focus": "Diabetic Heart Disease"
+    },
+    {
+        "Document ID": "0000511",
+        "Focus": "Infectious Arthritis"
+    },
+    {
+        "Document ID": "0000505",
+        "Focus": "Indoor Air Pollution"
+    },
+    {
+        "Document ID": "0000263",
+        "Focus": "Dentures"
+    },
+    {
+        "Document ID": "0000934",
+        "Focus": "Usher Syndrome"
+    },
+    {
+        "Document ID": "0000920",
+        "Focus": "Tumors and Pregnancy"
+    },
+    {
+        "Document ID": "0000908",
+        "Focus": "Tracheal Disorders"
+    },
+    {
+        "Document ID": "0000049",
+        "Focus": "Aortic Aneurysm"
+    },
+    {
+        "Document ID": "0000713",
+        "Focus": "Pinkeye"
+    },
+    {
+        "Document ID": "0000075",
+        "Focus": "B Vitamins"
+    },
+    {
+        "Document ID": "0000061",
+        "Focus": "Aspergillosis"
+    },
+    {
+        "Document ID": "0000707",
+        "Focus": "Pesticides"
+    },
+    {
+        "Document ID": "0000698",
+        "Focus": "Pemphigus"
+    },
+    {
+        "Document ID": "0000840",
+        "Focus": "Spinal Muscular Atrophy"
+    },
+    {
+        "Document ID": "0000854",
+        "Focus": "Stomach Disorders"
+    },
+    {
+        "Document ID": "0000868",
+        "Focus": "Tailbone Disorders"
+    },
+    {
+        "Document ID": "0000883",
+        "Focus": "Testicular Disorders"
+    },
+    {
+        "Document ID": "0000129",
+        "Focus": "Breast Diseases"
+    },
+    {
+        "Document ID": "0000897",
+        "Focus": "Toddler Health"
+    },
+    {
+        "Document ID": "0000667",
+        "Focus": "Osteogenesis Imperfecta"
+    },
+    {
+        "Document ID": "0000101",
+        "Focus": "Bleeding"
+    },
+    {
+        "Document ID": "0000115",
+        "Focus": "Bone Grafts"
+    },
+    {
+        "Document ID": "0000673",
+        "Focus": "Ovarian Disorders"
+    },
+    {
+        "Document ID": "0000459",
+        "Focus": "Hepatitis"
+    },
+    {
+        "Document ID": "0000303",
+        "Focus": "Drugs and Young People"
+    },
+    {
+        "Document ID": "0000465",
+        "Focus": "Herniated Disk"
+    },
+    {
+        "Document ID": "0000471",
+        "Focus": "High Blood Pressure"
+    },
+    {
+        "Document ID": "0000317",
+        "Focus": "Edema"
+    },
+    {
+        "Document ID": "0000470",
+        "Focus": "Hidradenitis Suppurativa"
+    },
+    {
+        "Document ID": "0000316",
+        "Focus": "Eczema"
+    },
+    {
+        "Document ID": "0000302",
+        "Focus": "Drug Safety"
+    },
+    {
+        "Document ID": "0000464",
+        "Focus": "Hernia"
+    },
+    {
+        "Document ID": "0000458",
+        "Focus": "Hemorrhoids"
+    },
+    {
+        "Document ID": "0000114",
+        "Focus": "Bone Diseases"
+    },
+    {
+        "Document ID": "0000672",
+        "Focus": "Ovarian Cysts"
+    },
+    {
+        "Document ID": "0000666",
+        "Focus": "Osteoarthritis"
+    },
+    {
+        "Document ID": "0000100",
+        "Focus": "Bladder Diseases"
+    },
+    {
+        "Document ID": "0000128",
+        "Focus": "Breast Cancer"
+    },
+    {
+        "Document ID": "0000896",
+        "Focus": "Toddler Development"
+    },
+    {
+        "Document ID": "0000882",
+        "Focus": "Testicular Cancer"
+    },
+    {
+        "Document ID": "0000869",
+        "Focus": "Talking With Your Doctor"
+    },
+    {
+        "Document ID": "0000855",
+        "Focus": "Streptococcal Infections"
+    },
+    {
+        "Document ID": "0000841",
+        "Focus": "Spinal Stenosis"
+    },
+    {
+        "Document ID": "0000699",
+        "Focus": "Penis Disorders"
+    },
+    {
+        "Document ID": "0000060",
+        "Focus": "Asian American Health"
+    },
+    {
+        "Document ID": "0000706",
+        "Focus": "Personality Disorders"
+    },
+    {
+        "Document ID": "0000712",
+        "Focus": "Piercing and Tattoos"
+    },
+    {
+        "Document ID": "0000074",
+        "Focus": "Autonomic Nervous System Disorders"
+    },
+    {
+        "Document ID": "0000048",
+        "Focus": "Anxiety"
+    },
+    {
+        "Document ID": "0000909",
+        "Focus": "Transient Ischemic Attack"
+    },
+    {
+        "Document ID": "0000921",
+        "Focus": "Turner Syndrome"
+    },
+    {
+        "Document ID": "0000935",
+        "Focus": "Uterine Cancer"
+    },
+    {
+        "Document ID": "0000504",
+        "Focus": "Indigestion"
+    },
+    {
+        "Document ID": "0000262",
+        "Focus": "Dental Health"
+    },
+    {
+        "Document ID": "0000276",
+        "Focus": "Diabetic Foot"
+    },
+    {
+        "Document ID": "0000510",
+        "Focus": "Infections and Pregnancy"
+    },
+    {
+        "Document ID": "0000538",
+        "Focus": "Kidney Diseases"
+    },
+    {
+        "Document ID": "0000289",
+        "Focus": "Diphtheria"
+    },
+    {
+        "Document ID": "0000299",
+        "Focus": "Drowning"
+    },
+    {
+        "Document ID": "0000514",
+        "Focus": "Infertility"
+    },
+    {
+        "Document ID": "0000272",
+        "Focus": "Diabetes Type 1"
+    },
+    {
+        "Document ID": "0000266",
+        "Focus": "Diabetes"
+    },
+    {
+        "Document ID": "0000500",
+        "Focus": "Immune System and Disorders"
+    },
+    {
+        "Document ID": "0000528",
+        "Focus": "Islet Cell Transplantation"
+    },
+    {
+        "Document ID": "0000919",
+        "Focus": "Tuberous Sclerosis"
+    },
+    {
+        "Document ID": "0000931",
+        "Focus": "Urinary Incontinence"
+    },
+    {
+        "Document ID": "0000925",
+        "Focus": "Uncommon Infant and Newborn Problems"
+    },
+    {
+        "Document ID": "0000070",
+        "Focus": "Atrial Fibrillation"
+    },
+    {
+        "Document ID": "0000716",
+        "Focus": "Pituitary Tumors"
+    },
+    {
+        "Document ID": "0000702",
+        "Focus": "Peripheral Arterial Disease"
+    },
+    {
+        "Document ID": "0000064",
+        "Focus": "Assistive Devices"
+    },
+    {
+        "Document ID": "0000058",
+        "Focus": "Artificial Limbs"
+    },
+    {
+        "Document ID": "0000879",
+        "Focus": "Teens' Page"
+    },
+    {
+        "Document ID": "0000845",
+        "Focus": "Sports Injuries"
+    },
+    {
+        "Document ID": "0000689",
+        "Focus": "Parasitic Diseases"
+    },
+    {
+        "Document ID": "0000851",
+        "Focus": "Steroids"
+    },
+    {
+        "Document ID": "0000104",
+        "Focus": "Blood Clots"
+    },
+    {
+        "Document ID": "0000662",
+        "Focus": "Oral Cancer"
+    },
+    {
+        "Document ID": "0000676",
+        "Focus": "Oxygen Therapy"
+    },
+    {
+        "Document ID": "0000110",
+        "Focus": "Blood Transfusion and Donation"
+    },
+    {
+        "Document ID": "0000138",
+        "Focus": "Caffeine"
+    },
+    {
+        "Document ID": "0000886",
+        "Focus": "Thalassemia"
+    },
+    {
+        "Document ID": "0000892",
+        "Focus": "Thyroid Diseases"
+    },
+    {
+        "Document ID": "0000460",
+        "Focus": "Hepatitis A"
+    },
+    {
+        "Document ID": "0000306",
+        "Focus": "Dwarfism"
+    },
+    {
+        "Document ID": "0000312",
+        "Focus": "Earthquakes"
+    },
+    {
+        "Document ID": "0000474",
+        "Focus": "Hip Replacement"
+    },
+    {
+        "Document ID": "0000448",
+        "Focus": "Heart Transplantation"
+    },
+    {
+        "Document ID": "0000449",
+        "Focus": "Heart Valve Diseases"
+    },
+    {
+        "Document ID": "0000313",
+        "Focus": "Eating Disorders"
+    },
+    {
+        "Document ID": "0000475",
+        "Focus": "Hispanic American Health"
+    },
+    {
+        "Document ID": "0000461",
+        "Focus": "Hepatitis B"
+    },
+    {
+        "Document ID": "0000307",
+        "Focus": "Dystonia"
+    },
+    {
+        "Document ID": "0000893",
+        "Focus": "Tick Bites"
+    },
+    {
+        "Document ID": "0000139",
+        "Focus": "Calcium"
+    },
+    {
+        "Document ID": "0000887",
+        "Focus": "Thoracic Outlet Syndrome"
+    },
+    {
+        "Document ID": "0000677",
+        "Focus": "Ozone"
+    },
+    {
+        "Document ID": "0000111",
+        "Focus": "Body Weight"
+    },
+    {
+        "Document ID": "0000105",
+        "Focus": "Blood Count Tests"
+    },
+    {
+        "Document ID": "0000663",
+        "Focus": "Organ Donation"
+    },
+    {
+        "Document ID": "0000850",
+        "Focus": "Stem Cells"
+    },
+    {
+        "Document ID": "0000688",
+        "Focus": "Paralysis"
+    },
+    {
+        "Document ID": "0000844",
+        "Focus": "Sports Fitness"
+    },
+    {
+        "Document ID": "0000878",
+        "Focus": "Teenage Pregnancy"
+    },
+    {
+        "Document ID": "0000059",
+        "Focus": "Asbestos"
+    },
+    {
+        "Document ID": "0000703",
+        "Focus": "Peripheral Nerve Disorders"
+    },
+    {
+        "Document ID": "0000065",
+        "Focus": "Asthma"
+    },
+    {
+        "Document ID": "0000071",
+        "Focus": "Attention Deficit Hyperactivity Disorder"
+    },
+    {
+        "Document ID": "0000717",
+        "Focus": "Plague"
+    },
+    {
+        "Document ID": "0000924",
+        "Focus": "Ultrasound"
+    },
+    {
+        "Document ID": "0000930",
+        "Focus": "Urinalysis"
+    },
+    {
+        "Document ID": "0000918",
+        "Focus": "Tuberculosis"
+    },
+    {
+        "Document ID": "0000529",
+        "Focus": "Itching"
+    },
+    {
+        "Document ID": "0000267",
+        "Focus": "Diabetes and Pregnancy"
+    },
+    {
+        "Document ID": "0000501",
+        "Focus": "Immunization"
+    },
+    {
+        "Document ID": "0000515",
+        "Focus": "Inhalants"
+    },
+    {
+        "Document ID": "0000273",
+        "Focus": "Diabetes Type 2"
+    },
+    {
+        "Document ID": "0000298",
+        "Focus": "Drinking Water"
+    },
+    {
+        "Document ID": "0000503",
+        "Focus": "Impetigo"
+    },
+    {
+        "Document ID": "0000265",
+        "Focus": "Developmental Disabilities"
+    },
+    {
+        "Document ID": "0000271",
+        "Focus": "Diabetes Medicines"
+    },
+    {
+        "Document ID": "0000517",
+        "Focus": "Insect Bites and Stings"
+    },
+    {
+        "Document ID": "0000259",
+        "Focus": "Delirium"
+    },
+    {
+        "Document ID": "0000098",
+        "Focus": "Birthmarks"
+    },
+    {
+        "Document ID": "0000926",
+        "Focus": "Underage Drinking"
+    },
+    {
+        "Document ID": "0000932",
+        "Focus": "Urinary Tract Infections"
+    },
+    {
+        "Document ID": "0000067",
+        "Focus": "Ataxia Telangiectasia"
+    },
+    {
+        "Document ID": "0000701",
+        "Focus": "Pericardial Disorders"
+    },
+    {
+        "Document ID": "0000715",
+        "Focus": "Pituitary Disorders"
+    },
+    {
+        "Document ID": "0000073",
+        "Focus": "Autoimmune Diseases"
+    },
+    {
+        "Document ID": "0000729",
+        "Focus": "Porphyria"
+    },
+    {
+        "Document ID": "0000852",
+        "Focus": "Stillbirth"
+    },
+    {
+        "Document ID": "0000846",
+        "Focus": "Sports Safety"
+    },
+    {
+        "Document ID": "0000113",
+        "Focus": "Bone Density"
+    },
+    {
+        "Document ID": "0000675",
+        "Focus": "Overactive Bladder"
+    },
+    {
+        "Document ID": "0000661",
+        "Focus": "Oil Spills"
+    },
+    {
+        "Document ID": "0000107",
+        "Focus": "Blood Pressure Medicines"
+    },
+    {
+        "Document ID": "0000891",
+        "Focus": "Thyroid Cancer"
+    },
+    {
+        "Document ID": "0000649",
+        "Focus": "Norovirus Infections"
+    },
+    {
+        "Document ID": "0000885",
+        "Focus": "Tetanus, Diphtheria, and Pertussis Vaccines"
+    },
+    {
+        "Document ID": "0000488",
+        "Focus": "Hospice Care"
+    },
+    {
+        "Document ID": "0000477",
+        "Focus": "HIV/AIDS"
+    },
+    {
+        "Document ID": "0000311",
+        "Focus": "Ear Infections"
+    },
+    {
+        "Document ID": "0000305",
+        "Focus": "Dual Diagnosis"
+    },
+    {
+        "Document ID": "0000463",
+        "Focus": "Herbal Medicine"
+    },
+    {
+        "Document ID": "0000339",
+        "Focus": "Exercise and Physical Fitness"
+    },
+    {
+        "Document ID": "0000338",
+        "Focus": "Evaluating Health Information"
+    },
+    {
+        "Document ID": "0000304",
+        "Focus": "Dry Mouth"
+    },
+    {
+        "Document ID": "0000462",
+        "Focus": "Hepatitis C"
+    },
+    {
+        "Document ID": "0000476",
+        "Focus": "Histoplasmosis"
+    },
+    {
+        "Document ID": "0000310",
+        "Focus": "Ear Disorders"
+    },
+    {
+        "Document ID": "0000489",
+        "Focus": "Household Products"
+    },
+    {
+        "Document ID": "0000884",
+        "Focus": "Tetanus"
+    },
+    {
+        "Document ID": "0000648",
+        "Focus": "Noise"
+    },
+    {
+        "Document ID": "0000890",
+        "Focus": "Thymus Cancer"
+    },
+    {
+        "Document ID": "0000660",
+        "Focus": "Occupational Health for Healthcare Providers"
+    },
+    {
+        "Document ID": "0000106",
+        "Focus": "Blood Disorders"
+    },
+    {
+        "Document ID": "0000112",
+        "Focus": "Bone Cancer"
+    },
+    {
+        "Document ID": "0000674",
+        "Focus": "Over-the-Counter Medicines"
+    },
+    {
+        "Document ID": "0000847",
+        "Focus": "Sprains and Strains"
+    },
+    {
+        "Document ID": "0000853",
+        "Focus": "Stomach Cancer"
+    },
+    {
+        "Document ID": "0000728",
+        "Focus": "Polymyalgia Rheumatica"
+    },
+    {
+        "Document ID": "0000714",
+        "Focus": "Pinworms"
+    },
+    {
+        "Document ID": "0000072",
+        "Focus": "Autism Spectrum Disorder"
+    },
+    {
+        "Document ID": "0000066",
+        "Focus": "Asthma in Children"
+    },
+    {
+        "Document ID": "0000700",
+        "Focus": "Peptic Ulcer"
+    },
+    {
+        "Document ID": "0000933",
+        "Focus": "Urine and Urination"
+    },
+    {
+        "Document ID": "0000099",
+        "Focus": "Bladder Cancer"
+    },
+    {
+        "Document ID": "0000927",
+        "Focus": "Understanding Medical Research"
+    },
+    {
+        "Document ID": "0000258",
+        "Focus": "Dehydration"
+    },
+    {
+        "Document ID": "0000270",
+        "Focus": "Diabetes Insipidus"
+    },
+    {
+        "Document ID": "0000516",
+        "Focus": "Inhalation Injuries"
+    },
+    {
+        "Document ID": "0000502",
+        "Focus": "Impaired Driving"
+    },
+    {
+        "Document ID": "0000264",
+        "Focus": "Depression"
+    },
+    {
+        "Document ID": "0000282",
+        "Focus": "Diarrhea"
+    },
+    {
+        "Document ID": "0000296",
+        "Focus": "Domestic Violence"
+    },
+    {
+        "Document ID": "0000269",
+        "Focus": "Diabetes in Children and Teens"
+    },
+    {
+        "Document ID": "0000241",
+        "Focus": "Cosmetics"
+    },
+    {
+        "Document ID": "0000527",
+        "Focus": "Ischemic Stroke"
+    },
+    {
+        "Document ID": "0000533",
+        "Focus": "Juvenile Arthritis"
+    },
+    {
+        "Document ID": "0000255",
+        "Focus": "DASH Diet"
+    },
+    {
+        "Document ID": "0000902",
+        "Focus": "Tonsils and Adenoids"
+    },
+    {
+        "Document ID": "0000916",
+        "Focus": "Tsunamis"
+    },
+    {
+        "Document ID": "0000080",
+        "Focus": "Bad Breath"
+    },
+    {
+        "Document ID": "0000094",
+        "Focus": "Bird Flu"
+    },
+    {
+        "Document ID": "0000719",
+        "Focus": "Platelet Disorders"
+    },
+    {
+        "Document ID": "0000725",
+        "Focus": "Poisoning"
+    },
+    {
+        "Document ID": "0000043",
+        "Focus": "Anthrax"
+    },
+    {
+        "Document ID": "0000057",
+        "Focus": "Arthritis"
+    },
+    {
+        "Document ID": "0000731",
+        "Focus": "Postpartum Care"
+    },
+    {
+        "Document ID": "0000876",
+        "Focus": "Teen Sexual Health"
+    },
+    {
+        "Document ID": "0000862",
+        "Focus": "Sun Exposure"
+    },
+    {
+        "Document ID": "0000692",
+        "Focus": "Parkinson's Disease"
+    },
+    {
+        "Document ID": "0000686",
+        "Focus": "Pancreatitis"
+    },
+    {
+        "Document ID": "0000679",
+        "Focus": "Paget's Disease of Bone"
+    },
+    {
+        "Document ID": "0000889",
+        "Focus": "Throat Disorders"
+    },
+    {
+        "Document ID": "0000651",
+        "Focus": "Nuclear Scans"
+    },
+    {
+        "Document ID": "0000137",
+        "Focus": "Bursitis"
+    },
+    {
+        "Document ID": "0000123",
+        "Focus": "Brachial Plexus Injuries"
+    },
+    {
+        "Document ID": "0000645",
+        "Focus": "Neurologic Diseases"
+    },
+    {
+        "Document ID": "0000490",
+        "Focus": "HPV"
+    },
+    {
+        "Document ID": "0000484",
+        "Focus": "Home Care Services"
+    },
+    {
+        "Document ID": "0000309",
+        "Focus": "E. Coli Infections"
+    },
+    {
+        "Document ID": "0000335",
+        "Focus": "Ergonomics"
+    },
+    {
+        "Document ID": "0000453",
+        "Focus": "Helicobacter Pylori Infections"
+    },
+    {
+        "Document ID": "0000447",
+        "Focus": "Heart Surgery"
+    },
+    {
+        "Document ID": "0000321",
+        "Focus": "Electromagnetic Fields"
+    },
+    {
+        "Document ID": "0000446",
+        "Focus": "Heart Failure"
+    },
+    {
+        "Document ID": "0000320",
+        "Focus": "Elder Abuse"
+    },
+    {
+        "Document ID": "0000334",
+        "Focus": "Erectile Dysfunction"
+    },
+    {
+        "Document ID": "0000452",
+        "Focus": "Heel Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000308",
+        "Focus": "E-Cigarettes"
+    },
+    {
+        "Document ID": "0000485",
+        "Focus": "Homeless Health Concerns"
+    },
+    {
+        "Document ID": "0000491",
+        "Focus": "Huntington's Disease"
+    },
+    {
+        "Document ID": "0000122",
+        "Focus": "Bowel Movement"
+    },
+    {
+        "Document ID": "0000644",
+        "Focus": "Neurofibromatosis"
+    },
+    {
+        "Document ID": "0000650",
+        "Focus": "Nose Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000888",
+        "Focus": "Throat Cancer"
+    },
+    {
+        "Document ID": "0000136",
+        "Focus": "Burns"
+    },
+    {
+        "Document ID": "0000678",
+        "Focus": "Pacemakers and Implantable Defibrillators"
+    },
+    {
+        "Document ID": "0000687",
+        "Focus": "Panic Disorder"
+    },
+    {
+        "Document ID": "0000693",
+        "Focus": "Patient Rights"
+    },
+    {
+        "Document ID": "0000863",
+        "Focus": "Surgery"
+    },
+    {
+        "Document ID": "0000877",
+        "Focus": "Teen Violence"
+    },
+    {
+        "Document ID": "0000056",
+        "Focus": "Arteriovenous Malformations"
+    },
+    {
+        "Document ID": "0000730",
+        "Focus": "Post-Traumatic Stress Disorder"
+    },
+    {
+        "Document ID": "0000724",
+        "Focus": "Poison Ivy, Oak and Sumac"
+    },
+    {
+        "Document ID": "0000042",
+        "Focus": "Ankylosing Spondylitis"
+    },
+    {
+        "Document ID": "0000718",
+        "Focus": "Plastic and Cosmetic Surgery"
+    },
+    {
+        "Document ID": "0000095",
+        "Focus": "Birth Control"
+    },
+    {
+        "Document ID": "0000081",
+        "Focus": "Balance Problems"
+    },
+    {
+        "Document ID": "0000917",
+        "Focus": "Tubal Ligation"
+    },
+    {
+        "Document ID": "0000903",
+        "Focus": "Tooth Decay"
+    },
+    {
+        "Document ID": "0000532",
+        "Focus": "Joint Disorders"
+    },
+    {
+        "Document ID": "0000254",
+        "Focus": "Cytomegalovirus Infections"
+    },
+    {
+        "Document ID": "0000240",
+        "Focus": "Cosmetic Dentistry"
+    },
+    {
+        "Document ID": "0000526",
+        "Focus": "Irritable Bowel Syndrome"
+    },
+    {
+        "Document ID": "0000268",
+        "Focus": "Diabetes Complications"
+    },
+    {
+        "Document ID": "0000297",
+        "Focus": "Down Syndrome"
+    },
+    {
+        "Document ID": "0000283",
+        "Focus": "Dietary Fats"
+    },
+    {
+        "Document ID": "0000295",
+        "Focus": "Dizziness and Vertigo"
+    },
+    {
+        "Document ID": "0000281",
+        "Focus": "Dialysis"
+    },
+    {
+        "Document ID": "0000518",
+        "Focus": "Insomnia"
+    },
+    {
+        "Document ID": "0000256",
+        "Focus": "Deep Vein Thrombosis"
+    },
+    {
+        "Document ID": "0000530",
+        "Focus": "Jaundice"
+    },
+    {
+        "Document ID": "0000524",
+        "Focus": "Intestinal Obstruction"
+    },
+    {
+        "Document ID": "0000242",
+        "Focus": "Cough"
+    },
+    {
+        "Document ID": "0000915",
+        "Focus": "Triglycerides"
+    },
+    {
+        "Document ID": "0000901",
+        "Focus": "Tongue Disorders"
+    },
+    {
+        "Document ID": "0000929",
+        "Focus": "Urethral Disorders"
+    },
+    {
+        "Document ID": "0000097",
+        "Focus": "Birth Weight"
+    },
+    {
+        "Document ID": "0000083",
+        "Focus": "Bedbugs"
+    },
+    {
+        "Document ID": "0000068",
+        "Focus": "Atherosclerosis"
+    },
+    {
+        "Document ID": "0000732",
+        "Focus": "Postpartum Depression"
+    },
+    {
+        "Document ID": "0000054",
+        "Focus": "Arrhythmia"
+    },
+    {
+        "Document ID": "0000040",
+        "Focus": "Animal Diseases and Your Health"
+    },
+    {
+        "Document ID": "0000726",
+        "Focus": "Polio and Post-Polio Syndrome"
+    },
+    {
+        "Document ID": "0000861",
+        "Focus": "Suicide"
+    },
+    {
+        "Document ID": "0000875",
+        "Focus": "Teen Mental Health"
+    },
+    {
+        "Document ID": "0000685",
+        "Focus": "Pancreatic Diseases"
+    },
+    {
+        "Document ID": "0000691",
+        "Focus": "Parenting"
+    },
+    {
+        "Document ID": "0000849",
+        "Focus": "Statins"
+    },
+    {
+        "Document ID": "0000108",
+        "Focus": "Blood Sugar"
+    },
+    {
+        "Document ID": "0000646",
+        "Focus": "Neuromuscular Disorders"
+    },
+    {
+        "Document ID": "0000120",
+        "Focus": "Botulism"
+    },
+    {
+        "Document ID": "0000134",
+        "Focus": "Bruises"
+    },
+    {
+        "Document ID": "0000652",
+        "Focus": "Nursing Homes"
+    },
+    {
+        "Document ID": "0000487",
+        "Focus": "Hormones"
+    },
+    {
+        "Document ID": "0000493",
+        "Focus": "Hydrocephalus"
+    },
+    {
+        "Document ID": "0000478",
+        "Focus": "HIV/AIDS and Infections"
+    },
+    {
+        "Document ID": "0000322",
+        "Focus": "Emergency Medical Services"
+    },
+    {
+        "Document ID": "0000444",
+        "Focus": "Heart Diseases"
+    },
+    {
+        "Document ID": "0000450",
+        "Focus": "Heartburn"
+    },
+    {
+        "Document ID": "0000336",
+        "Focus": "Esophageal Cancer"
+    },
+    {
+        "Document ID": "0000451",
+        "Focus": "Heat Illness"
+    },
+    {
+        "Document ID": "0000337",
+        "Focus": "Esophagus Disorders"
+    },
+    {
+        "Document ID": "0000323",
+        "Focus": "Emphysema"
+    },
+    {
+        "Document ID": "0000445",
+        "Focus": "Heart Diseases--Prevention"
+    },
+    {
+        "Document ID": "0000479",
+        "Focus": "HIV/AIDS and Pregnancy"
+    },
+    {
+        "Document ID": "0000492",
+        "Focus": "Hurricanes"
+    },
+    {
+        "Document ID": "0000486",
+        "Focus": "Hormone Replacement Therapy"
+    },
+    {
+        "Document ID": "0000135",
+        "Focus": "Bullying"
+    },
+    {
+        "Document ID": "0000653",
+        "Focus": "Nutrition"
+    },
+    {
+        "Document ID": "0000647",
+        "Focus": "Newborn Screening"
+    },
+    {
+        "Document ID": "0000121",
+        "Focus": "Bowel Incontinence"
+    },
+    {
+        "Document ID": "0000109",
+        "Focus": "Blood Thinners"
+    },
+    {
+        "Document ID": "0000848",
+        "Focus": "Staphylococcal Infections"
+    },
+    {
+        "Document ID": "0000690",
+        "Focus": "Parathyroid Disorders"
+    },
+    {
+        "Document ID": "0000684",
+        "Focus": "Pancreatic Cancer"
+    },
+    {
+        "Document ID": "0000874",
+        "Focus": "Teen Health"
+    },
+    {
+        "Document ID": "0000860",
+        "Focus": "Sudden Infant Death Syndrome"
+    },
+    {
+        "Document ID": "0000041",
+        "Focus": "Ankle Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000727",
+        "Focus": "Polycystic Ovary Syndrome"
+    },
+    {
+        "Document ID": "0000733",
+        "Focus": "Potassium"
+    },
+    {
+        "Document ID": "0000055",
+        "Focus": "Arsenic"
+    },
+    {
+        "Document ID": "0000069",
+        "Focus": "Athlete's Foot"
+    },
+    {
+        "Document ID": "0000082",
+        "Focus": "Barotrauma"
+    },
+    {
+        "Document ID": "0000928",
+        "Focus": "Ureteral Disorders"
+    },
+    {
+        "Document ID": "0000096",
+        "Focus": "Birth Defects"
+    },
+    {
+        "Document ID": "0000900",
+        "Focus": "Toilet Training"
+    },
+    {
+        "Document ID": "0000914",
+        "Focus": "Trigeminal Neuralgia"
+    },
+    {
+        "Document ID": "0000525",
+        "Focus": "Iron"
+    },
+    {
+        "Document ID": "0000243",
+        "Focus": "CPR"
+    },
+    {
+        "Document ID": "0000257",
+        "Focus": "Degenerative Nerve Diseases"
+    },
+    {
+        "Document ID": "0000531",
+        "Focus": "Jaw Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000519",
+        "Focus": "International Health"
+    },
+    {
+        "Document ID": "0000280",
+        "Focus": "Diagnostic Imaging"
+    },
+    {
+        "Document ID": "0000294",
+        "Focus": "Divorce"
+    },
+    {
+        "Document ID": "0000290",
+        "Focus": "Disabilities"
+    },
+    {
+        "Document ID": "0000284",
+        "Focus": "Dietary Fiber"
+    },
+    {
+        "Document ID": "0000535",
+        "Focus": "Kawasaki Disease"
+    },
+    {
+        "Document ID": "0000253",
+        "Focus": "Cystic Fibrosis"
+    },
+    {
+        "Document ID": "0000247",
+        "Focus": "Critical Care"
+    },
+    {
+        "Document ID": "0000521",
+        "Focus": "Interstitial Cystitis"
+    },
+    {
+        "Document ID": "0000509",
+        "Focus": "Infection Control"
+    },
+    {
+        "Document ID": "0000092",
+        "Focus": "Biopsy"
+    },
+    {
+        "Document ID": "0000938",
+        "Focus": "Vaginal Bleeding"
+    },
+    {
+        "Document ID": "0000086",
+        "Focus": "Bell's Palsy"
+    },
+    {
+        "Document ID": "0000910",
+        "Focus": "Traumatic Brain Injury"
+    },
+    {
+        "Document ID": "0000904",
+        "Focus": "Tooth Disorders"
+    },
+    {
+        "Document ID": "0000051",
+        "Focus": "Aplastic Anemia"
+    },
+    {
+        "Document ID": "0000737",
+        "Focus": "Pregnancy"
+    },
+    {
+        "Document ID": "0000723",
+        "Focus": "Pneumonia"
+    },
+    {
+        "Document ID": "0000045",
+        "Focus": "Antibiotics"
+    },
+    {
+        "Document ID": "0000079",
+        "Focus": "Bacterial Infections"
+    },
+    {
+        "Document ID": "0000680",
+        "Focus": "Pain"
+    },
+    {
+        "Document ID": "0000858",
+        "Focus": "Stroke Rehabilitation"
+    },
+    {
+        "Document ID": "0000694",
+        "Focus": "Patient Safety"
+    },
+    {
+        "Document ID": "0000864",
+        "Focus": "Swallowing Disorders"
+    },
+    {
+        "Document ID": "0000870",
+        "Focus": "Taste and Smell Disorders"
+    },
+    {
+        "Document ID": "0000125",
+        "Focus": "Brain Diseases"
+    },
+    {
+        "Document ID": "0000643",
+        "Focus": "Neuroblastoma"
+    },
+    {
+        "Document ID": "0000657",
+        "Focus": "Obesity in Children"
+    },
+    {
+        "Document ID": "0000131",
+        "Focus": "Breastfeeding"
+    },
+    {
+        "Document ID": "0000119",
+        "Focus": "Botox"
+    },
+    {
+        "Document ID": "0000482",
+        "Focus": "Hives"
+    },
+    {
+        "Document ID": "0000496",
+        "Focus": "Hypoglycemia"
+    },
+    {
+        "Document ID": "0000441",
+        "Focus": "Hearing Problems in Children"
+    },
+    {
+        "Document ID": "0000327",
+        "Focus": "Endocrine Diseases"
+    },
+    {
+        "Document ID": "0000333",
+        "Focus": "Epilepsy"
+    },
+    {
+        "Document ID": "0000455",
+        "Focus": "Hemophilia"
+    },
+    {
+        "Document ID": "0000469",
+        "Focus": "Hiccups"
+    },
+    {
+        "Document ID": "0000468",
+        "Focus": "Hiatal Hernia"
+    },
+    {
+        "Document ID": "0000332",
+        "Focus": "Eosinophilic Disorders"
+    },
+    {
+        "Document ID": "0000454",
+        "Focus": "Hemochromatosis"
+    },
+    {
+        "Document ID": "0000440",
+        "Focus": "Hearing Disorders and Deafness"
+    },
+    {
+        "Document ID": "0000326",
+        "Focus": "Endocarditis"
+    },
+    {
+        "Document ID": "0000497",
+        "Focus": "Hypothermia"
+    },
+    {
+        "Document ID": "0000483",
+        "Focus": "Hodgkin Disease"
+    },
+    {
+        "Document ID": "0000118",
+        "Focus": "Bone Marrow Transplantation"
+    },
+    {
+        "Document ID": "0000656",
+        "Focus": "Obesity"
+    },
+    {
+        "Document ID": "0000130",
+        "Focus": "Breast Reconstruction"
+    },
+    {
+        "Document ID": "0000124",
+        "Focus": "Brain Aneurysm"
+    },
+    {
+        "Document ID": "0000642",
+        "Focus": "Neural Tube Defects"
+    },
+    {
+        "Document ID": "0000871",
+        "Focus": "Tay-Sachs Disease"
+    },
+    {
+        "Document ID": "0000865",
+        "Focus": "Sweat"
+    },
+    {
+        "Document ID": "0000695",
+        "Focus": "Pelvic Inflammatory Disease"
+    },
+    {
+        "Document ID": "0000859",
+        "Focus": "Stuttering"
+    },
+    {
+        "Document ID": "0000681",
+        "Focus": "Pain Relievers"
+    },
+    {
+        "Document ID": "0000078",
+        "Focus": "Back Pain"
+    },
+    {
+        "Document ID": "0000722",
+        "Focus": "Pneumocystis Infections"
+    },
+    {
+        "Document ID": "0000044",
+        "Focus": "Antibiotic Resistance"
+    },
+    {
+        "Document ID": "0000050",
+        "Focus": "Aphasia"
+    },
+    {
+        "Document ID": "0000736",
+        "Focus": "Prediabetes"
+    },
+    {
+        "Document ID": "0000905",
+        "Focus": "Tornadoes"
+    },
+    {
+        "Document ID": "0000911",
+        "Focus": "Traveler's Health"
+    },
+    {
+        "Document ID": "0000939",
+        "Focus": "Vaginal Cancer"
+    },
+    {
+        "Document ID": "0000087",
+        "Focus": "Benign Tumors"
+    },
+    {
+        "Document ID": "0000093",
+        "Focus": "Bipolar Disorder"
+    },
+    {
+        "Document ID": "0000508",
+        "Focus": "Infant and Newborn Nutrition"
+    },
+    {
+        "Document ID": "0000246",
+        "Focus": "Creutzfeldt-Jakob Disease"
+    },
+    {
+        "Document ID": "0000520",
+        "Focus": "Internet Safety"
+    },
+    {
+        "Document ID": "0000534",
+        "Focus": "Kaposi's Sarcoma"
+    },
+    {
+        "Document ID": "0000252",
+        "Focus": "Cushing's Syndrome"
+    },
+    {
+        "Document ID": "0000285",
+        "Focus": "Dietary Proteins"
+    },
+    {
+        "Document ID": "0000291",
+        "Focus": "Disaster Preparation and Recovery"
+    },
+    {
+        "Document ID": "0000287",
+        "Focus": "Diets"
+    },
+    {
+        "Document ID": "0000293",
+        "Focus": "Diverticulosis and Diverticulitis"
+    },
+    {
+        "Document ID": "0000522",
+        "Focus": "Interstitial Lung Diseases"
+    },
+    {
+        "Document ID": "0000244",
+        "Focus": "Craniofacial Abnormalities"
+    },
+    {
+        "Document ID": "0000250",
+        "Focus": "Cryptosporidiosis"
+    },
+    {
+        "Document ID": "0000536",
+        "Focus": "Kidney Cancer"
+    },
+    {
+        "Document ID": "0000278",
+        "Focus": "Diabetic Kidney Problems"
+    },
+    {
+        "Document ID": "0000085",
+        "Focus": "Behcet's Syndrome"
+    },
+    {
+        "Document ID": "0000091",
+        "Focus": "Biodefense and Bioterrorism"
+    },
+    {
+        "Document ID": "0000907",
+        "Focus": "Toxoplasmosis"
+    },
+    {
+        "Document ID": "0000913",
+        "Focus": "Trichomoniasis"
+    },
+    {
+        "Document ID": "0000046",
+        "Focus": "Antidepressants"
+    },
+    {
+        "Document ID": "0000720",
+        "Focus": "Pleural Disorders"
+    },
+    {
+        "Document ID": "0000734",
+        "Focus": "Prader-Willi Syndrome"
+    },
+    {
+        "Document ID": "0000052",
+        "Focus": "Appendicitis"
+    },
+    {
+        "Document ID": "0000708",
+        "Focus": "Pet Health"
+    },
+    {
+        "Document ID": "0000697",
+        "Focus": "Pelvic Support Problems"
+    },
+    {
+        "Document ID": "0000683",
+        "Focus": "Pancreas Transplantation"
+    },
+    {
+        "Document ID": "0000873",
+        "Focus": "Teen Development"
+    },
+    {
+        "Document ID": "0000867",
+        "Focus": "Syringomyelia"
+    },
+    {
+        "Document ID": "0000132",
+        "Focus": "Breathing Problems"
+    },
+    {
+        "Document ID": "0000654",
+        "Focus": "Nutrition for Seniors"
+    },
+    {
+        "Document ID": "0000898",
+        "Focus": "Toddler Nutrition"
+    },
+    {
+        "Document ID": "0000640",
+        "Focus": "Nausea and Vomiting"
+    },
+    {
+        "Document ID": "0000126",
+        "Focus": "Brain Malformations"
+    },
+    {
+        "Document ID": "0000668",
+        "Focus": "Osteonecrosis"
+    },
+    {
+        "Document ID": "0000495",
+        "Focus": "Hyperthyroidism"
+    },
+    {
+        "Document ID": "0000481",
+        "Focus": "HIV/AIDS Medicines"
+    },
+    {
+        "Document ID": "0000456",
+        "Focus": "Hemorrhagic Fevers"
+    },
+    {
+        "Document ID": "0000330",
+        "Focus": "Enlarged Prostate (BPH)"
+    },
+    {
+        "Document ID": "0000324",
+        "Focus": "Encephalitis"
+    },
+    {
+        "Document ID": "0000442",
+        "Focus": "Heart Attack"
+    },
+    {
+        "Document ID": "0000318",
+        "Focus": "Ehlers-Danlos Syndrome"
+    },
+    {
+        "Document ID": "0000319",
+        "Focus": "Elbow Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000325",
+        "Focus": "End of Life Issues"
+    },
+    {
+        "Document ID": "0000443",
+        "Focus": "Heart Disease in Women"
+    },
+    {
+        "Document ID": "0000457",
+        "Focus": "Hemorrhagic Stroke"
+    },
+    {
+        "Document ID": "0000331",
+        "Focus": "Environmental Health"
+    },
+    {
+        "Document ID": "0000480",
+        "Focus": "HIV/AIDS in Women"
+    },
+    {
+        "Document ID": "0000494",
+        "Focus": "Hyperglycemia"
+    },
+    {
+        "Document ID": "0000669",
+        "Focus": "Osteoporosis"
+    },
+    {
+        "Document ID": "0000641",
+        "Focus": "Neck Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000899",
+        "Focus": "Toe Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000127",
+        "Focus": "Brain Tumors"
+    },
+    {
+        "Document ID": "0000133",
+        "Focus": "Bronchial Disorders"
+    },
+    {
+        "Document ID": "0000655",
+        "Focus": "Nutritional Support"
+    },
+    {
+        "Document ID": "0000866",
+        "Focus": "Syphilis"
+    },
+    {
+        "Document ID": "0000872",
+        "Focus": "Tears"
+    },
+    {
+        "Document ID": "0000682",
+        "Focus": "Palliative Care"
+    },
+    {
+        "Document ID": "0000696",
+        "Focus": "Pelvic Pain"
+    },
+    {
+        "Document ID": "0000709",
+        "Focus": "Phenylketonuria"
+    },
+    {
+        "Document ID": "0000735",
+        "Focus": "Preconception Care"
+    },
+    {
+        "Document ID": "0000053",
+        "Focus": "Arm Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000047",
+        "Focus": "Antioxidants"
+    },
+    {
+        "Document ID": "0000721",
+        "Focus": "Pneumococcal Infections"
+    },
+    {
+        "Document ID": "0000912",
+        "Focus": "Tremor"
+    },
+    {
+        "Document ID": "0000906",
+        "Focus": "Tourette Syndrome"
+    },
+    {
+        "Document ID": "0000090",
+        "Focus": "Bile Duct Diseases"
+    },
+    {
+        "Document ID": "0000084",
+        "Focus": "Bedwetting"
+    },
+    {
+        "Document ID": "0000279",
+        "Focus": "Diabetic Nerve Problems"
+    },
+    {
+        "Document ID": "0000251",
+        "Focus": "CT Scans"
+    },
+    {
+        "Document ID": "0000537",
+        "Focus": "Kidney Cysts"
+    },
+    {
+        "Document ID": "0000523",
+        "Focus": "Intestinal Cancer"
+    },
+    {
+        "Document ID": "0000245",
+        "Focus": "Creatinine"
+    },
+    {
+        "Document ID": "0000292",
+        "Focus": "Dislocations"
+    },
+    {
+        "Document ID": "0000286",
+        "Focus": "Dietary Supplements"
+    },
+    {
+        "Document ID": "0000587",
+        "Focus": "Medical Device Safety"
+    },
+    {
+        "Document ID": "0000593",
+        "Focus": "Medicines and Children"
+    },
+    {
+        "Document ID": "0000578",
+        "Focus": "Male Infertility"
+    },
+    {
+        "Document ID": "0000544",
+        "Focus": "Knee Replacement"
+    },
+    {
+        "Document ID": "0000222",
+        "Focus": "Coma"
+    },
+    {
+        "Document ID": "0000236",
+        "Focus": "Corns and Calluses"
+    },
+    {
+        "Document ID": "0000550",
+        "Focus": "Learning Disorders"
+    },
+    {
+        "Document ID": "0000961",
+        "Focus": "Von Hippel-Lindau Disease"
+    },
+    {
+        "Document ID": "0000975",
+        "Focus": "Women's Health"
+    },
+    {
+        "Document ID": "0000785",
+        "Focus": "Rotator Cuff Injuries"
+    },
+    {
+        "Document ID": "0000949",
+        "Focus": "Viral Infections"
+    },
+    {
+        "Document ID": "0000791",
+        "Focus": "Salivary Gland Disorders"
+    },
+    {
+        "Document ID": "0000008",
+        "Focus": "Acute Bronchitis"
+    },
+    {
+        "Document ID": "0000020",
+        "Focus": "Alcohol"
+    },
+    {
+        "Document ID": "0000746",
+        "Focus": "Prescription Drug Abuse"
+    },
+    {
+        "Document ID": "0000752",
+        "Focus": "Prostate Diseases"
+    },
+    {
+        "Document ID": "0000034",
+        "Focus": "Anemia"
+    },
+    {
+        "Document ID": "0000815",
+        "Focus": "Sickle Cell Anemia"
+    },
+    {
+        "Document ID": "0000801",
+        "Focus": "Seasonal Affective Disorder"
+    },
+    {
+        "Document ID": "0000197",
+        "Focus": "Chronic Bronchitis"
+    },
+    {
+        "Document ID": "0000829",
+        "Focus": "Smoking and Youth"
+    },
+    {
+        "Document ID": "0000183",
+        "Focus": "Child Sexual Abuse"
+    },
+    {
+        "Document ID": "0000168",
+        "Focus": "Charcot-Marie-Tooth Disease"
+    },
+    {
+        "Document ID": "0000154",
+        "Focus": "Carotid Artery Disease"
+    },
+    {
+        "Document ID": "0000632",
+        "Focus": "Myasthenia Gravis"
+    },
+    {
+        "Document ID": "0000626",
+        "Focus": "Multiple Myeloma"
+    },
+    {
+        "Document ID": "0000140",
+        "Focus": "Campylobacter Infections"
+    },
+    {
+        "Document ID": "0000395",
+        "Focus": "Genes and Gene Therapy"
+    },
+    {
+        "Document ID": "0000381",
+        "Focus": "Fragile X Syndrome"
+    },
+    {
+        "Document ID": "0000418",
+        "Focus": "Hair Problems"
+    },
+    {
+        "Document ID": "0000430",
+        "Focus": "Health Fraud"
+    },
+    {
+        "Document ID": "0000356",
+        "Focus": "Female Infertility"
+    },
+    {
+        "Document ID": "0000342",
+        "Focus": "Eye Cancer"
+    },
+    {
+        "Document ID": "0000424",
+        "Focus": "Head Injuries"
+    },
+    {
+        "Document ID": "0000343",
+        "Focus": "Eye Diseases"
+    },
+    {
+        "Document ID": "0000425",
+        "Focus": "Head Lice"
+    },
+    {
+        "Document ID": "0000431",
+        "Focus": "Health Insurance"
+    },
+    {
+        "Document ID": "0000357",
+        "Focus": "Fetal Alcohol Spectrum Disorders"
+    },
+    {
+        "Document ID": "0000419",
+        "Focus": "Hand Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000380",
+        "Focus": "Fractures"
+    },
+    {
+        "Document ID": "0000394",
+        "Focus": "Gay, Lesbian, Bisexual and Transgender Health"
+    },
+    {
+        "Document ID": "0000627",
+        "Focus": "Multiple Sclerosis"
+    },
+    {
+        "Document ID": "0000141",
+        "Focus": "Cancer"
+    },
+    {
+        "Document ID": "0000155",
+        "Focus": "Carpal Tunnel Syndrome"
+    },
+    {
+        "Document ID": "0000633",
+        "Focus": "Mycobacterial Infections"
+    },
+    {
+        "Document ID": "0000169",
+        "Focus": "Chemical Emergencies"
+    },
+    {
+        "Document ID": "0000182",
+        "Focus": "Child Safety"
+    },
+    {
+        "Document ID": "0000196",
+        "Focus": "Choosing a Doctor or Health Care Service"
+    },
+    {
+        "Document ID": "0000828",
+        "Focus": "Smoking"
+    },
+    {
+        "Document ID": "0000800",
+        "Focus": "Scoliosis"
+    },
+    {
+        "Document ID": "0000814",
+        "Focus": "Shoulder Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000753",
+        "Focus": "Psoriasis"
+    },
+    {
+        "Document ID": "0000035",
+        "Focus": "Anesthesia"
+    },
+    {
+        "Document ID": "0000021",
+        "Focus": "Alcoholism and Alcohol Abuse"
+    },
+    {
+        "Document ID": "0000747",
+        "Focus": "Pressure Sores"
+    },
+    {
+        "Document ID": "0000009",
+        "Focus": "Acute Lymphocytic Leukemia"
+    },
+    {
+        "Document ID": "0000790",
+        "Focus": "Salivary Gland Cancer"
+    },
+    {
+        "Document ID": "0000948",
+        "Focus": "Veterans and Military Health"
+    },
+    {
+        "Document ID": "0000784",
+        "Focus": "Rosacea"
+    },
+    {
+        "Document ID": "0000974",
+        "Focus": "Winter Weather Emergencies"
+    },
+    {
+        "Document ID": "0000960",
+        "Focus": "Volcanoes"
+    },
+    {
+        "Document ID": "0000237",
+        "Focus": "Coronary Artery Bypass Surgery"
+    },
+    {
+        "Document ID": "0000551",
+        "Focus": "Leg Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000545",
+        "Focus": "Laboratory Tests"
+    },
+    {
+        "Document ID": "0000223",
+        "Focus": "Common Cold"
+    },
+    {
+        "Document ID": "0000579",
+        "Focus": "Malnutrition"
+    },
+    {
+        "Document ID": "0000592",
+        "Focus": "Medicines"
+    },
+    {
+        "Document ID": "0000586",
+        "Focus": "Medicaid"
+    },
+    {
+        "Document ID": "0000590",
+        "Focus": "Medicare Prescription Drug Coverage"
+    },
+    {
+        "Document ID": "0000584",
+        "Focus": "Mastectomy"
+    },
+    {
+        "Document ID": "0000209",
+        "Focus": "Clostridium Difficile Infections"
+    },
+    {
+        "Document ID": "0000553",
+        "Focus": "Leishmaniasis"
+    },
+    {
+        "Document ID": "0000235",
+        "Focus": "Corneal Disorders"
+    },
+    {
+        "Document ID": "0000221",
+        "Focus": "Colorectal Cancer"
+    },
+    {
+        "Document ID": "0000547",
+        "Focus": "Laser Eye Surgery"
+    },
+    {
+        "Document ID": "0000976",
+        "Focus": "Women's Health Checkup"
+    },
+    {
+        "Document ID": "0000962",
+        "Focus": "Vulvar Cancer"
+    },
+    {
+        "Document ID": "0000792",
+        "Focus": "Salmonella Infections"
+    },
+    {
+        "Document ID": "0000786",
+        "Focus": "Rotavirus Infections"
+    },
+    {
+        "Document ID": "0000779",
+        "Focus": "Rett Syndrome"
+    },
+    {
+        "Document ID": "0000037",
+        "Focus": "Angina"
+    },
+    {
+        "Document ID": "0000751",
+        "Focus": "Prostate Cancer Screening"
+    },
+    {
+        "Document ID": "0000745",
+        "Focus": "Prenatal Testing"
+    },
+    {
+        "Document ID": "0000023",
+        "Focus": "Alpha-1 Antitrypsin Deficiency"
+    },
+    {
+        "Document ID": "0000802",
+        "Focus": "Secondhand Smoke"
+    },
+    {
+        "Document ID": "0000816",
+        "Focus": "Sinusitis"
+    },
+    {
+        "Document ID": "0000180",
+        "Focus": "Child Mental Health"
+    },
+    {
+        "Document ID": "0000194",
+        "Focus": "Cholera"
+    },
+    {
+        "Document ID": "0000619",
+        "Focus": "Mood Disorders"
+    },
+    {
+        "Document ID": "0000143",
+        "Focus": "Cancer Chemotherapy"
+    },
+    {
+        "Document ID": "0000625",
+        "Focus": "MRSA"
+    },
+    {
+        "Document ID": "0000631",
+        "Focus": "Muscular Dystrophy"
+    },
+    {
+        "Document ID": "0000157",
+        "Focus": "Cat Scratch Disease"
+    },
+    {
+        "Document ID": "0000382",
+        "Focus": "Friedreich's Ataxia"
+    },
+    {
+        "Document ID": "0000396",
+        "Focus": "Genetic Brain Disorders"
+    },
+    {
+        "Document ID": "0000369",
+        "Focus": "Flu"
+    },
+    {
+        "Document ID": "0000427",
+        "Focus": "Health Checkup"
+    },
+    {
+        "Document ID": "0000341",
+        "Focus": "Exercise for Seniors"
+    },
+    {
+        "Document ID": "0000355",
+        "Focus": "Fatigue"
+    },
+    {
+        "Document ID": "0000433",
+        "Focus": "Health Occupations"
+    },
+    {
+        "Document ID": "0000354",
+        "Focus": "Farm Health and Safety"
+    },
+    {
+        "Document ID": "0000432",
+        "Focus": "Health Literacy"
+    },
+    {
+        "Document ID": "0000426",
+        "Focus": "Headache"
+    },
+    {
+        "Document ID": "0000340",
+        "Focus": "Exercise for Children"
+    },
+    {
+        "Document ID": "0000368",
+        "Focus": "Floods"
+    },
+    {
+        "Document ID": "0000397",
+        "Focus": "Genetic Counseling"
+    },
+    {
+        "Document ID": "0000383",
+        "Focus": "Frostbite"
+    },
+    {
+        "Document ID": "0000630",
+        "Focus": "Muscle Disorders"
+    },
+    {
+        "Document ID": "0000156",
+        "Focus": "Cartilage Disorders"
+    },
+    {
+        "Document ID": "0000142",
+        "Focus": "Cancer Alternative Therapies"
+    },
+    {
+        "Document ID": "0000624",
+        "Focus": "MRI Scans"
+    },
+    {
+        "Document ID": "0000618",
+        "Focus": "Monkeypox Virus Infections"
+    },
+    {
+        "Document ID": "0000195",
+        "Focus": "Cholesterol"
+    },
+    {
+        "Document ID": "0000181",
+        "Focus": "Child Nutrition"
+    },
+    {
+        "Document ID": "0000817",
+        "Focus": "Sjogren's Syndrome"
+    },
+    {
+        "Document ID": "0000803",
+        "Focus": "Seizures"
+    },
+    {
+        "Document ID": "0000744",
+        "Focus": "Prenatal Care"
+    },
+    {
+        "Document ID": "0000022",
+        "Focus": "Allergy"
+    },
+    {
+        "Document ID": "0000036",
+        "Focus": "Aneurysms"
+    },
+    {
+        "Document ID": "0000750",
+        "Focus": "Prostate Cancer"
+    },
+    {
+        "Document ID": "0000778",
+        "Focus": "Retinal Disorders"
+    },
+    {
+        "Document ID": "0000787",
+        "Focus": "Rubella"
+    },
+    {
+        "Document ID": "0000793",
+        "Focus": "Sarcoidosis"
+    },
+    {
+        "Document ID": "0000963",
+        "Focus": "Vulvar Disorders"
+    },
+    {
+        "Document ID": "0000977",
+        "Focus": "Wounds and Injuries"
+    },
+    {
+        "Document ID": "0000220",
+        "Focus": "Color Blindness"
+    },
+    {
+        "Document ID": "0000546",
+        "Focus": "Lactose Intolerance"
+    },
+    {
+        "Document ID": "0000552",
+        "Focus": "Legionnaires' Disease"
+    },
+    {
+        "Document ID": "0000234",
+        "Focus": "Coping with Disasters"
+    },
+    {
+        "Document ID": "0000208",
+        "Focus": "Cloning"
+    },
+    {
+        "Document ID": "0000585",
+        "Focus": "Measles"
+    },
+    {
+        "Document ID": "0000591",
+        "Focus": "Medication Errors"
+    },
+    {
+        "Document ID": "0000595",
+        "Focus": "Memory"
+    },
+    {
+        "Document ID": "0000581",
+        "Focus": "Managed Care"
+    },
+    {
+        "Document ID": "0000230",
+        "Focus": "Connective Tissue Disorders"
+    },
+    {
+        "Document ID": "0000556",
+        "Focus": "Lewy Body Disease"
+    },
+    {
+        "Document ID": "0000542",
+        "Focus": "Klinefelter's Syndrome"
+    },
+    {
+        "Document ID": "0000224",
+        "Focus": "Common Infant and Newborn Problems"
+    },
+    {
+        "Document ID": "0000218",
+        "Focus": "Colonic Polyps"
+    },
+    {
+        "Document ID": "0000797",
+        "Focus": "School Health"
+    },
+    {
+        "Document ID": "0000783",
+        "Focus": "Rickets"
+    },
+    {
+        "Document ID": "0000973",
+        "Focus": "Wilson Disease"
+    },
+    {
+        "Document ID": "0000967",
+        "Focus": "Water Safety (Recreational)"
+    },
+    {
+        "Document ID": "0000754",
+        "Focus": "Psoriatic Arthritis"
+    },
+    {
+        "Document ID": "0000032",
+        "Focus": "Anaphylaxis"
+    },
+    {
+        "Document ID": "0000026",
+        "Focus": "Amblyopia"
+    },
+    {
+        "Document ID": "0000740",
+        "Focus": "Pregnancy and Substance Abuse"
+    },
+    {
+        "Document ID": "0000768",
+        "Focus": "Rashes"
+    },
+    {
+        "Document ID": "0000185",
+        "Focus": "Childbirth Problems"
+    },
+    {
+        "Document ID": "0000191",
+        "Focus": "Chiropractic"
+    },
+    {
+        "Document ID": "0000807",
+        "Focus": "Sexual Assault"
+    },
+    {
+        "Document ID": "0000813",
+        "Focus": "Shock"
+    },
+    {
+        "Document ID": "0000620",
+        "Focus": "Motion Sickness"
+    },
+    {
+        "Document ID": "0000146",
+        "Focus": "Canker Sores"
+    },
+    {
+        "Document ID": "0000152",
+        "Focus": "Cardiomyopathy"
+    },
+    {
+        "Document ID": "0000634",
+        "Focus": "Myelodysplastic Syndromes"
+    },
+    {
+        "Document ID": "0000608",
+        "Focus": "Metabolic Syndrome"
+    },
+    {
+        "Document ID": "0000387",
+        "Focus": "Gallbladder Diseases"
+    },
+    {
+        "Document ID": "0000393",
+        "Focus": "Gaucher Disease"
+    },
+    {
+        "Document ID": "0000344",
+        "Focus": "Eye Infections"
+    },
+    {
+        "Document ID": "0000422",
+        "Focus": "Hazardous Waste"
+    },
+    {
+        "Document ID": "0000436",
+        "Focus": "Health Statistics"
+    },
+    {
+        "Document ID": "0000350",
+        "Focus": "Fainting"
+    },
+    {
+        "Document ID": "0000378",
+        "Focus": "Foot Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000379",
+        "Focus": "Foreign Bodies"
+    },
+    {
+        "Document ID": "0000437",
+        "Focus": "Healthy Aging"
+    },
+    {
+        "Document ID": "0000351",
+        "Focus": "Falls"
+    },
+    {
+        "Document ID": "0000345",
+        "Focus": "Eye Injuries"
+    },
+    {
+        "Document ID": "0000423",
+        "Focus": "Head and Neck Cancer"
+    },
+    {
+        "Document ID": "0000392",
+        "Focus": "Gastrointestinal Bleeding"
+    },
+    {
+        "Document ID": "0000386",
+        "Focus": "Gallbladder Cancer"
+    },
+    {
+        "Document ID": "0000609",
+        "Focus": "Methamphetamine"
+    },
+    {
+        "Document ID": "0000153",
+        "Focus": "Caregivers"
+    },
+    {
+        "Document ID": "0000635",
+        "Focus": "Myositis"
+    },
+    {
+        "Document ID": "0000621",
+        "Focus": "Motor Vehicle Safety"
+    },
+    {
+        "Document ID": "0000147",
+        "Focus": "Carbohydrates"
+    },
+    {
+        "Document ID": "0000812",
+        "Focus": "Shingles"
+    },
+    {
+        "Document ID": "0000806",
+        "Focus": "Sepsis"
+    },
+    {
+        "Document ID": "0000190",
+        "Focus": "Children's Page"
+    },
+    {
+        "Document ID": "0000184",
+        "Focus": "Childbirth"
+    },
+    {
+        "Document ID": "0000769",
+        "Focus": "Raynaud's Disease"
+    },
+    {
+        "Document ID": "0000027",
+        "Focus": "Amyloidosis"
+    },
+    {
+        "Document ID": "0000741",
+        "Focus": "Premature Babies"
+    },
+    {
+        "Document ID": "0000755",
+        "Focus": "Psychotic Disorders"
+    },
+    {
+        "Document ID": "0000033",
+        "Focus": "Anatomy"
+    },
+    {
+        "Document ID": "0000966",
+        "Focus": "Water Pollution"
+    },
+    {
+        "Document ID": "0000972",
+        "Focus": "Wilms Tumor"
+    },
+    {
+        "Document ID": "0000782",
+        "Focus": "Rheumatoid Arthritis"
+    },
+    {
+        "Document ID": "0000796",
+        "Focus": "Schizophrenia"
+    },
+    {
+        "Document ID": "0000219",
+        "Focus": "Colonoscopy"
+    },
+    {
+        "Document ID": "0000543",
+        "Focus": "Knee Injuries and Disorders"
+    },
+    {
+        "Document ID": "0000225",
+        "Focus": "Complementary and Integrative Medicine"
+    },
+    {
+        "Document ID": "0000231",
+        "Focus": "Constipation"
+    },
+    {
+        "Document ID": "0000557",
+        "Focus": "Lice"
+    },
+    {
+        "Document ID": "0000580",
+        "Focus": "Mammography"
+    },
+    {
+        "Document ID": "0000594",
+        "Focus": "Melanoma"
+    },
+    {
+        "Document ID": "0000582",
+        "Focus": "Marfan Syndrome"
+    },
+    {
+        "Document ID": "0000596",
+        "Focus": "Men's Health"
+    },
+    {
+        "Document ID": "0000227",
+        "Focus": "Compulsive Gambling"
+    },
+    {
+        "Document ID": "0000541",
+        "Focus": "Kidney Transplantation"
+    },
+    {
+        "Document ID": "0000555",
+        "Focus": "Leukodystrophies"
+    },
+    {
+        "Document ID": "0000233",
+        "Focus": "Coping with Chronic Illness"
+    },
+    {
+        "Document ID": "0000569",
+        "Focus": "Lupus"
+    },
+    {
+        "Document ID": "0000958",
+        "Focus": "Vitiligo"
+    },
+    {
+        "Document ID": "0000780",
+        "Focus": "Reye Syndrome"
+    },
+    {
+        "Document ID": "0000794",
+        "Focus": "Scabies"
+    },
+    {
+        "Document ID": "0000964",
+        "Focus": "Walking Problems"
+    },
+    {
+        "Document ID": "0000970",
+        "Focus": "West Nile Virus"
+    },
+    {
+        "Document ID": "0000743",
+        "Focus": "Premenstrual Syndrome"
+    },
+    {
+        "Document ID": "0000025",
+        "Focus": "Alzheimer's Disease"
+    },
+    {
+        "Document ID": "0000031",
+        "Focus": "Anal Disorders"
+    },
+    {
+        "Document ID": "0000757",
+        "Focus": "Pulmonary Embolism"
+    },
+    {
+        "Document ID": "0000019",
+        "Focus": "Air Pollution"
+    },
+    {
+        "Document ID": "0000192",
+        "Focus": "Chlamydia Infections"
+    },
+    {
+        "Document ID": "0000186",
+        "Focus": "Childhood Brain Tumors"
+    },
+    {
+        "Document ID": "0000838",
+        "Focus": "Spinal Cord Diseases"
+    },
+    {
+        "Document ID": "0000810",
+        "Focus": "Sexual Problems in Women"
+    },
+    {
+        "Document ID": "0000804",
+        "Focus": "Self-harm"
+    },
+    {
+        "Document ID": "0000637",
+        "Focus": "Nasal Cancer"
+    },
+    {
+        "Document ID": "0000151",
+        "Focus": "Cardiac Rehabilitation"
+    },
+    {
+        "Document ID": "0000145",
+        "Focus": "Cancer--Living with Cancer"
+    },
+    {
+        "Document ID": "0000623",
+        "Focus": "Movement Disorders"
+    },
+    {
+        "Document ID": "0000179",
+        "Focus": "Child Development"
+    },
+    {
+        "Document ID": "0000390",
+        "Focus": "Gas"
+    },
+    {
+        "Document ID": "0000384",
+        "Focus": "Fungal Infections"
+    },
+    {
+        "Document ID": "0000353",
+        "Focus": "Family Issues"
+    },
+    {
+        "Document ID": "0000435",
+        "Focus": "Health Screening"
+    },
+    {
+        "Document ID": "0000421",
+        "Focus": "Hay Fever"
+    },
+    {
+        "Document ID": "0000347",
+        "Focus": "Eye Wear"
+    },
+    {
+        "Document ID": "0000409",
+        "Focus": "Gout"
+    },
+    {
+        "Document ID": "0000408",
+        "Focus": "Gonorrhea"
+    },
+    {
+        "Document ID": "0000420",
+        "Focus": "Hantavirus Infections"
+    },
+    {
+        "Document ID": "0000346",
+        "Focus": "Eye Movement Disorders"
+    },
+    {
+        "Document ID": "0000352",
+        "Focus": "Family History"
+    },
+    {
+        "Document ID": "0000434",
+        "Focus": "Health Problems in Pregnancy"
+    },
+    {
+        "Document ID": "0000385",
+        "Focus": "G6PD Deficiency"
+    },
+    {
+        "Document ID": "0000391",
+        "Focus": "Gastroenteritis"
+    },
+    {
+        "Document ID": "0000178",
+        "Focus": "Child Dental Health"
+    },
+    {
+        "Document ID": "0000144",
+        "Focus": "Cancer in Children"
+    },
+    {
+        "Document ID": "0000622",
+        "Focus": "Mouth Disorders"
+    },
+    {
+        "Document ID": "0000636",
+        "Focus": "Nail Diseases"
+    },
+    {
+        "Document ID": "0000150",
+        "Focus": "Cardiac Arrest"
+    },
+    {
+        "Document ID": "0000805",
+        "Focus": "Seniors' Health"
+    },
+    {
+        "Document ID": "0000811",
+        "Focus": "Sexually Transmitted Diseases"
+    },
+    {
+        "Document ID": "0000187",
+        "Focus": "Childhood Immunization"
+    },
+    {
+        "Document ID": "0000839",
+        "Focus": "Spinal Cord Injuries"
+    },
+    {
+        "Document ID": "0000193",
+        "Focus": "Choking"
+    },
+    {
+        "Document ID": "0000018",
+        "Focus": "After Surgery"
+    },
+    {
+        "Document ID": "0000030",
+        "Focus": "Anal Cancer"
+    },
+    {
+        "Document ID": "0000756",
+        "Focus": "Puberty"
+    },
+    {
+        "Document ID": "0000742",
+        "Focus": "Premature Ovarian Failure"
+    },
+    {
+        "Document ID": "0000024",
+        "Focus": "Alzheimer's Caregivers"
+    },
+    {
+        "Document ID": "0000971",
+        "Focus": "Whooping Cough"
+    },
+    {
+        "Document ID": "0000965",
+        "Focus": "Warts"
+    },
+    {
+        "Document ID": "0000795",
+        "Focus": "Scars"
+    },
+    {
+        "Document ID": "0000781",
+        "Focus": "Rh Incompatibility"
+    },
+    {
+        "Document ID": "0000959",
+        "Focus": "Voice Disorders"
+    },
+    {
+        "Document ID": "0000568",
+        "Focus": "Lung Transplantation"
+    },
+    {
+        "Document ID": "0000554",
+        "Focus": "Leukemia"
+    },
+    {
+        "Document ID": "0000232",
+        "Focus": "COPD"
+    },
+    {
+        "Document ID": "0000226",
+        "Focus": "Complex Regional Pain Syndrome"
+    },
+    {
+        "Document ID": "0000540",
+        "Focus": "Kidney Stones"
+    },
+    {
+        "Document ID": "0000597",
+        "Focus": "Meniere's Disease"
+    },
+    {
+        "Document ID": "0000583",
+        "Focus": "Marijuana"
+    }
+]

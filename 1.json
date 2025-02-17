@@ -1,0 +1,466 @@
+[
+    {
+        "Document ID": "0000032_1",
+        "Focus": "Non-Small Cell Lung Cancer"
+    },
+    {
+        "Document ID": "0000014_2",
+        "Focus": "Uterine Sarcoma"
+    },
+    {
+        "Document ID": "0000016_1",
+        "Focus": "Extragonadal Germ Cell Tumors"
+    },
+    {
+        "Document ID": "0000014_3",
+        "Focus": "Endometrial Cancer"
+    },
+    {
+        "Document ID": "0000014_1",
+        "Focus": "Endometrial Cancer"
+    },
+    {
+        "Document ID": "0000032_2",
+        "Focus": "Small Cell Lung Cancer"
+    },
+    {
+        "Document ID": "0000030_1",
+        "Focus": "Plasma Cell Neoplasms (Including Multiple Myeloma)"
+    },
+    {
+        "Document ID": "0000032_3",
+        "Focus": "Lung Cancer"
+    },
+    {
+        "Document ID": "0000036_3",
+        "Focus": "Prostate Cancer"
+    },
+    {
+        "Document ID": "0000034_1",
+        "Focus": "Penile Cancer"
+    },
+    {
+        "Document ID": "0000014_4",
+        "Focus": "Endometrial Cancer"
+    },
+    {
+        "Document ID": "0000009_1",
+        "Focus": "Ewing Sarcoma"
+    },
+    {
+        "Document ID": "0000010_1",
+        "Focus": "Gastrointestinal Carcinoid Tumors"
+    },
+    {
+        "Document ID": "0000036_2",
+        "Focus": "Prostate Cancer"
+    },
+    {
+        "Document ID": "0000032_4",
+        "Focus": "Lung Cancer"
+    },
+    {
+        "Document ID": "0000009_2",
+        "Focus": "Osteosarcoma and Malignant Fibrous Histiocytoma of Bone"
+    },
+    {
+        "Document ID": "0000036_1",
+        "Focus": "Prostate Cancer"
+    },
+    {
+        "Document ID": "0000015_1",
+        "Focus": "Childhood Extracranial Germ Cell Tumors"
+    },
+    {
+        "Document ID": "0000028_1",
+        "Focus": "Skin Cancer"
+    },
+    {
+        "Document ID": "0000031_1",
+        "Focus": "Neuroblastoma"
+    },
+    {
+        "Document ID": "0000033_1",
+        "Focus": "Parathyroid Cancer"
+    },
+    {
+        "Document ID": "0000006_8",
+        "Focus": "Childhood Craniopharyngioma"
+    },
+    {
+        "Document ID": "0000028_2",
+        "Focus": "Melanoma"
+    },
+    {
+        "Document ID": "0000037_4",
+        "Focus": "Colorectal Cancer"
+    },
+    {
+        "Document ID": "0000028_3",
+        "Focus": "Merkel Cell Carcinoma"
+    },
+    {
+        "Document ID": "0000006_9",
+        "Focus": "Childhood Ependymoma"
+    },
+    {
+        "Document ID": "0000017_1",
+        "Focus": "Intraocular (Uveal) Melanoma"
+    },
+    {
+        "Document ID": "0000031_2",
+        "Focus": "Neuroblastoma"
+    },
+    {
+        "Document ID": "0000013_1",
+        "Focus": "Myelodysplastic Syndromes"
+    },
+    {
+        "Document ID": "0000037_1",
+        "Focus": "Colon Cancer"
+    },
+    {
+        "Document ID": "0000024_10",
+        "Focus": "Oral Cavity and Oropharyngeal Cancer"
+    },
+    {
+        "Document ID": "0000035_1",
+        "Focus": "Pituitary Tumors"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Chronic Myeloproliferative Neoplasms"
+    },
+    {
+        "Document ID": "0000028_4",
+        "Focus": "Skin Cancer"
+    },
+    {
+        "Document ID": "0000037_3",
+        "Focus": "Colorectal Cancer"
+    },
+    {
+        "Document ID": "0000024_9",
+        "Focus": "Oral Cavity and Oropharyngeal Cancer"
+    },
+    {
+        "Document ID": "0000024_8",
+        "Focus": "Salivary Gland Cancer"
+    },
+    {
+        "Document ID": "0000037_2",
+        "Focus": "Rectal Cancer"
+    },
+    {
+        "Document ID": "0000028_5",
+        "Focus": "Skin Cancer"
+    },
+    {
+        "Document ID": "0000013_3",
+        "Focus": "Myelodysplastic/ Myeloproliferative Neoplasms"
+    },
+    {
+        "Document ID": "0000019_5",
+        "Focus": "Ovarian, Fallopian Tube, and Primary Peritoneal Cancer"
+    },
+    {
+        "Document ID": "0000006_2",
+        "Focus": "Childhood Brain and Spinal Cord Tumors"
+    },
+    {
+        "Document ID": "0000020_1",
+        "Focus": "Gallbladder Cancer"
+    },
+    {
+        "Document ID": "0000024_5",
+        "Focus": "Nasopharyngeal Cancer"
+    },
+    {
+        "Document ID": "0000039_1",
+        "Focus": "Small Intestine Cancer"
+    },
+    {
+        "Document ID": "0000024_4",
+        "Focus": "Metastatic Squamous Neck Cancer with Occult Primary"
+    },
+    {
+        "Document ID": "0000006_3",
+        "Focus": "Childhood Astrocytomas"
+    },
+    {
+        "Document ID": "0000019_4",
+        "Focus": "Ovarian, Fallopian Tube, and Primary Peritoneal Cancer"
+    },
+    {
+        "Document ID": "0000004_1",
+        "Focus": "Adult Hodgkin Lymphoma"
+    },
+    {
+        "Document ID": "0000041_1",
+        "Focus": "Urethral Cancer"
+    },
+    {
+        "Document ID": "0000004_3",
+        "Focus": "AIDS-Related Lymphoma"
+    },
+    {
+        "Document ID": "0000006_1",
+        "Focus": "Adult Central Nervous System Tumors"
+    },
+    {
+        "Document ID": "0000043_1",
+        "Focus": "Vulvar Cancer"
+    },
+    {
+        "Document ID": "0000024_6",
+        "Focus": "Oropharyngeal Cancer"
+    },
+    {
+        "Document ID": "0000024_7",
+        "Focus": "Paranasal Sinus and Nasal Cavity Cancer"
+    },
+    {
+        "Document ID": "0000013_3",
+        "Focus": "Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable"
+    },
+    {
+        "Document ID": "0000004_2",
+        "Focus": "Adult Non-Hodgkin Lymphoma"
+    },
+    {
+        "Document ID": "0000022_1",
+        "Focus": "Gestational Trophoblastic Disease"
+    },
+    {
+        "Document ID": "0000004_6",
+        "Focus": "Childhood Hodgkin Lymphoma"
+    },
+    {
+        "Document ID": "0000019_3",
+        "Focus": "Ovarian Low Malignant Potential Tumors"
+    },
+    {
+        "Document ID": "0000006_4",
+        "Focus": "Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor"
+    },
+    {
+        "Document ID": "0000026_1",
+        "Focus": "Renal Cell Cancer"
+    },
+    {
+        "Document ID": "0000024_3",
+        "Focus": "Lip and Oral Cavity Cancer"
+    },
+    {
+        "Document ID": "0000024_2",
+        "Focus": "Laryngeal Cancer"
+    },
+    {
+        "Document ID": "0000006_5",
+        "Focus": "Childhood Brain Stem Glioma"
+    },
+    {
+        "Document ID": "0000019_2",
+        "Focus": "Ovarian Germ Cell Tumors"
+    },
+    {
+        "Document ID": "0000013_3",
+        "Focus": "Chronic Myelomonocytic Leukemia"
+    },
+    {
+        "Document ID": "0000004_7",
+        "Focus": "Childhood Non-Hodgkin Lymphoma"
+    },
+    {
+        "Document ID": "0000004_5",
+        "Focus": "Primary CNS Lymphoma"
+    },
+    {
+        "Document ID": "0000013_3",
+        "Focus": "Atypical Chronic Myelogenous Leukemia"
+    },
+    {
+        "Document ID": "0000006_7",
+        "Focus": "Childhood Central Nervous System Germ Cell Tumors"
+    },
+    {
+        "Document ID": "0000026_2",
+        "Focus": "Transitional Cell Cancer of the Renal Pelvis and Ureter"
+    },
+    {
+        "Document ID": "0000024_1",
+        "Focus": "Hypopharyngeal Cancer"
+    },
+    {
+        "Document ID": "0000026_3",
+        "Focus": "Wilms Tumor and Other Childhood Kidney Tumors"
+    },
+    {
+        "Document ID": "0000006_6",
+        "Focus": "Childhood Central Nervous System Embryonal Tumors"
+    },
+    {
+        "Document ID": "0000013_3",
+        "Focus": "Juvenile Myelomonocytic Leukemia"
+    },
+    {
+        "Document ID": "0000019_1",
+        "Focus": "Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer"
+    },
+    {
+        "Document ID": "0000004_4",
+        "Focus": "Mycosis Fungoides and the Szary Syndrome"
+    },
+    {
+        "Document ID": "0000003_5",
+        "Focus": "Childhood Soft Tissue Sarcoma"
+    },
+    {
+        "Document ID": "0000001_7",
+        "Focus": "Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies"
+    },
+    {
+        "Document ID": "0000027_4",
+        "Focus": "Breast Cancer"
+    },
+    {
+        "Document ID": "0000021_2",
+        "Focus": "Testicular Cancer"
+    },
+    {
+        "Document ID": "0000007_1",
+        "Focus": "Adult Primary Liver Cancer"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Chronic Eosinophilic Leukemia"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Chronic Neutrophilic Leukemia"
+    },
+    {
+        "Document ID": "0000005_2",
+        "Focus": "Anal Cancer"
+    },
+    {
+        "Document ID": "0000023_1",
+        "Focus": "Langerhans Cell Histiocytosis"
+    },
+    {
+        "Document ID": "0000027_5",
+        "Focus": "Breast Cancer"
+    },
+    {
+        "Document ID": "0000001_6",
+        "Focus": "Childhood Acute Lymphoblastic Leukemia"
+    },
+    {
+        "Document ID": "0000003_4",
+        "Focus": "Childhood Rhabdomyosarcoma"
+    },
+    {
+        "Document ID": "0000003_6",
+        "Focus": "Childhood Vascular Tumors"
+    },
+    {
+        "Document ID": "0000001_4",
+        "Focus": "Chronic Myelogenous Leukemia"
+    },
+    {
+        "Document ID": "0000007_2",
+        "Focus": "Bile Duct Cancer (Cholangiocarcinoma)"
+    },
+    {
+        "Document ID": "0000021_1",
+        "Focus": "Testicular Cancer"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Chronic Myelogenous Leukemia"
+    },
+    {
+        "Document ID": "0000040_1",
+        "Focus": "Thymoma and Thymic Carcinoma"
+    },
+    {
+        "Document ID": "0000005_1",
+        "Focus": "Anal Cancer"
+    },
+    {
+        "Document ID": "0000007_3",
+        "Focus": "Childhood Liver Cancer"
+    },
+    {
+        "Document ID": "0000001_5",
+        "Focus": "Hairy Cell Leukemia"
+    },
+    {
+        "Document ID": "0000003_3",
+        "Focus": "Kaposi Sarcoma"
+    },
+    {
+        "Document ID": "0000027_2",
+        "Focus": "Male Breast Cancer"
+    },
+    {
+        "Document ID": "0000001_1",
+        "Focus": "Adult Acute Lymphoblastic Leukemia"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Essential Thrombocythemia"
+    },
+    {
+        "Document ID": "0000018_1",
+        "Focus": "Retinoblastoma"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Primary Myelofibrosis"
+    },
+    {
+        "Document ID": "0000027_3",
+        "Focus": "Breast Cancer"
+    },
+    {
+        "Document ID": "0000003_2",
+        "Focus": "Gastrointestinal Stromal Tumors"
+    },
+    {
+        "Document ID": "0000025_1",
+        "Focus": "Pancreatic Cancer"
+    },
+    {
+        "Document ID": "0000001_2",
+        "Focus": "Adult Acute Myeloid Leukemia"
+    },
+    {
+        "Document ID": "0000027_1",
+        "Focus": "Breast Cancer"
+    },
+    {
+        "Document ID": "0000007_4",
+        "Focus": "Liver (Hepatocellular) Cancer"
+    },
+    {
+        "Document ID": "0000013_2",
+        "Focus": "Polycythemia Vera"
+    },
+    {
+        "Document ID": "0000007_5",
+        "Focus": "Liver (Hepatocellular) Cancer"
+    },
+    {
+        "Document ID": "0000001_3",
+        "Focus": "Chronic Lymphocytic Leukemia"
+    },
+    {
+        "Document ID": "0000025_2",
+        "Focus": "Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)"
+    },
+    {
+        "Document ID": "0000003_1",
+        "Focus": "Adult Soft Tissue Sarcoma"
+    }
+]
